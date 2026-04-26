@@ -1,0 +1,40 @@
+# R default
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Build / check
+*.tar.gz
+*.Rcheck/
+
+# knitr / markdown
+*_cache/
+/cache/
+*.utf8.md
+*.knit.md
+
+# R environment
+.Renviron
+.env
+
+# OAuth
+.httr-oauth
+
+# pkgdown
+docs/
+
+# RStudio connect
+rsconnect/
+
+# Project-specific
+data_raw/
+output/*.csv
+output/*.rds
+
+# OS files
+.DS_Store
+Thumbs.db
