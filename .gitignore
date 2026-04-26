@@ -1,4 +1,6 @@
+# =========================
 # R default
+# =========================
 .Rhistory
 .Rapp.history
 .RData
@@ -7,34 +9,51 @@
 .Rproj.user/
 *.Rproj
 
+# =========================
 # Build / check
+# =========================
 *.tar.gz
 *.Rcheck/
 
+# =========================
 # knitr / markdown
+# =========================
 *_cache/
 /cache/
 *.utf8.md
 *.knit.md
 
-# R environment
+# =========================
+# Environment / secrets
+# =========================
 .Renviron
 .env
-
-# OAuth
 .httr-oauth
 
-# pkgdown
+# =========================
+# pkgdown / deploy
+# =========================
 docs/
-
-# RStudio connect
 rsconnect/
 
+# =========================
 # Project-specific
-data_raw/
+# =========================
+
+# Raw data: keep folder, ignore contents
+data_raw/*
+!data_raw/.gitkeep
+
+# Clean data (optional, keep small files only)
+data_clean/*.csv
+data_clean/*.rds
+
+# Output files
 output/*.csv
 output/*.rds
 
+# =========================
 # OS files
+# =========================
 .DS_Store
 Thumbs.db
