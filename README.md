@@ -1,26 +1,55 @@
-# ISA401-final-project-JunheYang-RuoyiYao
+# ISA 401 Final Project: U.S. Job Market Skill and Salary Analysis
 
 ## Project Overview
-This project investigates factors influencing Airbnb pricing and demand in Ohio.
 
-## Data Sources
-- Inside Airbnb dataset
-- Weather API
-- Review data (LLM extraction)
+This project investigates how required skills and job characteristics influence job demand and salary levels in business analytics-related roles in the U.S. job market.
 
-## Workflow
-1. Data acquisition (API, scraping, extraction)
-2. Data cleaning and transformation
-3. Data merging
-4. Data validation
-5. Dashboard visualization (Tableau)
+The goal of this project is to build a multi-source dataset from real-world data, clean and integrate the data in R, validate the final dataset, and communicate the findings through a Tableau or Power BI dashboard.
+
+## Research Question
+
+How do required skills and job characteristics influence salary levels and job demand in business analytics-related roles?
+
+## Why This Topic Matters
+
+Business analytics students and job seekers need to understand which skills are most valued in the labor market. Employers also need to understand how skill requirements vary across job titles, locations, and salary levels. This project uses current job market data to identify patterns in skill demand, salary differences, and job characteristics.
+
+## Planned Data Sources
+
+| Data Source | Acquisition Method | Purpose |
+|---|---|---|
+| Job posting website, such as Indeed or another public job board | Web scraping | Collect job titles, companies, locations, salary information, and job descriptions |
+| U.S. Bureau of Labor Statistics or another labor market API | API access | Collect benchmark wage or employment data by occupation or location |
+| Job descriptions from collected postings | LLM-based structured extraction | Extract required skills, tools, experience level, and job categories from unstructured text |
+
+## Technical Workflow
+
+All core data work will be completed in R.
+
+The planned workflow includes:
+
+1. Acquire job posting data from real-world sources
+2. Use an API to collect external labor market data
+3. Use an LLM to extract structured skill information from job descriptions
+4. Clean and standardize job titles, locations, salaries, and descriptions
+5. Merge job posting data with external labor market data
+6. Validate the final merged dataset
+7. Create descriptive summaries and exploratory analysis
+8. Build a final dashboard in Tableau or Power BI
 
 ## Repository Structure
-- scripts/: R scripts for data pipeline
-- data_raw/: raw data
-- data_clean/: processed data
-- output/: final dataset
-- dashboard/: Tableau/Power BI files
 
-## Reproducibility
-All scripts are organized to allow full pipeline reproduction.
+```text
+isa401-final-project/
+├── README.md
+├── scripts/
+│   ├── 01_acquire_data.R
+│   ├── 02_clean_data.R
+│   ├── 03_extract_skills.R
+│   ├── 04_merge_data.R
+│   ├── 05_validate_data.R
+│   └── 06_eda.R
+├── data_raw/
+├── data_clean/
+├── output/
+└── dashboard/
