@@ -18,9 +18,12 @@ Business analytics students and job seekers need to understand which skills are 
 
 | Data Source | Acquisition Method | Purpose |
 |---|---|---|
-| Job posting website, such as Indeed or another public job board | Web scraping | Collect job titles, companies, locations, salary information, and job descriptions |
-| U.S. Bureau of Labor Statistics or another labor market API | API access | Collect benchmark wage or employment data by occupation or location |
-| Job descriptions from collected postings | LLM-based structured extraction | Extract required skills, tools, experience level, and job categories from unstructured text |
+| USAJOBS API | API access | Collect job posting data, including job titles, agencies, locations, salary ranges, posting dates, and job links |
+| U.S. Census ACS via tidycensus | API access | Collect state-level economic indicators, including median household income and poverty rate |
+| U.S. Bureau of Labor Statistics (BLS) | API access | Collect labor market benchmark data, such as occupational wage or employment information |
+| Job descriptions from USAJOBS postings | LLM-based structured extraction | Extract required skills, tools, experience level, and job categories from unstructured job description text |
+
+The LLM-based structured extraction step is not counted as a separate data source. Instead, it is used as a second acquisition and transformation method to convert unstructured job description text into structured skill variables.
 
 ## Technical Workflow
 
@@ -36,6 +39,11 @@ The planned workflow includes:
 6. Validate the final merged dataset
 7. Create descriptive summaries and exploratory analysis
 8. Build a final dashboard in Tableau or Power BI
+
+
+## API Credential Management
+
+API credentials are not stored in the GitHub repository. Required API keys are stored locally in a `.Renviron` file and loaded in R using `Sys.getenv()`. This protects sensitive credentials while keeping the data pipeline reproducible for users who provide their own API keys.
 
 ## API Access
 
