@@ -29,7 +29,10 @@ if (BLS_KEY == "") {
 # -------------------------------
 # State FIPS lookup
 # BLS LAUS state unemployment rate series format:
-# LASST + state FIPS + 0000000000003
+# LAUST + state FIPS + 0000000000003
+#
+# LAUST = not seasonally adjusted
+# 03 = unemployment rate
 # -------------------------------
 state_lookup <- tibble(
   state = c(
@@ -62,11 +65,12 @@ state_lookup <- tibble(
   )
 ) |>
   mutate(
-    series_id = paste0("LASST", state_fips, "0000000000003")
+    series_id = paste0("LAUST", state_fips, "0000000000003")
   )
 
 # -------------------------------
 # Split series IDs into batches
+# BLS API allows up to 25 series per request with a key
 # -------------------------------
 series_batches <- split(
   state_lookup$series_id,
@@ -198,7 +202,20 @@ write_csv(
 )
 
 # -------------------------------
+# Check missing states
+# -------------------------------
+missing_states <- state_lookup |>
+  anti_join(
+    bls_laus_state_avg |> select(state),
+    by = "state"
+  )
+
+# -------------------------------
 # Preview results
 # -------------------------------
 print(bls_laus_clean)
 print(bls_laus_state_avg)
+
+cat("\nNumber of states/areas in final table:", nrow(bls_laus_state_avg), "\n")
+cat("\nMissing states/areas:\n")
+print(missing_states)
