@@ -25,6 +25,12 @@ Business analytics students and job seekers need to understand which skills are 
 
 The LLM-based structured extraction step is not counted as a separate data source. Instead, it is used as a second acquisition and transformation method to convert unstructured job description text into structured skill variables.
 
+## Role of External Economic Data
+
+State-level economic data from the U.S. Census is used to provide context for job market analysis.
+
+This allows the project to examine whether salary differences across job postings are influenced not only by required skills, but also by underlying regional economic conditions such as income levels and poverty rates.
+
 ## Technical Workflow
 
 All core data work will be completed in R.
