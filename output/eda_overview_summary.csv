@@ -1,0 +1,2 @@
+total_postings,unique_companies,unique_states,avg_salary,median_salary,min_salary,max_salary,avg_skill_count,median_skill_count,rows_with_state,rows_missing_state,rows_with_census,rows_with_bls
+2983,1156,49,101850.72632249413,101850.72632249413,101850.72632249413,101850.72632249413,1.2303050620181026,1,2819,164,2819,2808

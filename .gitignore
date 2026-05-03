@@ -44,13 +44,11 @@ rsconnect/
 data_raw/*
 !data_raw/.gitkeep
 
-# Clean data (optional, keep small files only)
-data_clean/*.csv
-data_clean/*.rds
-
-# Output files
-output/*.csv
-output/*.rds
+# Cleaned datasets and output summaries are included in the repository
+# data_clean/*.csv
+# data_clean/*.rds
+# output/*.csv
+# output/*.rds
 
 # =========================
 # OS files

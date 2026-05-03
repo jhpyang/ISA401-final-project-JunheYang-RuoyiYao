@@ -1,0 +1,2 @@
+total_rows,rows_with_state,rows_missing_state,rows_with_census,rows_missing_census,rows_with_bls,rows_missing_bls,state_coverage_rate,census_merge_rate,bls_merge_rate
+2983,2819,164,2819,164,2808,175,0.9450217901441502,0.9450217901441502,0.9413342272879651

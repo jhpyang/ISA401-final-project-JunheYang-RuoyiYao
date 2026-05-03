@@ -1,0 +1,61 @@
+llm_role_category_clean,llm_experience_level,n,role_total,experience_share
+Analytics Manager,manager,232,241,0.9626556016597511
+Business Intelligence,entry,208,253,0.8221343873517787
+Operations Analyst,unspecified,204,257,0.7937743190661478
+Business Analyst,mid,174,267,0.651685393258427
+Data Engineer,mid,160,260,0.6153846153846154
+Financial Analyst,mid,134,296,0.4527027027027027
+Reporting Analyst,mid,110,213,0.5164319248826291
+Product Analyst,mid,108,245,0.44081632653061226
+Data Scientist,unspecified,103,247,0.41700404858299595
+Data Analyst,mid,96,224,0.42857142857142855
+Financial Analyst,entry,96,296,0.32432432432432434
+Reporting Analyst,senior,90,213,0.4225352112676056
+Data Scientist,senior,76,247,0.3076923076923077
+Market Research Analyst,mid,66,188,0.35106382978723405
+Database Role,mid,61,157,0.3885350318471338
+Market Research Analyst,senior,60,188,0.3191489361702128
+Data Engineer,senior,58,260,0.2230769230769231
+Financial Analyst,senior,55,296,0.1858108108108108
+Database Role,senior,54,157,0.34394904458598724
+Other Data/Analytics Role,unspecified,53,135,0.3925925925925926
+Product Analyst,unspecified,52,245,0.21224489795918366
+Business Analyst,unspecified,50,267,0.18726591760299627
+Product Analyst,senior,50,245,0.20408163265306123
+Data Scientist,mid,46,247,0.1862348178137652
+Market Research Analyst,entry,45,188,0.2393617021276596
+Data Analyst,entry,44,224,0.19642857142857142
+Data Analyst,senior,40,224,0.17857142857142858
+Data Analyst,unspecified,36,224,0.16071428571428573
+Operations Analyst,mid,36,257,0.14007782101167315
+Other Data/Analytics Role,mid,35,135,0.25925925925925924
+Product Analyst,entry,33,245,0.1346938775510204
+Business Intelligence,mid,28,253,0.11067193675889328
+Other Data/Analytics Role,manager,28,135,0.2074074074074074
+Database Role,unspecified,27,157,0.17197452229299362
+Business Analyst,entry,24,267,0.0898876404494382
+Data Engineer,manager,21,260,0.08076923076923077
+Business Analyst,senior,19,267,0.07116104868913857
+Market Research Analyst,unspecified,17,188,0.09042553191489362
+Data Engineer,entry,16,260,0.06153846153846154
+Data Scientist,entry,12,247,0.048582995951417005
+Other Data/Analytics Role,senior,12,135,0.08888888888888889
+Reporting Analyst,unspecified,12,213,0.056338028169014086
+Operations Analyst,entry,11,257,0.042801556420233464
+Business Intelligence,senior,10,253,0.039525691699604744
+Data Scientist,manager,10,247,0.04048582995951417
+Data Analyst,manager,8,224,0.03571428571428571
+Database Role,manager,8,157,0.050955414012738856
+Financial Analyst,unspecified,8,296,0.02702702702702703
+Database Role,entry,7,157,0.044585987261146494
+Other Data/Analytics Role,entry,7,135,0.05185185185185185
+Analytics Manager,senior,5,241,0.02074688796680498
+Business Intelligence,manager,5,253,0.019762845849802372
+Data Engineer,unspecified,5,260,0.019230769230769232
+Operations Analyst,senior,5,257,0.019455252918287938
+Analytics Manager,mid,4,241,0.016597510373443983
+Financial Analyst,manager,3,296,0.010135135135135136
+Business Intelligence,unspecified,2,253,0.007905138339920948
+Product Analyst,manager,2,245,0.00816326530612245
+Operations Analyst,manager,1,257,0.0038910505836575876
+Reporting Analyst,entry,1,213,0.004694835680751174

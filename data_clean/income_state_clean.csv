@@ -1,0 +1,53 @@
+state_fips,state_name,median_household_income,income_moe
+01,Alabama,62027,400
+02,Alaska,89336,1374
+04,Arizona,76872,414
+05,Arkansas,58773,503
+06,California,96334,298
+08,Colorado,92470,483
+09,Connecticut,93760,669
+10,Delaware,82855,1234
+11,District of Columbia,106287,1803
+12,Florida,71711,282
+13,Georgia,74664,431
+15,Hawaii,98317,980
+16,Idaho,74636,877
+17,Illinois,81702,363
+18,Indiana,70051,293
+19,Iowa,73147,438
+20,Kansas,72639,453
+21,Kentucky,62417,401
+22,Louisiana,60023,491
+23,Maine,71773,660
+24,Maryland,101652,518
+25,Massachusetts,101341,539
+26,Michigan,71149,286
+27,Minnesota,87556,396
+28,Mississippi,54915,586
+29,Missouri,68920,368
+30,Montana,69922,768
+31,Nebraska,74985,575
+32,Nevada,75561,714
+33,New Hampshire,95628,1073
+34,New Jersey,101050,527
+35,New Mexico,62125,608
+36,New York,84578,372
+37,North Carolina,69904,346
+38,North Dakota,75949,1002
+39,Ohio,69680,287
+40,Oklahoma,63603,419
+41,Oregon,80426,573
+42,Pennsylvania,76081,310
+44,Rhode Island,86372,1274
+45,South Carolina,66818,504
+46,South Dakota,72421,805
+47,Tennessee,67097,360
+48,Texas,76292,265
+49,Utah,91750,634
+50,Vermont,78024,1357
+51,Virginia,90974,485
+53,Washington,94952,476
+54,West Virginia,57917,607
+55,Wisconsin,75670,402
+56,Wyoming,74815,1225
+72,Puerto Rico,25096,232
