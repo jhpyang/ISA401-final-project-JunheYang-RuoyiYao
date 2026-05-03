@@ -37,6 +37,19 @@ The planned workflow includes:
 7. Create descriptive summaries and exploratory analysis
 8. Build a final dashboard in Tableau or Power BI
 
+## API Access
+
+This project uses external APIs (e.g., USAJOBS and Census API).
+
+To reproduce the data acquisition process, users must:
+
+1. Obtain their own API keys
+2. Store them in a `.Renviron` file:
+   USAJOBS_KEY=your_key
+   USAJOBS_EMAIL=your_email
+
+API credentials are not included in this repository for security reasons.
+
 ## Repository Structure
 
 ```text
