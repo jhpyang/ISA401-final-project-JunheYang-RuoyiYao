@@ -223,42 +223,70 @@ isa401-final-project/
 
 ## Dashboard Plan
 
-The final dashboard will communicate the main findings through several views:
+The final dashboard will focus on three main views.
 
 ### 1. Job Market Overview
 
-- Total postings
-- Average salary
-- Role distribution
-- Top states and companies
+This view summarizes the overall job posting dataset.
 
-### 2. Skill Demand Analysis
+Planned metrics and visuals:
+
+- Total job postings
+- Average posting salary
+- Number of unique companies
+- Role category distribution
+- Top states by number of postings
+
+Main data files:
+
+```text
+data_clean/final_merged_data.csv
+output/eda_overview_summary.csv
+output/eda_role_salary_summary.csv
+output/eda_state_salary_summary.csv
+```
+
+### 2. Skill and Salary Analysis
+
+This view examines which skills appear most often and how salary differs by skill and role type.
+
+Planned metrics and visuals:
 
 - Most common skills
-- Skill frequency by role category
-- Salary patterns by skill
-
-### 3. Salary by Role and Experience
-
-- Average salary by LLM-classified role category
+- Average salary by skill
+- Average salary by role category
 - Average salary by experience level
-- Skill count by role and experience level
 
-### 4. State-Level Market Context
+Main data files:
 
-- Postings by state
+```text
+output/eda_skill_salary_summary.csv
+output/eda_role_salary_summary.csv
+output/eda_experience_salary_summary.csv
+output/eda_skill_by_role.csv
+```
+
+### 3. State-Level Market Context
+
+This view connects job postings with state-level economic and labor market indicators.
+
+Planned metrics and visuals:
+
+- Job postings by state
 - Average salary by state
-- Census median household income
-- Census poverty rate
-- BLS unemployment rate
+- Median household income by state
+- Poverty rate by state
+- BLS unemployment rate by state
 
-### 5. Data Quality and Methodology
+Main data files:
 
-- Data sources
-- Merge validation
-- Missing state count
-- LLM classification coverage
+```text
+output/eda_state_salary_summary.csv
+output/eda_state_labor_context.csv
+data_clean/final_merged_data.csv
+```
 
+The dashboard will prioritize clear visual summaries rather than showing every variable in the dataset. Data quality and methodology details will be discussed in the report or presentation rather than as a separate dashboard page.
 ## Limitations
 
 This project uses job postings collected from Adzuna rather than all job postings in the U.S. labor market. Therefore, the results should be interpreted as patterns in the collected Adzuna job posting sample rather than a complete census of all U.S. data and analytics jobs.
