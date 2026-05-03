@@ -56,12 +56,13 @@ API credentials are not included in this repository for security reasons.
 isa401-final-project/
 ├── README.md
 ├── scripts/
-│   ├── 01_acquire_data.R
-│   ├── 02_clean_data.R
-│   ├── 03_extract_skills.R
-│   ├── 04_merge_data.R
-│   ├── 05_validate_data.R
-│   └── 06_eda.R
+├── 01_acquire_usajobs.R
+├── 02_acquire_census_data.R
+├── 03_clean_data.R
+├── 04_extract_skills.R
+├── 05_merge_data.R
+├── 06_validate_data.R
+└── 07_eda.R
 ├── data_raw/
 ├── data_clean/
 ├── output/
