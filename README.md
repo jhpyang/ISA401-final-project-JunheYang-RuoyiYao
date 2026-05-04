@@ -90,9 +90,23 @@ The final dataset is saved as:
 data_clean/final_merged_data.csv
 ```
 
-## Key Validation Results
+## Data Validation Table
 
-The final dataset passed the main validation checks.
+The project includes several validation outputs for the final merged dataset. These validation tables check for duplicate job IDs, missing values, salary errors, invalid categories, and failed joins.
+
+Key validation files include:
+
+- `output/validation_status.csv`
+- `output/data_validation_summary.csv`
+- `output/merge_validation.csv`
+- `output/duplicate_job_check.csv`
+- `output/salary_validation_summary.csv`
+- `output/unusual_salary_rows.csv`
+- `output/unmatched_census_states.csv`
+- `output/unmatched_bls_states.csv`
+- `output/llm_validation_summary.csv`
+
+The validation process found no duplicate job IDs, no missing salary values, and complete LLM role and experience classification coverage. The main data quality issues were 164 postings without a clear state-level location and one unmatched BLS state, Wyoming.
 
 | Validation Check | Result |
 |---|---:|
