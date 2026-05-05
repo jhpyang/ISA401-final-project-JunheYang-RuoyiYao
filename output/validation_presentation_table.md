@@ -1,0 +1,13 @@
+| Section | Check | Result | Interpretation |
+|---|---|---:|---|
+| Final Dataset | Total rows | 2,983 | Final merged dataset size |
+| Final Dataset | Total columns | 54 | Final number of variables |
+| Duplicate Check | Duplicate job IDs | 0 | No duplicate job postings |
+| Salary Check | Rows with salary | 2,983 | All postings have salary values |
+| Salary Check | Missing salary rows | 0 | No salary values are missing |
+| Skill Extraction | Rows with keyword skill variables | 2,983 | Skill extraction covers all rows |
+| LLM Classification | Rows with LLM role classification | 2,983 | LLM role classification covers all rows |
+| LLM Classification | Rows with LLM experience classification | 2,983 | LLM experience classification covers all rows |
+| State Merge | Rows matched with Census | 2,819 | Rows successfully matched to Census state data |
+| State Merge | Rows matched with BLS | 2,808 | Rows successfully matched to BLS unemployment data |
+| State Merge | Rows missing state | 164 | Postings without clear state-level location |

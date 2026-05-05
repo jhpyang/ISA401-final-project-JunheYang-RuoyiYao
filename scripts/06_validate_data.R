@@ -377,4 +377,98 @@ print(llm_validation_summary)
 cat("\nValidation status:\n")
 print(validation_status)
 
+# -------------------------------
+# Presentation-friendly validation table
+# -------------------------------
+
+validation_presentation_table <- tibble(
+  Section = c(
+    "Final Dataset",
+    "Final Dataset",
+    "Duplicate Check",
+    "Salary Check",
+    "Salary Check",
+    "Skill Extraction",
+    "LLM Classification",
+    "LLM Classification",
+    "State Merge",
+    "State Merge",
+    "State Merge"
+  ),
+  Check = c(
+    "Total rows",
+    "Total columns",
+    "Duplicate job IDs",
+    "Rows with salary",
+    "Missing salary rows",
+    "Rows with keyword skill variables",
+    "Rows with LLM role classification",
+    "Rows with LLM experience classification",
+    "Rows matched with Census",
+    "Rows matched with BLS",
+    "Rows missing state"
+  ),
+  Result = c(
+    "2,983",
+    "54",
+    "0",
+    "2,983",
+    "0",
+    "2,983",
+    "2,983",
+    "2,983",
+    "2,819",
+    "2,808",
+    "164"
+  ),
+  Interpretation = c(
+    "Final merged dataset size",
+    "Final number of variables",
+    "No duplicate job postings",
+    "All postings have salary values",
+    "No salary values are missing",
+    "Skill extraction covers all rows",
+    "LLM role classification covers all rows",
+    "LLM experience classification covers all rows",
+    "Rows successfully matched to Census state data",
+    "Rows successfully matched to BLS unemployment data",
+    "Postings without clear state-level location"
+  )
+)
+
+write_csv(
+  validation_presentation_table,
+  "output/validation_presentation_table.csv"
+)
+
+# Optional: markdown-style table for README or slides notes
+validation_presentation_table_md <- validation_presentation_table |>
+  mutate(
+    line = paste0(
+      "| ",
+      Section,
+      " | ",
+      Check,
+      " | ",
+      Result,
+      " | ",
+      Interpretation,
+      " |"
+    )
+  ) |>
+  pull(line)
+
+validation_md <- c(
+  "| Section | Check | Result | Interpretation |",
+  "|---|---|---:|---|",
+  validation_presentation_table_md
+)
+
+write_lines(
+  validation_md,
+  "output/validation_presentation_table.md"
+)
+
+cat("\nPresentation-friendly validation table:\n")
+print(validation_presentation_table, n = Inf)
 print("Data validation completed successfully.")
