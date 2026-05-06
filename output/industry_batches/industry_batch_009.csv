@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+401,Transportation / Logistics,high,Company specializes in shipping and logistics services.,9
+402,Retail / E-commerce,medium,Focus on movement and consumer products.,9
+403,Other / Unknown,low,Limited information on industry focus.,9
+404,Finance & Insurance,high,Role involves financial analysis and reporting.,9
+405,Finance & Insurance,high,Insurance company requiring data analysis.,9
+406,Finance & Insurance,high,Banking roles focused on financial analytics.,9
+407,Finance & Insurance,medium,Operations analyst role in a banking context.,9
+408,Manufacturing,medium,Company involved in production and supply.,9
+409,Other / Unknown,low,Limited context on industry application.,9
+410,Finance & Insurance,high,Financial reporting role in a banking environment.,9
+411,Finance & Insurance,high,Fintech company focused on financial services.,9
+412,Government / Public Sector,medium,Supports government-related database analysis.,9
+413,Technology,high,Data science role in a tech-focused environment.,9
+414,Technology,high,SaaS company requiring marketing operations analysis.,9
+415,Consulting / Professional Services,medium,Analytics role in a consumer insights context.,9
+416,Technology,high,Product analyst role in a tech ecosystem.,9
+417,Government / Public Sector,medium,Supports law enforcement and public safety.,9
+418,Consulting / Professional Services,high,Market research analyst in a consulting firm.,9
+419,Media / Entertainment,medium,Market research in a consumer insights context.,9
+420,Nonprofit,medium,Supports employment and training initiatives.,9
+421,Government / Public Sector,medium,Operations analyst role with security clearance.,9
+422,Finance & Insurance,high,Reporting analyst role in a financial context.,9
+423,Technology,high,Data science role focused on AI applications.,9
+424,Technology,high,Data roles in a tech-driven environment.,9
+425,Healthcare,high,Focus on healthcare data management.,9
+426,Technology,high,Data science role in AI and web services.,9
+427,Finance & Insurance,high,Product analyst role in a financial context.,9
+428,Finance & Insurance,high,Financial analyst role in a telecom company.,9
+429,Government / Public Sector,medium,Geospatial analysis with security clearance.,9
+430,Government / Public Sector,high,Database role requiring security clearance.,9
+431,Energy / Utilities,medium,Involves energy sector data management.,9
+432,Healthcare,medium,Operations analyst role in healthcare context.,9
+433,Transportation / Logistics,high,Financial analysis in logistics operations.,9
+434,Technology,high,Data science role in tech product development.,9
+435,Technology,high,Product analyst role in a tech company.,9
+436,Education,high,Role focused on educational instruction.,9
+437,Government / Public Sector,medium,Data engineering role in a public sector project.,9
+438,Technology,high,Business data analyst role in tech.,9
+439,Technology,high,Data analyst role in a tech environment.,9
+440,Consulting / Professional Services,medium,Sustainability reporting in a consulting context.,9
+441,Government / Public Sector,high,Operations analyst roles in government IT.,9
+442,Technology,high,Product quality analyst in a tech environment.,9
+443,Technology,high,Data roles in a tech and finance context.,9
+444,Healthcare,high,Business analyst role in healthcare systems.,9
+445,Finance & Insurance,high,Operations analyst in a fintech firm.,9
+446,Media / Entertainment,medium,Product analyst in the entertainment industry.,9
+447,Technology,high,Data scientist role in tech solutions.,9
+448,Technology,high,Senior data engineer in a tech company.,9
+449,Technology,high,Principal data scientist in tech forecasting.,9
+450,Technology,high,Data analyst role in a tech environment.,9

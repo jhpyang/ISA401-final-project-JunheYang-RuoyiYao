@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+851,Finance & Insurance,high,Focus on financial analyst roles.,18
+852,Government / Public Sector,high,Works with government contracts and requires security clearance.,18
+853,Technology,high,Data science in cybersecurity sector.,18
+854,Technology,high,Data analysis for IT migration projects.,18
+855,Manufacturing,high,Precision manufacturing organization.,18
+856,Technology,medium,Cybersecurity firm with data roles.,18
+857,Technology,high,Focus on data engineering roles.,18
+858,Energy / Utilities,high,Business analyst role in energy sector.,18
+859,Healthcare,high,Financial analyst in healthcare services.,18
+860,Technology,high,Data science in systems engineering.,18
+861,Retail / E-commerce,high,Data science in retail sector.,18
+862,Technology,high,IT solutions provider.,18
+863,Technology,high,Data science and analytics roles.,18
+864,Technology,high,Data engineering in IT jobs.,18
+865,Media / Entertainment,high,Insights role in media sector.,18
+866,Consulting / Professional Services,medium,Executive search firm in innovation economy.,18
+867,Finance & Insurance,high,Financial services and healthcare technology.,18
+868,Technology,high,Data analysis in IT jobs.,18
+869,Technology,high,Data analysis in IT jobs.,18
+870,Technology,high,IT solutions provider.,18
+871,Technology,high,Business intelligence in IT jobs.,18
+872,Transportation / Logistics,high,Operations analyst in aircraft material services.,18
+873,Government / Public Sector,high,GIS role for government transportation.,18
+874,Media / Entertainment,high,Data science in media industry.,18
+875,Technology,high,Data engineering in IT jobs.,18
+876,Government / Public Sector,high,Database analyst for U.S. Navy.,18
+877,Technology,high,Business analyst in IT solutions.,18
+878,Technology,high,Product analyst in IT jobs.,18
+879,Healthcare,high,Financial reporting in healthcare.,18
+880,Healthcare,high,Data analytics in healthcare.,18
+881,Technology,high,Business analyst in strategic growth.,18
+882,Healthcare,high,Financial analyst in healthcare system.,18
+883,Healthcare,high,Digital product analyst in healthcare.,18
+884,Technology,high,Database analyst in IT jobs.,18
+885,Healthcare,high,Product analyst in cancer research.,18
+886,Technology,high,Data science in IT jobs.,18
+887,Technology,high,Business analyst in IT jobs.,18
+888,Media / Entertainment,high,Analytics in food industry.,18
+889,Education,high,Database analyst in public schools.,18
+890,Finance & Insurance,high,Financial analyst in accounting.,18
+891,Technology,high,Data analytics in IT jobs.,18
+892,Government / Public Sector,high,Database analyst with security clearance.,18
+893,Government / Public Sector,high,Database management for military.,18
+894,Finance & Insurance,high,Market research analyst in finance.,18
+895,Technology,high,Product analyst in IT jobs.,18
+896,Healthcare,high,Financial analyst in healthcare services.,18
+897,Technology,high,Data analyst in IT solutions.,18
+898,Government / Public Sector,high,Operations analyst for military.,18
+899,Government / Public Sector,high,Database analyst for military applications.,18
+900,Technology,high,Operations analyst in IT jobs.,18

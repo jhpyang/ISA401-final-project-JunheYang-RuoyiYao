@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+451,Technology,high,Data analysis role indicates a tech focus.,10
+452,Other / Unknown,medium,Parenting guidance suggests a unique industry.,10
+453,Government / Public Sector,high,Government services indicate public sector.,10
+454,Government / Public Sector,high,Government contracting suggests public sector.,10
+455,Government / Public Sector,high,Government services indicate public sector.,10
+456,Retail / E-commerce,high,Distributor role suggests retail industry.,10
+457,Hospitality,high,Travel and adventure indicate hospitality.,10
+458,Finance & Insurance,high,Insurance industry focus is clear.,10
+459,Media / Entertainment,medium,Marketing analytics suggests media industry.,10
+460,Consulting / Professional Services,high,Consultant role indicates professional services.,10
+461,Consulting / Professional Services,high,Financial consulting indicates professional services.,10
+462,Energy / Utilities,medium,Solar utility suggests energy sector.,10
+463,Technology,high,Data roles indicate a tech focus.,10
+464,Healthcare,high,Healthcare focus is evident.,10
+465,Finance & Insurance,high,Financial analysis indicates finance sector.,10
+466,Government / Public Sector,high,Public utility organization indicates government.,10
+467,Government / Public Sector,high,Security clearance suggests government work.,10
+468,Healthcare,high,Healthcare IT focus is clear.,10
+469,Finance & Insurance,high,Insurance focus is evident.,10
+470,Education,medium,School district indicates education sector.,10
+471,Technology,high,Sales analytics in tech industry.,10
+472,Manufacturing,high,Automotive systems indicate manufacturing.,10
+473,Healthcare,high,Clinical data role suggests healthcare.,10
+474,Technology,high,Data analysis role indicates tech focus.,10
+475,Media / Entertainment,medium,Reporting in media context.,10
+476,Media / Entertainment,medium,Reporting in media context.,10
+477,Healthcare,high,Healthcare financial analysis is clear.,10
+478,Healthcare,high,Data analysis role in healthcare.,10
+479,Manufacturing,high,Manufacturing of hearth products is clear.,10
+480,Technology,high,Data visualization indicates tech focus.,10
+481,Consulting / Professional Services,high,Operations analyst in consulting context.,10
+482,Technology,high,Data analyst role indicates tech focus.,10
+483,Technology,high,Analytics in tech industry.,10
+484,Healthcare,high,Healthcare financial analysis is clear.,10
+485,Finance & Insurance,high,Regulatory reporting in finance.,10
+486,Technology,high,Data engineering indicates tech focus.,10
+487,Technology,high,Data engineering indicates tech focus.,10
+488,Energy / Utilities,medium,Analytics role in energy organization.,10
+489,Transportation / Logistics,medium,Logistics planning indicates logistics sector.,10
+490,Technology,high,Product analysis in tech industry.,10
+491,Healthcare,high,Financial analysis in healthcare.,10
+492,Retail / E-commerce,high,HR data analysis in retail context.,10
+493,Finance & Insurance,high,Actuarial role indicates finance sector.,10
+494,Sales,medium,Sales operations role suggests sales industry.,10
+495,Consulting / Professional Services,high,Operations analyst in consulting context.,10
+496,Technology,high,Data analysis roles indicate tech focus.,10
+497,Manufacturing,high,Aerospace manufacturing is clear.,10
+498,Finance & Insurance,high,Insurance focus is evident.,10
+499,Government / Public Sector,high,Operations analyst in government context.,10
+500,Finance & Insurance,high,Analytics in banking sector.,10

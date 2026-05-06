@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+201,Education,high,Public university focused on advanced teaching and research.,5
+202,Healthcare,high,Health and wellness services provider.,5
+203,Finance & Insurance,high,Insurance industry product development.,5
+204,Technology,high,AI-driven data solutions provider.,5
+205,Transportation / Logistics,medium,Transit data analysis role.,5
+206,Hospitality,high,Casino resort focused on guest experience.,5
+207,Other / Unknown,medium,Manufacturing company with IT roles.,5
+208,Other / Unknown,medium,General IT roles in various sectors.,5
+209,Other / Unknown,medium,IP law firm with analytics roles.,5
+210,Technology,high,Data engineering in cloud environments.,5
+211,Healthcare,high,Revenue cycle management for healthcare providers.,5
+212,Finance & Insurance,high,Investment firm managing client portfolios.,5
+213,Finance & Insurance,high,Operations in trading and finance.,5
+214,Retail / E-commerce,medium,Retail company with financial analysis roles.,5
+215,Technology,high,Data engineering in tech sector.,5
+216,Technology,high,Consulting firm specializing in data solutions.,5
+217,Government / Public Sector,high,Consulting for government clients.,5
+218,Finance & Insurance,high,Banking and financial services provider.,5
+219,Healthcare,high,Data analytics in healthcare management.,5
+220,Other / Unknown,medium,Purchase intelligence platform.,5
+221,Healthcare,high,Healthcare analytics management.,5
+222,Other / Unknown,medium,General IT roles in various sectors.,5
+223,Consulting / Professional Services,high,Consulting firm providing analytics solutions.,5
+224,Technology,high,Business intelligence in tech sector.,5
+225,Healthcare,high,Pharmaceutical operations and analytics.,5
+226,Energy / Utilities,high,Renewable energy transition partner.,5
+227,Other / Unknown,medium,Customer analytics in various sectors.,5
+228,Technology,high,Data science and engineering roles.,5
+229,Healthcare,high,Data engineering in health system.,5
+230,Nonprofit,medium,Financial analysis for nonprofit organization.,5
+231,Government / Public Sector,high,Consulting for intelligence analysis.,5
+232,Finance & Insurance,high,Financial services and analysis.,5
+233,Finance & Insurance,high,Quantitative analytics in banking.,5
+234,Government / Public Sector,high,Consulting for military and intelligence.,5
+235,Technology,high,Database programming in IT sector.,5
+236,Other / Unknown,medium,Reporting analysis in various sectors.,5
+237,Other / Unknown,medium,Database management in legal sector.,5
+238,Healthcare,high,Data analysis in healthcare services.,5
+239,Finance & Insurance,high,Reporting and metrics in insurance.,5
+240,Technology,high,Business intelligence in IT sector.,5
+241,Finance & Insurance,high,Fraud risk analytics in banking.,5
+242,Finance & Insurance,high,Performance reporting in banking.,5
+243,Manufacturing,medium,Financial analysis in manufacturing.,5
+244,Technology,high,Business intelligence in tech sector.,5
+245,Government / Public Sector,high,Database analysis for government contracts.,5
+246,Other / Unknown,medium,Business analysis in various sectors.,5
+247,Healthcare,high,Database administration in healthcare.,5
+248,Technology,high,Business analysis in IT sector.,5
+249,Technology,high,Data engineering in cloud environments.,5
+250,Nonprofit,medium,Data analysis for community development.,5

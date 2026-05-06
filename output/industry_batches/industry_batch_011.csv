@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+501,Finance & Insurance,high,Automotive financial services focus.,11
+502,Healthcare,high,Biopharma industry involvement.,11
+503,Manufacturing,medium,Supply chain analytics in manufacturing context.,11
+504,Technology,high,IT and data analytics roles.,11
+505,Technology,high,Web programming and IT focus.,11
+506,Healthcare,high,Clinical project management in healthcare.,11
+507,Government / Public Sector,medium,Software for court system.,11
+508,Technology,high,Data engineering in IT sector.,11
+509,Energy / Utilities,medium,Manufacturing specialized industrial equipment.,11
+510,Finance & Insurance,high,Financial analysis in pricing.,11
+511,Technology,high,IT and business intelligence roles.,11
+512,Technology,high,Cybersecurity and analytics focus.,11
+513,Manufacturing,high,Candy manufacturing and financial roles.,11
+514,Healthcare,high,Data analytics in healthcare.,11
+515,Healthcare,medium,Business analysis in health services.,11
+516,Healthcare,high,Digital marketing for healthcare services.,11
+517,Healthcare,high,Product analysis in healthcare technology.,11
+518,Finance & Insurance,high,Insurance market focus.,11
+519,Transportation / Logistics,medium,Sales analytics in logistics.,11
+520,Healthcare,high,Pet health services and analytics.,11
+521,Food & Beverage,medium,Food production and analytics.,11
+522,Technology,high,Data engineering in IT.,11
+523,Healthcare,high,EHR systems integration in health.,11
+524,Finance & Insurance,medium,Banking analytics focus.,11
+525,Technology,high,IT staff augmentation and analytics.,11
+526,Technology,high,Data engineering in IT.,11
+527,Technology,high,Data engineering and analytics roles.,11
+528,Government / Public Sector,medium,Software engineering for government.,11
+529,Government / Public Sector,high,Support for DoD and Intelligence.,11
+530,Real Estate,medium,Proptech software for property management.,11
+531,Consulting / Professional Services,high,Pharma market research and consulting.,11
+532,Government / Public Sector,medium,Business analysis for government.,11
+533,Technology,high,Market data analytics in IT.,11
+534,Technology,high,Data analytics across multiple sectors.,11
+535,Technology,high,Analytics in app development.,11
+536,Healthcare,high,Data engineering in healthcare.,11
+537,Healthcare,high,HR analytics in healthcare.,11
+538,Technology,high,Database programming in IT.,11
+539,Technology,high,Business analysis in IT.,11
+540,Technology,high,Data analysis in IT.,11
+541,Technology,high,Business intelligence in IT.,11
+542,Technology,high,Data engineering in IT.,11
+543,Technology,high,Operations analysis in IT.,11
+544,Healthcare,high,Dental support services.,11
+545,Healthcare,high,Data analysis in healthcare.,11
+546,Finance & Insurance,high,Operations in financial markets.,11
+547,Government / Public Sector,high,Business analysis for federal initiatives.,11
+548,Manufacturing,high,Financial analysis in manufacturing.,11
+549,Media / Entertainment,medium,Market research in gaming.,11
+550,Technology,high,Data engineering in IT.,11

@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+751,Manufacturing,high,Known for electronics and manufacturing products.,16
+752,Transportation / Logistics,high,Focus on material handling and operations.,16
+753,Healthcare,high,Works with clinical data and healthcare insights.,16
+754,Consulting / Professional Services,medium,Supports technology portfolio management.,16
+755,Healthcare,high,Part of an academic medical center.,16
+756,Finance & Insurance,medium,Involved in regulatory and product analysis.,16
+757,Finance & Insurance,high,Credit union focused on financial services.,16
+758,Transportation / Logistics,high,Part of logistics and transport operations.,16
+759,Transportation / Logistics,high,Involved in truck leasing and logistics.,16
+760,Technology,high,Focus on data engineering and cloud services.,16
+761,Government / Public Sector,high,Supports national security missions.,16
+762,Consulting / Professional Services,high,Provides market research for strategic decisions.,16
+763,Other / Unknown,medium,"Pet care services, not easily classified.",16
+764,Finance & Insurance,medium,Business analyst role in finance domain.,16
+765,Technology,high,Focus on data engineering and analytics.,16
+766,Energy / Utilities,medium,Works with gas utility data.,16
+767,Finance & Insurance,high,Insurance company focused on property/casualty.,16
+768,Finance & Insurance,high,Broker dealer operations in finance.,16
+769,Technology,high,Product analyst role in technology.,16
+770,Finance & Insurance,medium,Operations in futures and options.,16
+771,Technology,high,Focus on analytics and technology solutions.,16
+772,Transportation / Logistics,high,Logistics company managing transport operations.,16
+773,Manufacturing,medium,Involved in product manufacturing and operations.,16
+774,Energy / Utilities,medium,Market research in energy sector.,16
+775,Technology,high,Business analyst role in IT.,16
+776,Technology,high,Data engineering role in IT.,16
+777,Government / Public Sector,high,Supports federal government clients.,16
+778,Consulting / Professional Services,medium,Consulting services in data and analytics.,16
+779,Healthcare,high,Pharmacy benefit management services.,16
+780,Consulting / Professional Services,medium,Compliance reporting in consulting.,16
+781,Consumer Goods,medium,Focus on consumer products and data.,16
+782,Technology,high,Data engineering in IT.,16
+783,Technology,high,Data management in technology sector.,16
+784,Technology,high,Data analytics and engineering roles.,16
+785,Healthcare,high,Reporting analyst in healthcare.,16
+786,Technology,high,Database analyst role in IT.,16
+787,Finance & Insurance,medium,Security analyst in financial services.,16
+788,Consulting / Professional Services,high,Public sector solutions implementation.,16
+789,Real Estate,high,Self-storage facility operations.,16
+790,Consulting / Professional Services,high,Deals and strategy consulting.,16
+791,Technology,high,Data analytics and IT roles.,16
+792,Technology,high,Data analysis and IT consulting.,16
+793,Government / Public Sector,high,Supports federal operations.,16
+794,Technology,high,Data engineering in telecommunications.,16
+795,Consulting / Professional Services,medium,Reporting analyst in consulting.,16
+796,Healthcare,high,Product analyst in healthcare.,16
+797,Technology,high,Data science in technology.,16
+798,Finance & Insurance,high,Financial reporting in finance.,16
+799,Food & Beverage,medium,Food manufacturing and distribution.,16
+800,Finance & Insurance,medium,Product analysis in insurance.,16

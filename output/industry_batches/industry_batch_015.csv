@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+701,Consulting / Professional Services,high,Focus on financial analysis and modeling.,15
+702,Technology,high,Involvement in telecom network operations.,15
+703,Finance & Insurance,high,Role centered on financial analysis.,15
+704,Technology,high,Data science role in IT.,15
+705,Finance & Insurance,high,Accounting and financial analysis focus.,15
+706,Technology,high,UX research in a tech environment.,15
+707,Government / Public Sector,medium,Financial analysis for government projects.,15
+708,Finance & Insurance,medium,Insurance product analysis role.,15
+709,Healthcare,high,Market research in healthcare sector.,15
+710,Education,high,Teaching role in a high school.,15
+711,Education,high,Market research and teaching roles.,15
+712,Finance & Insurance,high,Reporting and finance roles in banking.,15
+713,Defense / Aerospace,high,Financial analysis in defense sector.,15
+714,Technology,high,Database analysis in IT.,15
+715,Healthcare,high,Analytics in healthcare operations.,15
+716,Technology,high,Database management in IT.,15
+717,Technology,high,Data reporting in IT.,15
+718,Technology,high,Data and business analysis in IT.,15
+719,Retail / E-commerce,high,Marketing analytics in a digital marketplace.,15
+720,Technology,high,Data analysis for consumer devices.,15
+721,Finance & Insurance,high,Analytics in finance sector.,15
+722,Healthcare,high,Financial analysis in health system.,15
+723,Government / Public Sector,high,Financial reporting for state government.,15
+724,Finance & Insurance,high,Analytics in financial services.,15
+725,Technology,high,Database analysis in IT.,15
+726,Technology,high,Data analysis in AI security.,15
+727,Finance & Insurance,high,Reporting in financial services.,15
+728,Retail / E-commerce,medium,Analytics in retail fixture design.,15
+729,Technology,high,Product analysis in AI technology.,15
+730,Healthcare,high,Operations analysis in health technology.,15
+731,Technology,high,Business analysis in IT.,15
+732,Finance & Insurance,high,Data analysis in investment firm.,15
+733,Technology,high,Business analysis in IT.,15
+734,Technology,high,Data analysis in IT.,15
+735,Technology,high,Database vulnerability analysis in IT.,15
+736,Finance & Insurance,high,Analytics in insurance services.,15
+737,Finance & Insurance,high,Market research in finance.,15
+738,Technology,high,Application development in IT.,15
+739,Technology,high,Business analysis in IT.,15
+740,Finance & Insurance,high,Data science in financial services.,15
+741,Technology,high,Business analysis in IT.,15
+742,Energy / Utilities,medium,Reporting in energy sector.,15
+743,Technology,high,Data analysis in IT.,15
+744,Technology,high,Business analysis in IT.,15
+745,Finance & Insurance,high,Market research in finance.,15
+746,Technology,high,Product analysis in IT.,15
+747,Technology,high,Operations analysis in IT.,15
+748,Finance & Insurance,high,Operations analysis in investment management.,15
+749,Technology,high,Market research in tech.,15
+750,Technology,high,Financial analysis in tech.,15

@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+301,Technology,high,Data engineering role indicates a tech focus.,7
+302,Technology,high,Data engineering role indicates a tech focus.,7
+303,Finance & Insurance,medium,Payment applications suggest finance industry.,7
+304,Technology,medium,Data protection role in a tech context.,7
+305,Technology,high,Data science role indicates a tech focus.,7
+306,Government / Public Sector,high,Role in a state agency suggests public sector.,7
+307,Technology,high,Data reporting role indicates a tech focus.,7
+308,Technology,high,Business analyst role in IT context.,7
+309,Government / Public Sector,high,"Supports court systems, indicating public sector.",7
+310,Technology,high,Data engineering role indicates a tech focus.,7
+311,Government / Public Sector,high,Political campaign committee suggests public sector.,7
+312,Finance & Insurance,high,Financial markets focus indicates finance industry.,7
+313,Government / Public Sector,high,"Supports USCIS, indicating public sector.",7
+314,Technology,high,Data engineering role indicates a tech focus.,7
+315,Healthcare,high,Role in a healthcare organization.,7
+316,Energy / Utilities,high,Role in regulated energy sector.,7
+317,Finance & Insurance,high,Financial reporting role indicates finance industry.,7
+318,Finance & Insurance,high,Financial reporting role indicates finance industry.,7
+319,Manufacturing,medium,Truck equipment suggests manufacturing industry.,7
+320,Finance & Insurance,high,Investment operations role indicates finance industry.,7
+321,Healthcare,high,Role in a cancer institute indicates healthcare.,7
+322,Utilities,medium,Utility operations context suggests utilities.,7
+323,Technology,high,Data analysis role indicates a tech focus.,7
+324,Government / Public Sector,high,"Supports DoD initiatives, indicating public sector.",7
+325,Finance & Insurance,medium,Investment advisory suggests finance industry.,7
+326,Healthcare,high,Healthcare technology startup indicates healthcare.,7
+327,Consulting / Professional Services,high,Consulting firm with analytics focus.,7
+328,Finance & Insurance,high,Financial analyst role indicates finance industry.,7
+329,Government / Public Sector,high,Regional council indicates public sector.,7
+330,Other / Unknown,low,Market research role in unspecified industry.,7
+331,Finance & Insurance,high,Credit trading role indicates finance industry.,7
+332,Healthcare,medium,Life sciences focus suggests healthcare.,7
+333,Technology,high,Data science role indicates a tech focus.,7
+334,Technology,high,Data analysis role indicates a tech focus.,7
+335,Technology,high,Data analysis role indicates a tech focus.,7
+336,Finance & Insurance,high,Structured product role indicates finance industry.,7
+337,Media / Entertainment,medium,Marketing role in a land company suggests media.,7
+338,Technology,high,Business analyst role indicates a tech focus.,7
+339,Technology,high,Market research role indicates a tech focus.,7
+340,Media / Entertainment,medium,Research role in carbon markets suggests media.,7
+341,Healthcare,high,Healthcare technology focus indicates healthcare.,7
+342,Media / Entertainment,medium,Marketing analytics role suggests media.,7
+343,Healthcare,high,Role in children's hospital indicates healthcare.,7
+344,Energy / Utilities,high,Energy company indicates utilities sector.,7
+345,Retail / E-commerce,medium,Retail company suggests e-commerce focus.,7
+346,Technology,high,Data analyst role indicates a tech focus.,7
+347,Government / Public Sector,high,Veterans Health Administration indicates public sector.,7
+348,Technology,high,Data science role indicates a tech focus.,7
+349,Government / Public Sector,high,"Supports military initiatives, indicating public sector.",7
+350,Technology,high,Data science role indicates a tech focus.,7

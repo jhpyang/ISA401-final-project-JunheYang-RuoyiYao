@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+351,Healthcare,high,Focus on healthcare database roles.,8
+352,Consulting / Professional Services,high,Data management solutions for organizations.,8
+353,Finance & Insurance,high,Payments and financial services focus.,8
+354,Energy / Utilities,high,Energy market insights and analytics.,8
+355,Technology,high,Data analysis and engineering roles.,8
+356,Consulting / Professional Services,medium,Supply chain operations in technology.,8
+357,Finance & Insurance,high,Financial risk analysis and reporting.,8
+358,Consulting / Professional Services,medium,Management consulting and staffing solutions.,8
+359,Consulting / Professional Services,medium,Management consulting and staffing solutions.,8
+360,Energy / Utilities,high,Analytics in energy sector.,8
+361,Energy / Utilities,high,Analytics in energy sector.,8
+362,Technology,high,Data science and business intelligence roles.,8
+363,Consulting / Professional Services,medium,Market research in business environment.,8
+364,Healthcare,high,Financial reporting in healthcare.,8
+365,Healthcare,high,Financial reporting in healthcare.,8
+366,Consulting / Professional Services,medium,Market research and analysis.,8
+367,Technology,high,Data analysis and engineering roles.,8
+368,Technology,high,Business analysis in IT.,8
+369,Healthcare,high,Financial analysis in healthcare.,8
+370,Education,high,Analytics in aviation and aerospace education.,8
+371,Technology,high,Data analysis in IT.,8
+372,Healthcare,high,Analytics in pharmacy benefits management.,8
+373,Media / Entertainment,high,Music industry financial analysis.,8
+374,Retail / E-commerce,medium,Supply chain solutions for appliances.,8
+375,Technology,high,Software development and engineering.,8
+376,Energy / Utilities,high,Financial analysis in energy sector.,8
+377,Energy / Utilities,high,Financial analysis in energy sector.,8
+378,Consulting / Professional Services,medium,Business analysis in technology.,8
+379,Technology,high,Data science and analytics roles.,8
+380,Healthcare,high,Analytics in healthcare services.,8
+381,Retail / E-commerce,medium,Marketing analytics in bridal fashion.,8
+382,Technology,high,Data science in IT.,8
+383,Technology,high,Business analysis in IT.,8
+384,Technology,high,Data engineering in IT.,8
+385,Finance & Insurance,high,Market research in political risk.,8
+386,Healthcare,medium,Analytical testing services in life sciences.,8
+387,Technology,high,Data science in IT.,8
+388,Finance & Insurance,medium,Product analysis in financial services.,8
+389,Technology,medium,Product analysis in IT.,8
+390,Finance & Insurance,high,Data analysis in insurance.,8
+391,Finance & Insurance,high,Financial reporting in finance.,8
+392,Technology,high,Business analysis in restaurant technology.,8
+393,Finance & Insurance,high,Financial analysis in energy sector.,8
+394,Finance & Insurance,high,Data science in insurance.,8
+395,Government / Public Sector,medium,Support for US Census Bureau.,8
+396,Technology,high,Data science in IT.,8
+397,Manufacturing,medium,Financial analysis in manufacturing.,8
+398,Government / Public Sector,medium,Business analysis in public utilities.,8
+399,Finance & Insurance,high,Financial data analysis.,8
+400,Media / Entertainment,high,Data engineering in entertainment.,8

@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+101,Technology,high,Focus on technology environments and applications.,3
+102,Finance & Insurance,high,Roles centered around financial analysis.,3
+103,Technology,high,Involves data engineering and IT roles.,3
+104,Finance & Insurance,high,Financial analysis and operations roles.,3
+105,Technology,high,Data engineering in a tech environment.,3
+106,Healthcare,high,Focus on mental health and addiction services.,3
+107,Finance & Insurance,high,Data analysis in an investment banking context.,3
+108,Technology,high,Data engineering in a data and analytics organization.,3
+109,Finance & Insurance,high,Product analysis in insurance sector.,3
+110,Finance & Insurance,high,Modernizing insurance claims processing.,3
+111,Consulting / Professional Services,high,Financial analysis in a consulting environment.,3
+112,Government / Public Sector,high,Supports government customer projects.,3
+113,Media / Entertainment,high,Involves analytics in the gaming industry.,3
+114,Technology,high,Business analysis in IT systems.,3
+115,Government / Public Sector,high,Focus on government IT consulting.,3
+116,Healthcare,high,Operations analysis in healthcare services.,3
+117,Technology,high,Database migration in IT.,3
+118,Finance & Insurance,high,Financial analysis in corporate functions.,3
+119,Technology,high,Data analytics in a software company.,3
+120,Energy / Utilities,high,Data engineering in oil and gas.,3
+121,Finance & Insurance,high,Financial analysis in an insurance context.,3
+122,Technology,high,Product strategy in automation technology.,3
+123,Technology,high,Business analytics in software solutions.,3
+124,Technology,high,Business automation and Microsoft solutions.,3
+125,Finance & Insurance,high,Data analysis in banking.,3
+126,Technology,high,IT consulting and workforce solutions.,3
+127,Healthcare,medium,Market research in healthcare products.,3
+128,Finance & Insurance,high,Operations analysis in banking.,3
+129,Consulting / Professional Services,high,Data science in consulting.,3
+130,Manufacturing,high,Financial reporting in manufacturing.,3
+131,Finance & Insurance,high,Financial analysis in a corporate setting.,3
+132,Finance & Insurance,high,Financial reporting in a community bank.,3
+133,Technology,high,Product analysis in a software company.,3
+134,Finance & Insurance,high,Market research in financial services.,3
+135,Finance & Insurance,high,Product analysis in insurance.,3
+136,Consulting / Professional Services,high,Market research in international development.,3
+137,Healthcare,high,Database analysis in healthcare.,3
+138,Technology,high,Operations analysis in IT.,3
+139,Healthcare,high,Data management in healthcare.,3
+140,Healthcare,high,Data engineering in healthcare services.,3
+141,Technology,high,Data engineering in IT solutions.,3
+142,Healthcare,medium,Market research in medical devices.,3
+143,Healthcare,medium,Market research in medical devices.,3
+144,Technology,high,Data science and business intelligence.,3
+145,Other / Unknown,medium,Environmental services company.,3
+146,Media / Entertainment,medium,Marketing strategy in media.,3
+147,Finance & Insurance,high,Investment sales and analytics.,3
+148,Consulting / Professional Services,high,Financial analysis in consulting.,3
+149,Finance & Insurance,high,Financial reporting in insurance.,3
+150,Healthcare,high,Marketing analytics in healthcare.,3

@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+1051,Consulting / Professional Services,medium,Focus on analytics in marketing.,22
+1052,Finance & Insurance,high,Banking and financial services roles.,22
+1053,Healthcare,high,Healthcare organization focused on well-being.,22
+1054,Other / Unknown,low,General business analysis role.,22
+1055,Consulting / Professional Services,medium,Analytics in marketing and finance.,22
+1056,Consulting / Professional Services,medium,Data analysis across various sectors.,22
+1057,Media / Entertainment,high,Marketing roles in media organization.,22
+1058,Healthcare,medium,Supports public health initiatives.,22
+1059,Retail / E-commerce,high,Pricing strategy in retail.,22
+1060,Consulting / Professional Services,medium,Business analysis in IT.,22
+1061,Technology,high,Data science in tech product development.,22
+1062,Technology,high,IT-focused reporting and analytics.,22
+1063,Government / Public Sector,high,Supports government health agencies.,22
+1064,Technology,high,Data science for economic analysis.,22
+1065,Education,high,Focus on soccer education and community.,22
+1066,Education,high,University role in student financial aid.,22
+1067,Healthcare,high,Healthcare data analysis role.,22
+1068,Healthcare,high,Healthcare productivity analysis.,22
+1069,Education,high,University finance and reporting.,22
+1070,Education,high,University role in neuroimaging research.,22
+1071,Technology,medium,Analytics in commerce technology.,22
+1072,Consulting / Professional Services,medium,Digital operations in marketing.,22
+1073,Energy / Utilities,high,Financial analysis in utility services.,22
+1074,Technology,high,Data analysis in IT consulting.,22
+1075,Technology,high,Data science in IT consulting.,22
+1076,Government / Public Sector,medium,Software engineering for state projects.,22
+1077,Technology,high,Data analysis in IT.,22
+1078,Energy / Utilities,high,Financial analysis in energy sector.,22
+1079,Technology,medium,Operations analysis in IT.,22
+1080,Technology,high,Reporting analysis in IT.,22
+1081,Consulting / Professional Services,medium,Business analysis in consulting.,22
+1082,Technology,high,Product analysis in IT.,22
+1083,Government / Public Sector,high,Capture management for federal contracts.,22
+1084,Consulting / Professional Services,high,Data analysis in various sectors.,22
+1085,Technology,high,Data science in IT.,22
+1086,Finance & Insurance,high,Banking and financial services roles.,22
+1087,Technology,high,Data engineering in IT.,22
+1088,Technology,high,Data engineering in IT.,22
+1089,Retail / E-commerce,high,Reporting analysis in retail.,22
+1090,Education,high,Education services provider.,22
+1091,Technology,medium,Change analysis in IT.,22
+1092,Government / Public Sector,medium,Technical support for government systems.,22
+1093,Technology,high,Product analysis in tech.,22
+1094,Technology,high,Data engineering in IT.,22
+1095,Technology,high,Data analysis in IT.,22
+1096,Finance & Insurance,high,Financial services background required.,22
+1097,Technology,high,Data engineering in IT.,22
+1098,Consulting / Professional Services,medium,Business analysis in tourism.,22
+1099,Energy / Utilities,high,Data analysis in energy sector.,22
+1100,Retail / E-commerce,high,Marketing analytics in retail.,22

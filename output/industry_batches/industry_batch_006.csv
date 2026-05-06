@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+251,Technology,high,Data analysis role in a tech environment.,6
+252,Technology,high,IT job focused on data reporting.,6
+253,Finance & Insurance,high,Roles in banking and finance sector.,6
+254,Technology,high,IT jobs in analytics and technology.,6
+255,Healthcare,high,Healthcare analytics and clinical roles.,6
+256,Healthcare,high,Financial roles in healthcare organization.,6
+257,Healthcare,high,Reporting role in a healthcare setting.,6
+258,Healthcare,high,Healthcare-focused analytics management.,6
+259,Retail / E-commerce,medium,E-commerce analytics management role.,6
+260,Technology,high,IT roles in business and data analysis.,6
+261,Finance & Insurance,high,Financial analysis in banking operations.,6
+262,Government / Public Sector,medium,Data roles with security clearance requirements.,6
+263,Finance & Insurance,high,Regulatory data analysis in finance.,6
+264,Technology,high,IT roles in analytics and reporting.,6
+265,Technology,high,Database administration in IT.,6
+266,Government / Public Sector,high,Services for government clients.,6
+267,Technology,high,Data science role in IT.,6
+268,Technology,high,Software company focused on analytics.,6
+269,Technology,high,Database management in IT.,6
+270,Technology,high,Data science role in IT.,6
+271,Consulting / Professional Services,medium,Consultancy role in data analysis.,6
+272,Energy / Utilities,high,Financial roles in clean energy.,6
+273,Energy / Utilities,high,Financial analysis in energy sector.,6
+274,Government / Public Sector,high,Database roles with security clearance.,6
+275,Finance & Insurance,high,Financial analysis in a growing company.,6
+276,Finance & Insurance,high,Financial technology company focused on credit.,6
+277,Healthcare,high,Medical products and technologies company.,6
+278,Healthcare,high,Medical products and technologies company.,6
+279,Healthcare,high,Research analyst in healthcare.,6
+280,Technology,high,Technology leader in online auctions.,6
+281,Healthcare,high,Analytics management in population health.,6
+282,Government / Public Sector,high,Intelligence and defense services.,6
+283,Agriculture,medium,Reporting role in agricultural science.,6
+284,Healthcare,high,Healthcare educator with data roles.,6
+285,Consulting / Professional Services,medium,Business intelligence in consulting.,6
+286,Technology,high,Database roles in IT.,6
+287,Finance & Insurance,medium,Compliance analyst in finance.,6
+288,Finance & Insurance,high,Private investment firm with data roles.,6
+289,Manufacturing,high,Product analysis in manufacturing.,6
+290,Finance & Insurance,high,Corporate and investment banking roles.,6
+291,Manufacturing,medium,Financial roles in manufacturing.,6
+292,Consulting / Professional Services,medium,Sales operations in consulting.,6
+293,Real Estate,medium,Financial analysis in real estate.,6
+294,Government / Public Sector,high,Data reporting in public sector.,6
+295,Technology,high,Data analysis in IT.,6
+296,Energy / Utilities,medium,Data roles in energy sector.,6
+297,Technology,high,Data governance in IT.,6
+298,Technology,high,Data science role in IT.,6
+299,Healthcare,medium,Sales role in medical solutions.,6
+300,Transportation / Logistics,medium,Analytics in aircraft inventory support.,6

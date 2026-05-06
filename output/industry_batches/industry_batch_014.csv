@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+651,Healthcare,high,Focus on business intelligence in healthcare.,14
+652,Healthcare,high,Biotech company hiring business analysts.,14
+653,Media / Entertainment,high,Company in entertainment industry with data roles.,14
+654,Finance & Insurance,high,Financial reporting and analytics roles.,14
+655,Technology,high,Data roles in a major tech company.,14
+656,Technology,high,Data engineering in an AI research environment.,14
+657,Technology,high,Analytics roles in a tech-focused company.,14
+658,Technology,high,Analytics roles in a tech-focused company.,14
+659,Education,high,Business intelligence in an educational institution.,14
+660,Finance & Insurance,high,Roles in commercial banking and financial services.,14
+661,Government / Public Sector,high,Supports U.S. National Nuclear Security Administration.,14
+662,Finance & Insurance,high,Financial analyst roles in finance.,14
+663,Healthcare,high,Healthcare company with data management roles.,14
+664,Manufacturing,high,Financial roles in a beverage manufacturing company.,14
+665,Manufacturing,high,Financial roles in a beverage manufacturing company.,14
+666,Finance & Insurance,high,Global financial services firm.,14
+667,Other / Unknown,medium,Consulting firm with reporting roles.,14
+668,Finance & Insurance,high,Financial analyst roles in finance.,14
+669,Consulting / Professional Services,high,Consulting firm supporting public sector clients.,14
+670,Finance & Insurance,high,Financial services company with data roles.,14
+671,Manufacturing,high,Data analyst in a manufacturing context.,14
+672,Healthcare,high,Healthcare system with data roles.,14
+673,Manufacturing,high,Financial analyst in a manufacturing organization.,14
+674,Technology,high,Data engineering in a tech-focused company.,14
+675,Consulting / Professional Services,high,Business intelligence in a consulting context.,14
+676,Technology,high,Database modeling in a tech environment.,14
+677,Technology,high,Business analyst role in tech.,14
+678,Other / Unknown,medium,Data analyst in a government-related context.,14
+679,Media / Entertainment,high,Media and entertainment company with financial roles.,14
+680,Media / Entertainment,high,Media company with reporting roles.,14
+681,Finance & Insurance,high,Financial services company with product roles.,14
+682,Finance & Insurance,high,Financial analyst roles in finance.,14
+683,Finance & Insurance,high,Financial modeling in finance.,14
+684,Nonprofit,high,Non-profit organization in medical education.,14
+685,Government / Public Sector,high,Supports Navy programs with database management.,14
+686,Government / Public Sector,high,Financial analyst in a government context.,14
+687,Government / Public Sector,high,Network development for government projects.,14
+688,Technology,high,Data analyst role in a tech company.,14
+689,Energy / Utilities,medium,Market analyst in energy management.,14
+690,Technology,high,Data scientist in a tech company.,14
+691,Technology,high,Business analyst role in tech.,14
+692,Technology,high,Data roles in a tech environment.,14
+693,Technology,medium,Systems analyst in a tech context.,14
+694,Technology,high,Data analyst roles in tech.,14
+695,Finance & Insurance,high,Financial analyst roles in finance.,14
+696,Finance & Insurance,high,Financial analyst roles in finance.,14
+697,Finance & Insurance,high,Database roles in financial services.,14
+698,Government / Public Sector,high,Supports national security with database roles.,14
+699,Technology,high,Data engineer in a tech company.,14
+700,Technology,high,Business intelligence in a tech environment.,14

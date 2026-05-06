@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+151,Consulting / Professional Services,high,Focus on employee and customer feedback programs.,4
+152,Retail / E-commerce,high,Automotive company providing services to customers.,4
+153,Healthcare,high,Enabling research in Life Sciences and Clinical Diagnostics.,4
+154,Technology,high,Specializing in AI and engineering solutions.,4
+155,Finance & Insurance,high,Financial Analyst role in a corporate office.,4
+156,Technology,high,Digital analytics in e-commerce environment.,4
+157,Healthcare,high,Largest insurance provider in South Carolina.,4
+158,Technology,high,Provider of analytics services and technology.,4
+159,Technology,high,Leading provider of analytics services and technology.,4
+160,Real Estate,high,Specializing in private credit for real estate.,4
+161,Technology,high,Product Analyst role in payment systems.,4
+162,Energy / Utilities,medium,Midstream natural gas transportation and storage.,4
+163,Aerospace & Defense,high,Designing and maintaining aircraft.,4
+164,Energy / Utilities,medium,Utilities company managing SQL databases.,4
+165,Government / Public Sector,high,Requires security clearance for government contracts.,4
+166,Government / Public Sector,high,Requires security clearance for government contracts.,4
+167,Consulting / Professional Services,high,Data analysis for government and military clients.,4
+168,Technology,high,Data engineering and analytics in IT.,4
+169,Technology,high,Product design and analytics in digital sales.,4
+170,Government / Public Sector,high,Data analysis for special operations division.,4
+171,Finance & Insurance,high,Product management in banking.,4
+172,Technology,high,Project coordination in technical product analysis.,4
+173,Finance & Insurance,high,Financial analysis in electronics manufacturing.,4
+174,Energy / Utilities,high,Energy data analysis for clients.,4
+175,Finance & Insurance,high,Operations analyst in financial technology.,4
+176,Consulting / Professional Services,medium,Operations support and analysis.,4
+177,Technology,high,Data science in AI/ML solutions.,4
+178,Technology,high,Data analysis for utilities and operations.,4
+179,Finance & Insurance,high,Financial reporting in supply chain finance.,4
+180,Retail / E-commerce,high,Financial analysis in retail operations.,4
+181,Education,medium,Market research for educational programs.,4
+182,Government / Public Sector,medium,Reporting analyst for workforce solutions.,4
+183,Technology,high,Data visualization and analytics in IT.,4
+184,Government / Public Sector,high,Operations analyst with security clearance.,4
+185,Consulting / Professional Services,high,Program operations analysis for government contracts.,4
+186,Finance & Insurance,high,Financial data analysis in a global firm.,4
+187,Technology,high,Data engineering in enterprise solutions.,4
+188,Real Estate,high,Data analysis for property management.,4
+189,Government / Public Sector,high,Support for U.S. Army intelligence operations.,4
+190,Government / Public Sector,high,Database support for Army contracts.,4
+191,Finance & Insurance,high,Financial and product analysis in various sectors.,4
+192,Technology,high,Innovative software for motor vehicle agencies.,4
+193,Healthcare,high,Data analysis in healthcare and nursing.,4
+194,Consulting / Professional Services,high,Market research in agribusiness.,4
+195,Food & Beverage,high,Financial analysis in food production.,4
+196,Technology,high,Business intelligence in Medicaid data management.,4
+197,Finance & Insurance,high,Product analysis in financial services.,4
+198,Healthcare,high,Analytics management in pharmaceutical R&D.,4
+199,Finance & Insurance,high,Operations analysis in investment firm.,4
+200,Technology,high,Product management in IT.,4

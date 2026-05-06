@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+51,Consulting / Professional Services,high,IT consulting and data analysis services.,2
+52,Consulting / Professional Services,high,Data and media consultancy for brands.,2
+53,Government / Public Sector,high,Works with U.S. Customs and Border Protection.,2
+54,Technology,high,Focus on IT and software development.,2
+55,Technology,high,IT services and data engineering.,2
+56,Technology,high,Business intelligence and IT services.,2
+57,Technology,high,Software engineering and IT roles.,2
+58,Finance & Insurance,high,Reinventing credit and financial services.,2
+59,Healthcare,high,Dental support organization.,2
+60,Technology,high,IT and cybersecurity services.,2
+61,Technology,high,Data science and engineering roles.,2
+62,Technology,high,Product development in IT.,2
+63,Finance & Insurance,high,Insurance domain data analysis.,2
+64,Consulting / Professional Services,high,Legal consulting and business development.,2
+65,Retail / E-commerce,medium,Data engineering in retail domain.,2
+66,Technology,high,IT consulting and data analysis.,2
+67,Technology,high,Business analysis in IT.,2
+68,Government / Public Sector,high,Supports DHS and public sector projects.,2
+69,Technology,high,BI and analytics management.,2
+70,Finance & Insurance,high,Insurance product analysis.,2
+71,Technology,high,Data engineering and analytics.,2
+72,Government / Public Sector,high,Operations support for military systems.,2
+73,Manufacturing,high,Clean air solutions manufacturing.,2
+74,Government / Public Sector,high,Supports motor vehicle administration.,2
+75,Finance & Insurance,high,Financial reporting and analysis.,2
+76,Finance & Insurance,high,Data engineering in financial services.,2
+77,Real Estate,high,Single-family rental management.,2
+78,Finance & Insurance,high,Homeowners insurance provider.,2
+79,Healthcare,high,Veterinary care support services.,2
+80,Retail / E-commerce,high,Retail analytics and decision-making.,2
+81,Finance & Insurance,high,Financial analysis and reporting.,2
+82,Retail / E-commerce,high,Marketing analytics in retail.,2
+83,Consulting / Professional Services,high,Operations support in various sectors.,2
+84,Energy / Utilities,high,Data analysis in energy sector.,2
+85,Finance & Insurance,high,Marketing analytics for financial services.,2
+86,Consulting / Professional Services,high,Management support across sectors.,2
+87,Technology,high,Data science in IT.,2
+88,Technology,high,Data analysis across multiple sectors.,2
+89,Technology,high,Digital technology services.,2
+90,Finance & Insurance,high,Investment-focused financial analysis.,2
+91,Technology,high,Telecom data analysis.,2
+92,Technology,high,Database development in IT.,2
+93,Healthcare,high,Operations finance in healthcare.,2
+94,Finance & Insurance,high,Economic research for investors.,2
+95,Aerospace,high,Aerospace technology and analytics.,2
+96,Other / Unknown,medium,Creative roles in a nonprofit context.,2
+97,Technology,high,Data engineering in IT.,2
+98,Technology,high,Business intelligence development.,2
+99,Technology,high,Data science in marketing.,2
+100,Finance & Insurance,high,Financial analysis in supply chain.,2

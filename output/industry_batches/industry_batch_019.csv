@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+901,Technology,high,IT jobs indicate a technology focus.,19
+902,Finance & Insurance,high,Financial Analyst role suggests finance industry.,19
+903,Energy / Utilities,high,Focus on financial analysis in energy sector.,19
+904,Consulting / Professional Services,medium,Reporting role in a law firm context.,19
+905,Healthcare,high,Financial analysis in a health system.,19
+906,Technology,high,Business Analyst role in IT jobs.,19
+907,Healthcare,medium,Data Scientist role in a clinical context.,19
+908,Construction,medium,Analytics in construction management.,19
+909,Technology,high,Data Analyst role in IT jobs.,19
+910,Retail / E-commerce,high,E-commerce analytics indicates retail industry.,19
+911,Finance & Insurance,medium,Product Analyst in an insurance context.,19
+912,Technology,high,Data Engineer role in IT jobs.,19
+913,Technology,high,Data Engineering Lead in IT jobs.,19
+914,Technology,high,Product Analyst role in a software company.,19
+915,"PR, Advertising & Marketing",high,Marketing Strategist role indicates marketing industry.,19
+916,Technology,high,Product Analyst role in a tech company.,19
+917,Consulting / Professional Services,medium,Market Research Analyst in a consultancy context.,19
+918,Technology,high,Database role in IT jobs.,19
+919,Technology,high,Data Analyst roles in IT jobs.,19
+920,Technology,high,Operations Data Analyst in IT jobs.,19
+921,Technology,high,Business Analyst role in IT jobs.,19
+922,Technology,high,Business Analyst role in IT jobs.,19
+923,Healthcare,medium,Marketing Analytics in healthcare context.,19
+924,Energy / Utilities,high,Analytics in solar energy development.,19
+925,Technology,high,Business Analyst role in IT jobs.,19
+926,Technology,high,Business Analyst role in IT jobs.,19
+927,Other / Unknown,medium,Art and luxury sales context.,19
+928,Technology,high,Product Analyst role in IT jobs.,19
+929,Nonprofit,high,Data role in a community organization.,19
+930,Finance & Insurance,high,Enterprise Reporting Analyst in banking.,19
+931,Energy / Utilities,high,Analytics in energy sector.,19
+932,Transportation / Logistics,medium,Analytics in material handling.,19
+933,Finance & Insurance,high,CRE Relationship Manager in banking.,19
+934,Aerospace,high,Data roles in aerospace industry.,19
+935,Technology,high,Data Scientist role in IT jobs.,19
+936,"PR, Advertising & Marketing",high,Marketing Analytics Manager role indicates marketing.,19
+937,Technology,high,Business Intelligence Developer in IT jobs.,19
+938,Technology,high,Data Scientist role in IT jobs.,19
+939,Healthcare,high,Cost Report Analyst in health system.,19
+940,Consulting / Professional Services,medium,Market Research Analyst in consultancy.,19
+941,Retail / E-commerce,high,Digital Analytics in retail context.,19
+942,Finance & Insurance,high,Data Engineer role in insurance.,19
+943,Finance & Insurance,high,Insurance Product Analyst role indicates finance.,19
+944,Government / Public Sector,medium,Data Scientist role for government projects.,19
+945,Technology,high,Data roles in IT jobs.,19
+946,Healthcare,high,Clinical Data Analyst in healthcare.,19
+947,Automotive,high,Data roles in automotive industry.,19
+948,Consulting / Professional Services,medium,Data Analyst in consulting context.,19
+949,Technology,high,Data Analyst roles in IT jobs.,19
+950,Finance & Insurance,high,Financial Data Analyst role indicates finance.,19

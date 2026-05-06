@@ -1,0 +1,241 @@
+company_industry,skill,postings_with_skill,total_industry_postings,skill_share
+Consulting / Professional Services,skill_data_analysis,201,480,0.41875
+Consulting / Professional Services,skill_reporting,132,480,0.275
+Consulting / Professional Services,skill_machine_learning,103,480,0.21458333333333332
+Consulting / Professional Services,skill_cloud,20,480,0.041666666666666664
+Consulting / Professional Services,skill_data_visualization,19,480,0.03958333333333333
+Consulting / Professional Services,skill_etl,18,480,0.0375
+Consulting / Professional Services,skill_database,16,480,0.03333333333333333
+Consulting / Professional Services,skill_communication,11,480,0.022916666666666665
+Consulting / Professional Services,skill_sql,10,480,0.020833333333333332
+Consulting / Professional Services,skill_powerbi,9,480,0.01875
+Consulting / Professional Services,skill_r,8,480,0.016666666666666666
+Consulting / Professional Services,skill_excel,7,480,0.014583333333333334
+Consulting / Professional Services,skill_python,6,480,0.0125
+Consulting / Professional Services,skill_statistics,5,480,0.010416666666666666
+Consulting / Professional Services,skill_tableau,2,480,0.004166666666666667
+Consulting / Professional Services,skill_sas,0,480,0
+Education,skill_data_analysis,13,208,0.0625
+Education,skill_reporting,9,208,0.04326923076923077
+Education,skill_database,4,208,0.019230769230769232
+Education,skill_data_visualization,2,208,0.009615384615384616
+Education,skill_statistics,2,208,0.009615384615384616
+Education,skill_cloud,0,208,0
+Education,skill_communication,0,208,0
+Education,skill_etl,0,208,0
+Education,skill_excel,0,208,0
+Education,skill_machine_learning,0,208,0
+Education,skill_powerbi,0,208,0
+Education,skill_python,0,208,0
+Education,skill_r,0,208,0
+Education,skill_sas,0,208,0
+Education,skill_sql,0,208,0
+Education,skill_tableau,0,208,0
+Energy / Utilities,skill_data_analysis,40,73,0.547945205479452
+Energy / Utilities,skill_reporting,28,73,0.3835616438356164
+Energy / Utilities,skill_communication,2,73,0.0273972602739726
+Energy / Utilities,skill_data_visualization,2,73,0.0273972602739726
+Energy / Utilities,skill_database,2,73,0.0273972602739726
+Energy / Utilities,skill_etl,2,73,0.0273972602739726
+Energy / Utilities,skill_excel,2,73,0.0273972602739726
+Energy / Utilities,skill_sql,2,73,0.0273972602739726
+Energy / Utilities,skill_cloud,1,73,0.0136986301369863
+Energy / Utilities,skill_powerbi,1,73,0.0136986301369863
+Energy / Utilities,skill_statistics,1,73,0.0136986301369863
+Energy / Utilities,skill_machine_learning,0,73,0
+Energy / Utilities,skill_python,0,73,0
+Energy / Utilities,skill_r,0,73,0
+Energy / Utilities,skill_sas,0,73,0
+Energy / Utilities,skill_tableau,0,73,0
+Finance & Insurance,skill_data_analysis,152,341,0.44574780058651026
+Finance & Insurance,skill_reporting,108,341,0.31671554252199413
+Finance & Insurance,skill_database,20,341,0.05865102639296188
+Finance & Insurance,skill_communication,18,341,0.05278592375366569
+Finance & Insurance,skill_sql,16,341,0.0469208211143695
+Finance & Insurance,skill_cloud,10,341,0.02932551319648094
+Finance & Insurance,skill_etl,10,341,0.02932551319648094
+Finance & Insurance,skill_python,10,341,0.02932551319648094
+Finance & Insurance,skill_data_visualization,8,341,0.02346041055718475
+Finance & Insurance,skill_machine_learning,6,341,0.017595307917888565
+Finance & Insurance,skill_excel,5,341,0.01466275659824047
+Finance & Insurance,skill_tableau,5,341,0.01466275659824047
+Finance & Insurance,skill_r,4,341,0.011730205278592375
+Finance & Insurance,skill_powerbi,3,341,0.008797653958944282
+Finance & Insurance,skill_sas,2,341,0.005865102639296188
+Finance & Insurance,skill_statistics,2,341,0.005865102639296188
+Government / Public Sector,skill_database,73,193,0.37823834196891193
+Government / Public Sector,skill_data_analysis,57,193,0.29533678756476683
+Government / Public Sector,skill_reporting,20,193,0.10362694300518134
+Government / Public Sector,skill_sql,8,193,0.04145077720207254
+Government / Public Sector,skill_data_visualization,5,193,0.025906735751295335
+Government / Public Sector,skill_cloud,4,193,0.02072538860103627
+Government / Public Sector,skill_communication,4,193,0.02072538860103627
+Government / Public Sector,skill_etl,4,193,0.02072538860103627
+Government / Public Sector,skill_excel,3,193,0.015544041450777202
+Government / Public Sector,skill_machine_learning,3,193,0.015544041450777202
+Government / Public Sector,skill_powerbi,3,193,0.015544041450777202
+Government / Public Sector,skill_statistics,3,193,0.015544041450777202
+Government / Public Sector,skill_python,2,193,0.010362694300518135
+Government / Public Sector,skill_r,1,193,0.0051813471502590676
+Government / Public Sector,skill_sas,0,193,0
+Government / Public Sector,skill_tableau,0,193,0
+Healthcare,skill_data_analysis,220,540,0.4074074074074074
+Healthcare,skill_reporting,217,540,0.40185185185185185
+Healthcare,skill_data_visualization,114,540,0.2111111111111111
+Healthcare,skill_sql,83,540,0.1537037037037037
+Healthcare,skill_excel,75,540,0.1388888888888889
+Healthcare,skill_r,56,540,0.1037037037037037
+Healthcare,skill_communication,40,540,0.07407407407407407
+Healthcare,skill_database,19,540,0.03518518518518519
+Healthcare,skill_statistics,18,540,0.03333333333333333
+Healthcare,skill_etl,14,540,0.025925925925925925
+Healthcare,skill_python,8,540,0.014814814814814815
+Healthcare,skill_cloud,5,540,0.009259259259259259
+Healthcare,skill_machine_learning,3,540,0.005555555555555556
+Healthcare,skill_tableau,2,540,0.003703703703703704
+Healthcare,skill_sas,1,540,0.001851851851851852
+Healthcare,skill_powerbi,0,540,0
+Hospitality,skill_data_analysis,5,8,0.625
+Hospitality,skill_database,4,8,0.5
+Hospitality,skill_reporting,3,8,0.375
+Hospitality,skill_communication,2,8,0.25
+Hospitality,skill_cloud,0,8,0
+Hospitality,skill_data_visualization,0,8,0
+Hospitality,skill_etl,0,8,0
+Hospitality,skill_excel,0,8,0
+Hospitality,skill_machine_learning,0,8,0
+Hospitality,skill_powerbi,0,8,0
+Hospitality,skill_python,0,8,0
+Hospitality,skill_r,0,8,0
+Hospitality,skill_sas,0,8,0
+Hospitality,skill_sql,0,8,0
+Hospitality,skill_statistics,0,8,0
+Hospitality,skill_tableau,0,8,0
+Manufacturing,skill_data_analysis,14,50,0.28
+Manufacturing,skill_reporting,7,50,0.14
+Manufacturing,skill_database,4,50,0.08
+Manufacturing,skill_data_visualization,3,50,0.06
+Manufacturing,skill_communication,1,50,0.02
+Manufacturing,skill_powerbi,1,50,0.02
+Manufacturing,skill_r,1,50,0.02
+Manufacturing,skill_sql,1,50,0.02
+Manufacturing,skill_statistics,1,50,0.02
+Manufacturing,skill_cloud,0,50,0
+Manufacturing,skill_etl,0,50,0
+Manufacturing,skill_excel,0,50,0
+Manufacturing,skill_machine_learning,0,50,0
+Manufacturing,skill_python,0,50,0
+Manufacturing,skill_sas,0,50,0
+Manufacturing,skill_tableau,0,50,0
+Media / Entertainment,skill_data_analysis,21,44,0.4772727272727273
+Media / Entertainment,skill_reporting,12,44,0.2727272727272727
+Media / Entertainment,skill_machine_learning,3,44,0.06818181818181818
+Media / Entertainment,skill_cloud,1,44,0.022727272727272728
+Media / Entertainment,skill_data_visualization,1,44,0.022727272727272728
+Media / Entertainment,skill_etl,1,44,0.022727272727272728
+Media / Entertainment,skill_excel,1,44,0.022727272727272728
+Media / Entertainment,skill_statistics,1,44,0.022727272727272728
+Media / Entertainment,skill_communication,0,44,0
+Media / Entertainment,skill_database,0,44,0
+Media / Entertainment,skill_powerbi,0,44,0
+Media / Entertainment,skill_python,0,44,0
+Media / Entertainment,skill_r,0,44,0
+Media / Entertainment,skill_sas,0,44,0
+Media / Entertainment,skill_sql,0,44,0
+Media / Entertainment,skill_tableau,0,44,0
+Nonprofit,skill_reporting,5,8,0.625
+Nonprofit,skill_data_analysis,4,8,0.5
+Nonprofit,skill_communication,1,8,0.125
+Nonprofit,skill_database,1,8,0.125
+Nonprofit,skill_cloud,0,8,0
+Nonprofit,skill_data_visualization,0,8,0
+Nonprofit,skill_etl,0,8,0
+Nonprofit,skill_excel,0,8,0
+Nonprofit,skill_machine_learning,0,8,0
+Nonprofit,skill_powerbi,0,8,0
+Nonprofit,skill_python,0,8,0
+Nonprofit,skill_r,0,8,0
+Nonprofit,skill_sas,0,8,0
+Nonprofit,skill_sql,0,8,0
+Nonprofit,skill_statistics,0,8,0
+Nonprofit,skill_tableau,0,8,0
+Other / Unknown,skill_data_analysis,28,71,0.39436619718309857
+Other / Unknown,skill_reporting,20,71,0.28169014084507044
+Other / Unknown,skill_data_visualization,4,71,0.056338028169014086
+Other / Unknown,skill_database,4,71,0.056338028169014086
+Other / Unknown,skill_powerbi,3,71,0.04225352112676056
+Other / Unknown,skill_communication,2,71,0.028169014084507043
+Other / Unknown,skill_sql,2,71,0.028169014084507043
+Other / Unknown,skill_cloud,1,71,0.014084507042253521
+Other / Unknown,skill_etl,1,71,0.014084507042253521
+Other / Unknown,skill_excel,1,71,0.014084507042253521
+Other / Unknown,skill_machine_learning,1,71,0.014084507042253521
+Other / Unknown,skill_statistics,1,71,0.014084507042253521
+Other / Unknown,skill_python,0,71,0
+Other / Unknown,skill_r,0,71,0
+Other / Unknown,skill_sas,0,71,0
+Other / Unknown,skill_tableau,0,71,0
+Real Estate,skill_data_analysis,2,21,0.09523809523809523
+Real Estate,skill_reporting,2,21,0.09523809523809523
+Real Estate,skill_cloud,0,21,0
+Real Estate,skill_communication,0,21,0
+Real Estate,skill_data_visualization,0,21,0
+Real Estate,skill_database,0,21,0
+Real Estate,skill_etl,0,21,0
+Real Estate,skill_excel,0,21,0
+Real Estate,skill_machine_learning,0,21,0
+Real Estate,skill_powerbi,0,21,0
+Real Estate,skill_python,0,21,0
+Real Estate,skill_r,0,21,0
+Real Estate,skill_sas,0,21,0
+Real Estate,skill_sql,0,21,0
+Real Estate,skill_statistics,0,21,0
+Real Estate,skill_tableau,0,21,0
+Retail / E-commerce,skill_data_analysis,26,35,0.7428571428571429
+Retail / E-commerce,skill_reporting,14,35,0.4
+Retail / E-commerce,skill_communication,2,35,0.05714285714285714
+Retail / E-commerce,skill_cloud,1,35,0.02857142857142857
+Retail / E-commerce,skill_data_visualization,1,35,0.02857142857142857
+Retail / E-commerce,skill_etl,1,35,0.02857142857142857
+Retail / E-commerce,skill_powerbi,1,35,0.02857142857142857
+Retail / E-commerce,skill_statistics,1,35,0.02857142857142857
+Retail / E-commerce,skill_database,0,35,0
+Retail / E-commerce,skill_excel,0,35,0
+Retail / E-commerce,skill_machine_learning,0,35,0
+Retail / E-commerce,skill_python,0,35,0
+Retail / E-commerce,skill_r,0,35,0
+Retail / E-commerce,skill_sas,0,35,0
+Retail / E-commerce,skill_sql,0,35,0
+Retail / E-commerce,skill_tableau,0,35,0
+Technology,skill_data_analysis,371,880,0.42159090909090907
+Technology,skill_reporting,182,880,0.20681818181818182
+Technology,skill_sql,110,880,0.125
+Technology,skill_database,107,880,0.1215909090909091
+Technology,skill_cloud,92,880,0.10454545454545454
+Technology,skill_etl,83,880,0.09431818181818181
+Technology,skill_python,67,880,0.07613636363636364
+Technology,skill_data_visualization,63,880,0.0715909090909091
+Technology,skill_communication,52,880,0.05909090909090909
+Technology,skill_machine_learning,51,880,0.05795454545454545
+Technology,skill_statistics,31,880,0.035227272727272725
+Technology,skill_powerbi,29,880,0.03295454545454545
+Technology,skill_tableau,21,880,0.023863636363636365
+Technology,skill_excel,19,880,0.02159090909090909
+Technology,skill_r,16,880,0.01818181818181818
+Technology,skill_sas,2,880,0.0022727272727272726
+Transportation / Logistics,skill_data_analysis,15,31,0.4838709677419355
+Transportation / Logistics,skill_communication,4,31,0.12903225806451613
+Transportation / Logistics,skill_reporting,4,31,0.12903225806451613
+Transportation / Logistics,skill_statistics,4,31,0.12903225806451613
+Transportation / Logistics,skill_cloud,1,31,0.03225806451612903
+Transportation / Logistics,skill_database,1,31,0.03225806451612903
+Transportation / Logistics,skill_etl,1,31,0.03225806451612903
+Transportation / Logistics,skill_machine_learning,1,31,0.03225806451612903
+Transportation / Logistics,skill_powerbi,1,31,0.03225806451612903
+Transportation / Logistics,skill_data_visualization,0,31,0
+Transportation / Logistics,skill_excel,0,31,0
+Transportation / Logistics,skill_python,0,31,0
+Transportation / Logistics,skill_r,0,31,0
+Transportation / Logistics,skill_sas,0,31,0
+Transportation / Logistics,skill_sql,0,31,0
+Transportation / Logistics,skill_tableau,0,31,0

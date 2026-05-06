@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+801,Technology,high,Data roles indicate a tech focus.,17
+802,Technology,high,Business intelligence roles suggest a tech industry.,17
+803,Energy / Utilities,high,Focus on clean energy projects.,17
+804,Consulting / Professional Services,medium,Market research indicates consulting services.,17
+805,Consulting / Professional Services,medium,Analytics in marketing suggests consulting.,17
+806,Government / Public Sector,medium,Security clearance indicates government contracts.,17
+807,Technology,high,Engineering and analytics roles suggest tech.,17
+808,Finance & Insurance,high,P&C insurance focus indicates finance sector.,17
+809,Finance & Insurance,high,Financial analyst role indicates finance industry.,17
+810,Healthcare,high,Healthcare client focus suggests healthcare industry.,17
+811,Consulting / Professional Services,medium,Business analyst role indicates consulting.,17
+812,Consulting / Professional Services,high,Market research role suggests consulting services.,17
+813,Consulting / Professional Services,high,Market research and analytics indicate consulting.,17
+814,Technology,high,Data science roles indicate a tech focus.,17
+815,Technology,high,Engineering roles suggest a tech industry.,17
+816,Manufacturing,medium,Data engineering in manufacturing context.,17
+817,Technology,high,Data engineering roles indicate a tech focus.,17
+818,Consulting / Professional Services,medium,Marketing analytics suggests consulting services.,17
+819,Technology,high,Data science roles indicate a tech focus.,17
+820,Retail / E-commerce,high,E-commerce focus indicates retail industry.,17
+821,Technology,high,Analytics roles suggest a tech industry.,17
+822,Consulting / Professional Services,medium,Operations analyst role indicates consulting.,17
+823,Finance & Insurance,medium,Reporting analyst role suggests finance sector.,17
+824,Finance & Insurance,high,Risk reporting indicates finance industry.,17
+825,Technology,high,Database roles indicate a tech focus.,17
+826,Consulting / Professional Services,medium,Marketing analytics suggests consulting services.,17
+827,Consulting / Professional Services,medium,Marketing analytics suggests consulting services.,17
+828,Technology,high,Data science roles indicate a tech focus.,17
+829,Technology,high,Business intelligence roles indicate a tech focus.,17
+830,Retail / E-commerce,high,Marketing analytics in retail context.,17
+831,Technology,high,Analytics roles indicate a tech focus.,17
+832,Other / Unknown,low,Investor relations role is ambiguous.,17
+833,Technology,high,Data analyst role indicates a tech focus.,17
+834,Technology,high,Data engineering roles indicate a tech focus.,17
+835,Technology,high,Data science roles indicate a tech focus.,17
+836,Technology,high,Business intelligence roles indicate a tech focus.,17
+837,Healthcare,medium,Claims analytics suggests healthcare industry.,17
+838,Healthcare,high,Healthcare experience indicates healthcare industry.,17
+839,Technology,high,Data architecture roles indicate a tech focus.,17
+840,Technology,high,Data architecture roles indicate a tech focus.,17
+841,Consulting / Professional Services,medium,Diverse roles suggest consulting services.,17
+842,Finance & Insurance,high,Financial analyst role indicates finance industry.,17
+843,Technology,high,Data roles indicate a tech focus.,17
+844,Retail / E-commerce,high,Retail focus indicates e-commerce industry.,17
+845,Retail / E-commerce,high,E-commerce focus indicates retail industry.,17
+846,Healthcare,medium,Healthcare roles suggest healthcare industry.,17
+847,Healthcare,high,Pharmacy data analysis indicates healthcare industry.,17
+848,Hospitality,medium,HR operations in hospitality context.,17
+849,Technology,high,Data engineering roles indicate a tech focus.,17
+850,Technology,high,Data engineering roles indicate a tech focus.,17

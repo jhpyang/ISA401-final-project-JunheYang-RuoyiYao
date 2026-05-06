@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+1101,Manufacturing,high,Known for high-performance blenders.,23
+1102,Finance & Insurance,high,Focus on financial reporting and analysis.,23
+1103,Technology,high,Involves data engineering and IT roles.,23
+1104,Government / Public Sector,high,Works with federal government contracts.,23
+1105,Telecommunications,medium,Involves central office facilities and systems.,23
+1106,Energy / Utilities,high,Focus on heavy equipment utilization in energy.,23
+1107,Finance & Insurance,high,Commercial equipment finance services.,23
+1108,Retail / E-commerce,high,Data initiatives for Walmart's B2B operations.,23
+1109,Technology,medium,Involves data analysis and business insights.,23
+1110,Healthcare,high,Database management in a clinical setting.,23
+1111,Other / Unknown,low,General product analysis without clear industry.,23
+1112,Finance & Insurance,high,Investment management capabilities.,23
+1113,Manufacturing,medium,Supports capital planning in manufacturing.,23
+1114,Finance & Insurance,high,Focus on financial services and database management.,23
+1115,Technology,high,Involves cloud security architecture.,23
+1116,Government / Public Sector,high,Provides support to government programs.,23
+1117,Technology,high,Focus on connectivity solutions.,23
+1118,Retail / E-commerce,medium,Product analysis for eCommerce initiatives.,23
+1119,Finance & Insurance,high,Community banking and financial services.,23
+1120,Retail / E-commerce,medium,Reporting for a retail organization.,23
+1121,Finance & Insurance,high,Financial analysis for various clients.,23
+1122,Education,medium,Data analytics in a school district.,23
+1123,Government / Public Sector,high,Works with global financial institutions.,23
+1124,Other / Unknown,low,Marketing and analyst relations without clear industry.,23
+1125,Finance & Insurance,high,Payments processing and financial services.,23
+1126,Technology,high,AI-powered work solutions.,23
+1127,Technology,high,Analytics reporting services.,23
+1128,Technology,high,Business intelligence and analytics.,23
+1129,Finance & Insurance,high,Financial reporting and analysis.,23
+1130,Technology,high,Product analysis in tech solutions.,23
+1131,Consulting / Professional Services,medium,Advisory services in analytics.,23
+1132,Technology,high,Data analysis and engineering roles.,23
+1133,Retail / E-commerce,medium,Market research for product offerings.,23
+1134,Transportation / Logistics,high,Shipping services and operations.,23
+1135,Government / Public Sector,high,Database management for government operations.,23
+1136,Technology,high,Business analysis in tech.,23
+1137,Manufacturing,medium,Product analysis in manufacturing.,23
+1138,Technology,high,Database analysis in IT.,23
+1139,Media / Entertainment,medium,Data science in marketing and media.,23
+1140,Finance & Insurance,high,Marketing analytics in banking.,23
+1141,Technology,high,Data analysis in logistics.,23
+1142,Healthcare,high,Pharmaceutical industry focus.,23
+1143,Technology,high,IT asset management solutions.,23
+1144,Consulting / Professional Services,medium,Marketing analytics and consulting.,23
+1145,Marketing / Advertising,high,Marketing analytics for campaigns.,23
+1146,Technology,high,Business intelligence development.,23
+1147,Technology,high,Data analysis in IT services.,23
+1148,Technology,high,Data analysis in AdTech.,23
+1149,Technology,high,Business intelligence data analysis.,23
+1150,Manufacturing,high,Demand planning in manufacturing.,23

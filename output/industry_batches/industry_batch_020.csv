@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+951,Consulting / Professional Services,high,Business analysis indicates consulting services.,20
+952,Consulting / Professional Services,high,Focus on staffing solutions for various industries.,20
+953,Media / Entertainment,high,Publishing platform for creative content.,20
+954,Consulting / Professional Services,high,Business analysis and stakeholder collaboration.,20
+955,Energy / Utilities,medium,Operations analyst role in energy sector.,20
+956,Healthcare,high,Focus on senior living and resident care.,20
+957,Consulting / Professional Services,high,Data analysis for various business domains.,20
+958,Technology,high,Data science role in IT department.,20
+959,Finance & Insurance,high,Business analyst role in banking.,20
+960,Technology,high,Product analysis in IT sector.,20
+961,Retail / E-commerce,medium,Operations analytics in retail logistics.,20
+962,Finance & Insurance,high,Data analyst role in banking.,20
+963,Consulting / Professional Services,high,Business analyst for technology modernization.,20
+964,Finance & Insurance,high,Data analysis supporting insurance industry.,20
+965,Consulting / Professional Services,medium,Focus on data analytics for job seekers.,20
+966,Finance & Insurance,high,Operations analyst in financial services.,20
+967,Healthcare,high,Business analyst role in healthcare.,20
+968,Technology,high,Product analyst in IT sector.,20
+969,Government / Public Sector,high,Business analyst role for government projects.,20
+970,Government / Public Sector,high,Data scientist role requiring security clearance.,20
+971,Finance & Insurance,high,Product analyst in financial services.,20
+972,Government / Public Sector,high,Data analyst role requiring security clearance.,20
+973,Healthcare,high,Retail healthcare business support organization.,20
+974,Finance & Insurance,high,Operations analyst in financial services.,20
+975,Technology,high,Data scientist role in IT.,20
+976,Media / Entertainment,high,Product analyst in media and news.,20
+977,Finance & Insurance,high,Operations analyst in financial services.,20
+978,Finance & Insurance,high,Data analyst role in payments business.,20
+979,Consulting / Professional Services,high,Analytics manager in digital consultancy.,20
+980,Finance & Insurance,high,Trading role in financial services.,20
+981,Government / Public Sector,high,Database analyst with security clearance.,20
+982,Finance & Insurance,high,Financial analyst in consumer business.,20
+983,Technology,high,Data engineer role in IT.,20
+984,Technology,high,AI data engineer in IT.,20
+985,Technology,high,Data scientist role in IT.,20
+986,Legal,medium,Market research analyst in legal context.,20
+987,Healthcare,high,Data analyst role in healthcare network.,20
+988,Technology,high,Data engineer role in IT.,20
+989,Technology,high,Data management analyst in IT.,20
+990,Hospitality,medium,Market research analyst in hospitality.,20
+991,Technology,high,Data engineer role in IT.,20
+992,Finance & Insurance,high,Data engineer role in financial services.,20
+993,Finance & Insurance,high,Financial analyst in homebuilding.,20
+994,Technology,high,Data scientist role in IT.,20
+995,Consulting / Professional Services,high,Business analyst in consulting.,20
+996,Media / Entertainment,high,Senior data analyst in media.,20
+997,Technology,high,Business intelligence analyst in IT.,20
+998,Government / Public Sector,high,Data management analyst for Navy program.,20
+999,Technology,high,Lead data engineer in IT.,20
+1000,Consulting / Professional Services,high,Data reporting analyst in consulting.,20

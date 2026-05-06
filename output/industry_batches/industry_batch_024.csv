@@ -1,0 +1,7 @@
+company_id,industry,confidence,reason,batch_id
+1151,Technology,high,Data roles indicate a tech focus.,24
+1152,Technology,high,Business Analyst role in IT sector.,24
+1153,Healthcare,high,Product Analyst role in medical context.,24
+1154,Government / Public Sector,medium,"Client is VDOT, a government entity.",24
+1155,Technology,high,Data Analyst role in tech environment.,24
+1156,Media / Entertainment,medium,Marketing roles suggest media industry.,24

@@ -1,2 +1,2 @@
-total_postings,unique_companies,unique_states,avg_salary,median_salary,min_salary,max_salary,avg_skill_count,median_skill_count,rows_with_state,rows_missing_state,rows_with_census,rows_with_bls
-2983,1156,49,101850.72632249413,101850.72632249413,101850.72632249413,101850.72632249413,1.2303050620181026,1,2819,164,2819,2808
+total_postings,unique_companies,unique_states,unique_industries,avg_posting_salary,median_posting_salary,min_posting_salary,max_posting_salary,avg_skill_count,median_skill_count,rows_with_state,rows_missing_state,rows_with_census,rows_with_bls
+2983,1156,49,15,101850.72632249413,95885.96,9999.41,400000,1.2303050620181026,1,2819,164,2819,2808

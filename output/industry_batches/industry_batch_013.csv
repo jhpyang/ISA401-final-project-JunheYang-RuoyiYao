@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+601,Media / Entertainment,high,Digital media company with multiple brands.,13
+602,Consulting / Professional Services,high,Geospatial data analysis for mission-focused teams.,13
+603,Technology,high,Focus on data engineering and IT operations.,13
+604,Government / Public Sector,high,Supports U.S. Department of Justice.,13
+605,Consulting / Professional Services,medium,Liaison role between business units.,13
+606,Healthcare,medium,Focus on health-related data science.,13
+607,Hospitality,high,Casino and hotel marketing analytics.,13
+608,Technology,high,Data reporting and analytics role.,13
+609,Aerospace & Defense,high,Financial analysis for defense contractor.,13
+610,Technology,high,Business analyst role in enterprise technology.,13
+611,Finance & Insurance,high,Analytics for institutional finance.,13
+612,Technology,high,Data engineering in IT sector.,13
+613,Healthcare,medium,Market research in senior living.,13
+614,Consulting / Professional Services,medium,Sales analytics and market research.,13
+615,Healthcare,high,Data management in health center.,13
+616,Finance & Insurance,high,Business analytics in banking.,13
+617,Consulting / Professional Services,medium,HR analytics for workforce strategy.,13
+618,Government / Public Sector,high,Database roles with security clearance.,13
+619,Finance & Insurance,medium,Data engineering for insurance firm.,13
+620,Technology,high,Data analysis in IT sector.,13
+621,Technology,high,Data engineering in AI-focused team.,13
+622,Energy / Utilities,high,Operations analysis in energy sector.,13
+623,Technology,high,Data engineering for cloud-based solutions.,13
+624,Consulting / Professional Services,medium,Data analytics in engineering and manufacturing.,13
+625,Technology,high,Product analysis in tech development.,13
+626,Finance & Insurance,high,Liquidity reporting in financial services.,13
+627,Finance & Insurance,high,Financial reporting in investment management.,13
+628,Technology,high,Business analysis in IT projects.,13
+629,Government / Public Sector,high,Database analysis with security clearance.,13
+630,Sales,medium,Analytics for growth in sales.,13
+631,Government / Public Sector,high,Data science for national security.,13
+632,Technology,high,Data analytics in tech and data management.,13
+633,Consulting / Professional Services,high,Business analysis in IT consulting.,13
+634,Finance & Insurance,high,Operations analysis in hedge fund.,13
+635,Government / Public Sector,high,Financial analysis for intelligence community.,13
+636,Finance & Insurance,high,Market research in investment consulting.,13
+637,Hospitality,high,Data engineering for vacation company.,13
+638,Finance & Insurance,high,Business analysis in financial compliance.,13
+639,Technology,high,Data science and engineering in tech.,13
+640,Technology,high,Data analytics in IT roles.,13
+641,Finance & Insurance,high,Research analysis in investment.,13
+642,Technology,high,Digital analytics in e-commerce.,13
+643,Technology,high,Lead data analysis in IT.,13
+644,Technology,high,Lead data analysis in IT.,13
+645,Healthcare,high,Business analysis in pharmacy services.,13
+646,Healthcare,high,Reporting analysis in pharmacy network.,13
+647,Healthcare,high,Data engineering in healthcare.,13
+648,Government / Public Sector,high,Intelligence analysis for military.,13
+649,Government / Public Sector,high,Operations analysis for large organizations.,13
+650,Healthcare,high,Product testing in pharmacy services.,13

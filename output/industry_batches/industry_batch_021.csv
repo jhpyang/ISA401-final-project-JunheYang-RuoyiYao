@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+1001,Technology,high,IT services and data engineering focus.,21
+1002,Finance & Insurance,high,Analyzing financial data for cloud services.,21
+1003,Technology,high,Web data analysis for digital operations.,21
+1004,Technology,high,IT services and software development.,21
+1005,Technology,high,Overseeing IT and analytics services.,21
+1006,Manufacturing,medium,Financial analysis in manufacturing sector.,21
+1007,Healthcare,medium,Commercial analysis in healthcare context.,21
+1008,Government / Public Sector,medium,Database roles with security clearance.,21
+1009,Technology,high,Data analysis and business intelligence roles.,21
+1010,Government / Public Sector,high,Supporting federal law enforcement agency.,21
+1011,Technology,high,Advanced technology for industrial markets.,21
+1012,Healthcare,high,Medical technologies and financial analysis.,21
+1013,Technology,high,Business analysis for software delivery.,21
+1014,Media / Entertainment,medium,Market expansion in gaming and technology.,21
+1015,Technology,high,Business intelligence and analytics focus.,21
+1016,Healthcare,medium,Systems analysis in a medical context.,21
+1017,Technology,high,Data protection solutions for digital security.,21
+1018,Consulting / Professional Services,high,Management consulting for revenue growth.,21
+1019,Finance & Insurance,high,Asset management and financial analysis.,21
+1020,Technology,high,Data engineering and scalable systems.,21
+1021,Technology,high,Data engineering for client projects.,21
+1022,Government / Public Sector,high,Technical services for U.S. government.,21
+1023,Real Estate,medium,Financial analysis for development firm.,21
+1024,Manufacturing,high,Analytics in manufacturing and commercial functions.,21
+1025,Manufacturing,high,Analytics in manufacturing and commercial functions.,21
+1026,Finance & Insurance,high,Data science in insurance sector.,21
+1027,Technology,high,Business analysis for technology solutions.,21
+1028,Technology,high,Data engineering for infrastructure.,21
+1029,Consulting / Professional Services,high,Business analysis for fundraising initiatives.,21
+1030,Technology,high,Data analysis for marketing campaigns.,21
+1031,Education,high,Data analysis for university reporting.,21
+1032,Media / Entertainment,high,Data analytics for news coverage.,21
+1033,Healthcare,high,Data analysis in scientific context.,21
+1034,Healthcare,high,Business intelligence in scientific field.,21
+1035,Finance & Insurance,high,Financial reporting for SEC filings.,21
+1036,Real Estate,medium,Market research in commercial real estate.,21
+1037,Technology,high,Product analysis in tech industry.,21
+1038,Manufacturing,high,Product analysis in automotive sector.,21
+1039,Transportation / Logistics,high,Finance analysis in aviation industry.,21
+1040,Manufacturing,high,Data analysis for climate solutions.,21
+1041,Finance & Insurance,high,Data analysis in financial services.,21
+1042,Technology,high,Analytics for financial institutions.,21
+1043,Technology,high,Business analysis for IT solutions.,21
+1044,Healthcare,high,Data engineering for healthcare initiatives.,21
+1045,Technology,high,Business intelligence in IT services.,21
+1046,Technology,high,Business analysis for integration systems.,21
+1047,Technology,high,Data analysis in IT services.,21
+1048,Consulting / Professional Services,high,Financial analysis in professional services.,21
+1049,Nonprofit,medium,Database marketing for community initiatives.,21
+1050,Technology,high,Database development for innovative products.,21

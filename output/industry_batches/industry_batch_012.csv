@@ -1,0 +1,51 @@
+company_id,industry,confidence,reason,batch_id
+551,Government / Public Sector,high,Supports U.S. Special Operations Command.,12
+552,Government / Public Sector,high,Supports military database projects.,12
+553,Government / Public Sector,high,Supports military database projects.,12
+554,Nonprofit,high,Promotes investment in Puerto Rico.,12
+555,Government / Public Sector,high,Focus on drug-related crime analysis.,12
+556,Media / Entertainment,medium,Market research for strategic insights.,12
+557,Transportation / Logistics,high,Sales role in logistics company.,12
+558,Transportation / Logistics,high,Sales role in logistics company.,12
+559,Manufacturing,medium,Sales operations in manufacturing.,12
+560,Technology,high,IT role in data visualization.,12
+561,Government / Public Sector,high,Supports government process improvement.,12
+562,Finance & Insurance,high,Quant analytics in financial services.,12
+563,Finance & Insurance,high,Asset management services.,12
+564,Finance & Insurance,high,Quantitative analytics in finance.,12
+565,Technology,high,IT role in data product management.,12
+566,Technology,high,Data science role in IT.,12
+567,Manufacturing,high,Operations analyst in food manufacturing.,12
+568,Technology,high,IT role in business analysis.,12
+569,Manufacturing,high,Market research in manufacturing.,12
+570,Technology,high,Business analyst in IT.,12
+571,Government / Public Sector,high,Supports government financial systems.,12
+572,Government / Public Sector,high,Supports government clients.,12
+573,Media / Entertainment,medium,Sales analytics in marketing.,12
+574,Consulting / Professional Services,medium,Data analysis in various sectors.,12
+575,Technology,high,Data analyst role in IT.,12
+576,Government / Public Sector,high,Operations analyst in national security.,12
+577,Manufacturing,high,Analytics in consumer products.,12
+578,Technology,high,Data engineering in IT.,12
+579,Technology,high,Data engineering in IT.,12
+580,Media / Entertainment,medium,Digital marketing analytics.,12
+581,Healthcare,medium,Data science in healthcare.,12
+582,Technology,high,Data science role in IT.,12
+583,Consulting / Professional Services,medium,Data analysis across sectors.,12
+584,Technology,high,Product analyst in IT.,12
+585,Finance & Insurance,high,Operations analyst in finance.,12
+586,Technology,high,Data science and engineering.,12
+587,Technology,high,Data analyst role in IT.,12
+588,Transportation / Logistics,high,Product analysis in autonomous vehicles.,12
+589,Government / Public Sector,high,Operations analyst for government services.,12
+590,Food & Beverage,high,Financial analysis in food industry.,12
+591,Finance & Insurance,high,Financial analysis in biotech.,12
+592,Government / Public Sector,high,Business intelligence for government.,12
+593,Technology,high,Product analysis in engineering.,12
+594,Consulting / Professional Services,medium,Analytics in HR and recruitment.,12
+595,Finance & Insurance,high,Operations analyst in finance.,12
+596,Healthcare,high,Financial analyst in healthcare.,12
+597,Education,medium,Data analytics in educational support.,12
+598,Hospitality,medium,Marketing database analysis for resort.,12
+599,Technology,high,Business analyst role in IT.,12
+600,Technology,high,Data analyst role in IT.,12
