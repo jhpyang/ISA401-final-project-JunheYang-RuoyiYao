@@ -3,31 +3,21 @@
 # Purpose:
 #   Exploratory data analysis for enhanced final dataset
 #
-# Important note:
+# Important:
 #   Do NOT create summary columns named avg_salary inside summarize().
-#   That can overwrite the original avg_salary column and cause median_salary
-#   to equal avg_salary incorrectly.
+#   Use avg_posting_salary and median_posting_salary instead.
 #
 # Input:
 #   data_clean/final_merged_data_enhanced.csv
 #
 # Output:
-#   output/eda_overview_summary.csv
-#   output/eda_role_salary_summary.csv
-#   output/eda_skill_salary_summary.csv
-#   output/eda_experience_salary_summary.csv
-#   output/eda_state_salary_summary.csv
-#   output/eda_skill_by_role.csv
-#   output/eda_role_by_experience.csv
-#   output/eda_state_labor_context.csv
-#   output/eda_correlation_summary.csv
-#   output/eda_company_summary.csv
-#   output/eda_search_query_summary.csv
-#   output/eda_industry_salary_summary.csv
-#   output/eda_skill_by_industry.csv
-#   output/eda_title_group_salary_summary.csv
-#   output/eda_high_salary_skill_summary.csv
+#   EDA summary files for Tableau / Power BI dashboard
 # -------------------------------
+
+# -------------------------------
+# Set working directory
+# -------------------------------
+setwd("E:/ISA401 Document/ISA401-final-project-JunheYang-RuoyiYao")
 
 # -------------------------------
 # Load required libraries
@@ -37,7 +27,7 @@ library(readr)
 library(stringr)
 
 # -------------------------------
-# Create folders
+# Create output folder
 # -------------------------------
 dir.create("output", showWarnings = FALSE)
 
@@ -50,7 +40,7 @@ final_data <- read_csv(
 )
 
 # -------------------------------
-# Check required input columns
+# Check required columns
 # -------------------------------
 required_cols <- c(
   "job_id",
@@ -89,6 +79,34 @@ skill_columns <- names(final_data) |>
   setdiff("skill_count")
 
 # -------------------------------
+# Helper function for first non-missing value
+# -------------------------------
+first_non_missing <- function(x) {
+  x <- x[!is.na(x)]
+  if (length(x) == 0) {
+    return(NA)
+  } else {
+    return(x[1])
+  }
+}
+
+# -------------------------------
+# Skill label lookup
+# -------------------------------
+skill_label_lookup <- tibble(
+  skill = skill_columns,
+  skill_label = skill_columns |>
+    str_remove("^skill_") |>
+    str_replace_all("_", " ") |>
+    str_to_title()
+)
+
+write_csv(
+  skill_label_lookup,
+  "output/skill_label_lookup.csv"
+)
+
+# -------------------------------
 # 1. Overall EDA overview
 # -------------------------------
 eda_overview_summary <- final_data |>
@@ -115,7 +133,7 @@ write_csv(
 )
 
 # -------------------------------
-# 2. Salary by cleaned LLM role category
+# 2. Salary by LLM role category
 # -------------------------------
 eda_role_salary_summary <- final_data |>
   group_by(llm_role_category_clean) |>
@@ -136,7 +154,7 @@ write_csv(
 )
 
 # -------------------------------
-# 3. Salary by cleaned title group
+# 3. Salary by cleaned job title group
 # -------------------------------
 eda_title_group_salary_summary <- final_data |>
   group_by(job_title_group) |>
@@ -157,10 +175,11 @@ write_csv(
 )
 
 # -------------------------------
-# 4. Salary by skill
+# 4. Skill frequency and salary summary
 # -------------------------------
 eda_skill_salary_summary <- final_data |>
   select(
+    job_id,
     avg_salary,
     all_of(skill_columns)
   ) |>
@@ -169,10 +188,17 @@ eda_skill_salary_summary <- final_data |>
     names_to = "skill",
     values_to = "has_skill"
   ) |>
-  filter(has_skill == TRUE) |>
-  group_by(skill) |>
+  mutate(
+    has_skill = as.integer(has_skill)
+  ) |>
+  left_join(
+    skill_label_lookup,
+    by = "skill"
+  ) |>
+  filter(has_skill == 1) |>
+  group_by(skill, skill_label) |>
   summarize(
-    postings = n(),
+    postings = n_distinct(job_id),
     avg_posting_salary = mean(avg_salary, na.rm = TRUE),
     median_posting_salary = median(avg_salary, na.rm = TRUE),
     min_posting_salary = min(avg_salary, na.rm = TRUE),
@@ -187,7 +213,7 @@ write_csv(
 )
 
 # -------------------------------
-# 5. Salary by LLM experience level
+# 5. Salary by experience level
 # -------------------------------
 eda_experience_salary_summary <- final_data |>
   group_by(llm_experience_level) |>
@@ -219,7 +245,7 @@ write_csv(
 )
 
 # -------------------------------
-# 6. State-level salary and posting summary
+# 6. State-level salary summary
 # -------------------------------
 eda_state_salary_summary <- final_data |>
   filter(!is.na(state), state != "") |>
@@ -231,10 +257,10 @@ eda_state_salary_summary <- final_data |>
     min_posting_salary = min(avg_salary, na.rm = TRUE),
     max_posting_salary = max(avg_salary, na.rm = TRUE),
     avg_skill_count = mean(skill_count, na.rm = TRUE),
-    median_household_income = first(na.omit(median_household_income)),
-    poverty_rate = first(na.omit(poverty_rate)),
-    avg_unemployment_rate = first(na.omit(avg_unemployment_rate)),
-    latest_unemployment_rate = first(na.omit(latest_unemployment_rate)),
+    median_household_income = first_non_missing(median_household_income),
+    poverty_rate = first_non_missing(poverty_rate),
+    avg_unemployment_rate = first_non_missing(avg_unemployment_rate),
+    latest_unemployment_rate = first_non_missing(latest_unemployment_rate),
     .groups = "drop"
   ) |>
   arrange(desc(postings))
@@ -245,10 +271,11 @@ write_csv(
 )
 
 # -------------------------------
-# 7. Skill frequency by role category
+# 7. Skill share by role category
 # -------------------------------
 eda_skill_by_role <- final_data |>
   select(
+    job_id,
     llm_role_category_clean,
     all_of(skill_columns)
   ) |>
@@ -257,11 +284,19 @@ eda_skill_by_role <- final_data |>
     names_to = "skill",
     values_to = "has_skill"
   ) |>
-  group_by(llm_role_category_clean, skill) |>
+  mutate(
+    has_skill = as.integer(has_skill)
+  ) |>
+  left_join(
+    skill_label_lookup,
+    by = "skill"
+  ) |>
+  group_by(llm_role_category_clean, skill, skill_label) |>
   summarize(
-    postings_with_skill = sum(has_skill == TRUE, na.rm = TRUE),
-    total_role_postings = n(),
+    postings_with_skill = n_distinct(job_id[has_skill == 1]),
+    total_role_postings = n_distinct(job_id),
     skill_share = postings_with_skill / total_role_postings,
+    skill_share_pct = skill_share * 100,
     .groups = "drop"
   ) |>
   arrange(llm_role_category_clean, desc(skill_share))
@@ -283,7 +318,8 @@ eda_role_by_experience <- final_data |>
   group_by(llm_role_category_clean) |>
   mutate(
     role_total = sum(n),
-    experience_share = n / role_total
+    experience_share = n / role_total,
+    experience_share_pct = experience_share * 100
   ) |>
   ungroup()
 
@@ -302,10 +338,10 @@ eda_state_labor_context <- final_data |>
     postings = n(),
     avg_posting_salary = mean(avg_salary, na.rm = TRUE),
     median_posting_salary = median(avg_salary, na.rm = TRUE),
-    median_household_income = first(na.omit(median_household_income)),
-    poverty_rate = first(na.omit(poverty_rate)),
-    avg_unemployment_rate = first(na.omit(avg_unemployment_rate)),
-    latest_unemployment_rate = first(na.omit(latest_unemployment_rate)),
+    median_household_income = first_non_missing(median_household_income),
+    poverty_rate = first_non_missing(poverty_rate),
+    avg_unemployment_rate = first_non_missing(avg_unemployment_rate),
+    latest_unemployment_rate = first_non_missing(latest_unemployment_rate),
     .groups = "drop"
   ) |>
   arrange(desc(postings))
@@ -318,15 +354,6 @@ write_csv(
 # -------------------------------
 # 10. Correlation summary
 # -------------------------------
-correlation_data <- final_data |>
-  select(
-    avg_salary,
-    skill_count,
-    median_household_income,
-    poverty_rate,
-    avg_unemployment_rate
-  )
-
 eda_correlation_summary <- tibble(
   variable = c(
     "skill_count",
@@ -335,10 +362,10 @@ eda_correlation_summary <- tibble(
     "avg_unemployment_rate"
   ),
   correlation_with_avg_salary = c(
-    cor(correlation_data$avg_salary, correlation_data$skill_count, use = "complete.obs"),
-    cor(correlation_data$avg_salary, correlation_data$median_household_income, use = "complete.obs"),
-    cor(correlation_data$avg_salary, correlation_data$poverty_rate, use = "complete.obs"),
-    cor(correlation_data$avg_salary, correlation_data$avg_unemployment_rate, use = "complete.obs")
+    cor(final_data$avg_salary, final_data$skill_count, use = "complete.obs"),
+    cor(final_data$avg_salary, final_data$median_household_income, use = "complete.obs"),
+    cor(final_data$avg_salary, final_data$poverty_rate, use = "complete.obs"),
+    cor(final_data$avg_salary, final_data$avg_unemployment_rate, use = "complete.obs")
   )
 ) |>
   arrange(desc(abs(correlation_with_avg_salary)))
@@ -409,6 +436,7 @@ write_csv(
 # -------------------------------
 eda_skill_by_industry <- final_data |>
   select(
+    job_id,
     company_industry,
     all_of(skill_columns)
   ) |>
@@ -417,11 +445,19 @@ eda_skill_by_industry <- final_data |>
     names_to = "skill",
     values_to = "has_skill"
   ) |>
-  group_by(company_industry, skill) |>
+  mutate(
+    has_skill = as.integer(has_skill)
+  ) |>
+  left_join(
+    skill_label_lookup,
+    by = "skill"
+  ) |>
+  group_by(company_industry, skill, skill_label) |>
   summarize(
-    postings_with_skill = sum(has_skill == TRUE, na.rm = TRUE),
-    total_industry_postings = n(),
+    postings_with_skill = n_distinct(job_id[has_skill == 1]),
+    total_industry_postings = n_distinct(job_id),
     skill_share = postings_with_skill / total_industry_postings,
+    skill_share_pct = skill_share * 100,
     .groups = "drop"
   ) |>
   arrange(company_industry, desc(skill_share))
@@ -443,7 +479,8 @@ eda_industry_role_summary <- final_data |>
   group_by(company_industry) |>
   mutate(
     industry_total = sum(n),
-    role_share = n / industry_total
+    role_share = n / industry_total,
+    role_share_pct = role_share * 100
   ) |>
   ungroup()
 
@@ -464,7 +501,8 @@ eda_industry_experience_summary <- final_data |>
   group_by(company_industry) |>
   mutate(
     industry_total = sum(n),
-    experience_share = n / industry_total
+    experience_share = n / industry_total,
+    experience_share_pct = experience_share * 100
   ) |>
   ungroup()
 
@@ -498,25 +536,51 @@ eda_high_salary_skill_summary <- final_data |>
     names_to = "skill",
     values_to = "has_skill"
   ) |>
-  group_by(skill) |>
+  mutate(
+    has_skill = as.integer(has_skill)
+  ) |>
+  left_join(
+    skill_label_lookup,
+    by = "skill"
+  ) |>
+  group_by(skill, skill_label) |>
   summarize(
-    total_postings = n_distinct(job_id),
-    total_skill_postings = n_distinct(job_id[has_skill == TRUE]),
-    total_skill_rate = total_skill_postings / total_postings,
+    total_skill_postings = n_distinct(job_id[has_skill == 1]),
+    total_skill_rate = total_skill_postings / n_distinct(job_id),
+    total_skill_rate_pct = total_skill_rate * 100,
     
-    high_salary_postings = n_distinct(job_id[high_salary_job == TRUE]),
-    high_salary_skill_postings = n_distinct(job_id[has_skill == TRUE & high_salary_job == TRUE]),
-    high_salary_skill_rate = high_salary_skill_postings / high_salary_postings,
+    high_salary_skill_postings = n_distinct(job_id[has_skill == 1 & high_salary_job == TRUE]),
+    high_salary_skill_rate = high_salary_skill_postings / n_distinct(job_id[high_salary_job == TRUE]),
+    high_salary_skill_rate_pct = high_salary_skill_rate * 100,
     
     lift = high_salary_skill_rate - total_skill_rate,
+    lift_pct_point = lift * 100,
     salary_cutoff_75 = salary_cutoff_75,
     .groups = "drop"
   ) |>
-  arrange(desc(high_salary_skill_rate))
+  arrange(desc(lift_pct_point))
 
 write_csv(
   eda_high_salary_skill_summary,
   "output/eda_high_salary_skill_summary.csv"
+)
+
+# Clean Tableau version without repeated denominator columns
+eda_high_salary_skill_tableau <- eda_high_salary_skill_summary |>
+  filter(total_skill_postings >= 30) |>
+  select(
+    skill_label,
+    total_skill_postings,
+    total_skill_rate_pct,
+    high_salary_skill_postings,
+    high_salary_skill_rate_pct,
+    lift_pct_point
+  ) |>
+  arrange(desc(lift_pct_point))
+
+write_csv(
+  eda_high_salary_skill_tableau,
+  "output/eda_high_salary_skill_tableau.csv"
 )
 
 # -------------------------------
@@ -531,6 +595,7 @@ eda_industry_high_salary_summary <- final_data |>
     postings = n(),
     high_salary_postings = sum(high_salary_job, na.rm = TRUE),
     high_salary_share = high_salary_postings / postings,
+    high_salary_share_pct = high_salary_share * 100,
     avg_posting_salary = mean(avg_salary, na.rm = TRUE),
     median_posting_salary = median(avg_salary, na.rm = TRUE),
     .groups = "drop"
@@ -543,23 +608,29 @@ write_csv(
 )
 
 # -------------------------------
-# 19. Clean label versions for Tableau
+# 19. Title group by industry
 # -------------------------------
-skill_label_lookup <- tibble(
-  skill = skill_columns,
-  skill_label = skill |>
-    str_remove("^skill_") |>
-    str_replace_all("_", " ") |>
-    str_to_title()
-)
+eda_title_group_by_industry <- final_data |>
+  count(
+    company_industry,
+    job_title_group,
+    sort = TRUE
+  ) |>
+  group_by(company_industry) |>
+  mutate(
+    industry_total = sum(n),
+    title_group_share = n / industry_total,
+    title_group_share_pct = title_group_share * 100
+  ) |>
+  ungroup()
 
 write_csv(
-  skill_label_lookup,
-  "output/skill_label_lookup.csv"
+  eda_title_group_by_industry,
+  "output/eda_title_group_by_industry.csv"
 )
 
 # -------------------------------
-# Print key EDA outputs
+# Print key outputs
 # -------------------------------
 cat("\nEDA overview summary:\n")
 print(eda_overview_summary)
@@ -579,16 +650,13 @@ print(eda_experience_salary_summary, n = Inf)
 cat("\nIndustry salary summary:\n")
 print(eda_industry_salary_summary, n = Inf)
 
-cat("\nTop states by postings:\n")
-print(eda_state_salary_summary |> head(20))
+cat("\nSkill by industry preview:\n")
+print(eda_skill_by_industry |> head(30))
+
+cat("\nHigh salary skill table for Tableau:\n")
+print(eda_high_salary_skill_tableau, n = Inf)
 
 cat("\nCorrelation summary:\n")
 print(eda_correlation_summary)
-
-cat("\nHigh salary skill summary:\n")
-print(eda_high_salary_skill_summary, n = Inf)
-
-cat("\nSearch query summary:\n")
-print(eda_search_query_summary, n = Inf)
 
 print("Enhanced EDA completed successfully.")

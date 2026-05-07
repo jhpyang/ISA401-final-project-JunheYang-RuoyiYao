@@ -1,110 +1,111 @@
-company_industry,llm_role_category_clean,n,industry_total,role_share,role_share_pct
+company_industry,job_title_group,n,industry_total,title_group_share,title_group_share_pct
 Education,Business Intelligence,183,208,0.8798076923076923,87.98076923076923
-Technology,Operations Analyst,147,880,0.16704545454545455,16.704545454545457
+Technology,Data Analyst,171,880,0.1943181818181818,19.43181818181818
+Technology,Operations Analyst,145,880,0.16477272727272727,16.477272727272727
 Technology,Data Engineer,133,880,0.15113636363636362,15.113636363636363
-Technology,Data Analyst,102,880,0.1159090909090909,11.59090909090909
 Healthcare,Product Analyst,98,540,0.1814814814814815,18.14814814814815
+Healthcare,Reporting Analyst,93,540,0.17222222222222222,17.22222222222222
 Healthcare,Business Analyst,92,540,0.17037037037037037,17.037037037037038
-Consulting / Professional Services,Data Scientist,88,480,0.18333333333333332,18.333333333333332
-Healthcare,Reporting Analyst,88,540,0.16296296296296298,16.296296296296298
-Technology,Data Scientist,88,880,0.1,10
+Consulting / Professional Services,Data Scientist,89,480,0.18541666666666667,18.541666666666668
+Technology,Data Scientist,89,880,0.10113636363636364,10.113636363636363
 Consulting / Professional Services,Analytics Manager,84,480,0.175,17.5
-Finance & Insurance,Financial Analyst,78,341,0.2287390029325513,22.87390029325513
-Technology,Business Analyst,75,880,0.08522727272727272,8.522727272727272
 Technology,Product Analyst,71,880,0.08068181818181819,8.068181818181818
-Government / Public Sector,Database Role,65,193,0.33678756476683935,33.67875647668394
-Consulting / Professional Services,Financial Analyst,60,480,0.125,12.5
+Technology,Business Analyst,70,880,0.07954545454545454,7.954545454545454
 Consulting / Professional Services,Data Engineer,59,480,0.12291666666666666,12.291666666666666
+Government / Public Sector,Database Role,59,193,0.30569948186528495,30.569948186528496
 Healthcare,Market Research Analyst,59,540,0.10925925925925926,10.925925925925926
-Technology,Market Research Analyst,59,880,0.06704545454545455,6.704545454545455
-Technology,Database Role,54,880,0.06136363636363636,6.136363636363637
-Consulting / Professional Services,Reporting Analyst,45,480,0.09375,9.375
-Finance & Insurance,Product Analyst,44,341,0.12903225806451613,12.903225806451612
+Finance & Insurance,Financial Analyst,55,341,0.16129032258064516,16.129032258064516
+Consulting / Professional Services,Financial Analyst,54,480,0.1125,11.25
+Finance & Insurance,Reporting Analyst,53,341,0.15542521994134897,15.542521994134898
+Technology,Database Role,53,880,0.060227272727272727,6.0227272727272725
+Consulting / Professional Services,Reporting Analyst,48,480,0.1,10
+Finance & Insurance,Product Analyst,45,341,0.13196480938416422,13.196480938416421
 Consulting / Professional Services,Business Analyst,42,480,0.0875,8.75
-Technology,Business Intelligence,41,880,0.04659090909090909,4.659090909090909
-Healthcare,Financial Analyst,38,540,0.07037037037037037,7.037037037037037
-Energy / Utilities,Financial Analyst,37,73,0.5068493150684932,50.68493150684932
-Healthcare,Data Analyst,37,540,0.06851851851851852,6.851851851851852
-Technology,Analytics Manager,37,880,0.042045454545454546,4.204545454545454
-Finance & Insurance,Reporting Analyst,32,341,0.093841642228739,9.3841642228739
+Technology,Business Intelligence,42,880,0.04772727272727273,4.772727272727273
+Energy / Utilities,Financial Analyst,38,73,0.5205479452054794,52.054794520547944
+Healthcare,Data Analyst,38,540,0.07037037037037037,7.037037037037037
+Technology,Analytics Manager,38,880,0.04318181818181818,4.318181818181818
+Healthcare,Financial Analyst,36,540,0.06666666666666667,6.666666666666667
 Government / Public Sector,Other Data/Analytics Role,31,193,0.16062176165803108,16.06217616580311
+Consulting / Professional Services,Data Analyst,30,480,0.0625,6.25
 Finance & Insurance,Data Engineer,29,341,0.08504398826979472,8.504398826979472
-Healthcare,Operations Analyst,29,540,0.053703703703703705,5.37037037037037
-Technology,Financial Analyst,29,880,0.03295454545454545,3.295454545454545
 Finance & Insurance,Market Research Analyst,28,341,0.08211143695014662,8.211143695014663
-Technology,Other Data/Analytics Role,28,880,0.031818181818181815,3.1818181818181817
-Finance & Insurance,Operations Analyst,26,341,0.07624633431085044,7.624633431085044
+Healthcare,Operations Analyst,27,540,0.05,5
+Finance & Insurance,Data Analyst,26,341,0.07624633431085044,7.624633431085044
 Healthcare,Data Scientist,26,540,0.04814814814814815,4.814814814814815
-Consulting / Professional Services,Data Analyst,25,480,0.052083333333333336,5.208333333333334
 Finance & Insurance,Analytics Manager,25,341,0.07331378299120235,7.331378299120235
-Finance & Insurance,Business Analyst,25,341,0.07331378299120235,7.331378299120235
-Healthcare,Analytics Manager,23,540,0.04259259259259259,4.2592592592592595
-Healthcare,Other Data/Analytics Role,22,540,0.040740740740740744,4.074074074074074
+Finance & Insurance,Operations Analyst,25,341,0.07331378299120235,7.331378299120235
+Healthcare,Analytics Manager,25,540,0.046296296296296294,4.62962962962963
+Technology,Financial Analyst,24,880,0.02727272727272727,2.727272727272727
+Technology,Other Data/Analytics Role,22,880,0.025,2.5
+Finance & Insurance,Business Analyst,21,341,0.06158357771260997,6.158357771260997
+Government / Public Sector,Business Analyst,21,193,0.10880829015544041,10.880829015544041
+Government / Public Sector,Data Analyst,21,193,0.10880829015544041,10.880829015544041
 Consulting / Professional Services,Operations Analyst,20,480,0.041666666666666664,4.166666666666666
-Finance & Insurance,Data Analyst,20,341,0.05865102639296188,5.865102639296188
-Government / Public Sector,Operations Analyst,20,193,0.10362694300518134,10.362694300518134
 Manufacturing,Financial Analyst,19,50,0.38,38
-Government / Public Sector,Data Analyst,18,193,0.09326424870466321,9.32642487046632
-Retail / E-commerce,Analytics Manager,18,35,0.5142857142857142,51.42857142857142
-Consulting / Professional Services,Market Research Analyst,17,480,0.035416666666666666,3.5416666666666665
+Government / Public Sector,Operations Analyst,18,193,0.09326424870466321,9.32642487046632
+Healthcare,Other Data/Analytics Role,18,540,0.03333333333333333,3.3333333333333335
+Technology,Reporting Analyst,17,880,0.019318181818181818,1.9318181818181817
 Consulting / Professional Services,Business Intelligence,16,480,0.03333333333333333,3.3333333333333335
-Government / Public Sector,Business Analyst,16,193,0.08290155440414508,8.290155440414509
-Technology,Reporting Analyst,16,880,0.01818181818181818,1.8181818181818181
+Consulting / Professional Services,Market Research Analyst,16,480,0.03333333333333333,3.3333333333333335
+Retail / E-commerce,Analytics Manager,16,35,0.45714285714285713,45.714285714285715
 Finance & Insurance,Data Scientist,15,341,0.04398826979472141,4.398826979472141
-Consulting / Professional Services,Other Data/Analytics Role,14,480,0.029166666666666667,2.9166666666666665
 Government / Public Sector,Data Scientist,14,193,0.07253886010362694,7.253886010362693
 Healthcare,Data Engineer,13,540,0.024074074074074074,2.4074074074074074
+Consulting / Professional Services,Other Data/Analytics Role,12,480,0.025,2.5
 Media / Entertainment,Analytics Manager,12,44,0.2727272727272727,27.27272727272727
 Other / Unknown,Analytics Manager,12,71,0.16901408450704225,16.901408450704224
-Other / Unknown,Business Analyst,12,71,0.16901408450704225,16.901408450704224
-Healthcare,Database Role,11,540,0.020370370370370372,2.037037037037037
 Manufacturing,Analytics Manager,11,50,0.22,22
+Other / Unknown,Business Analyst,11,71,0.15492957746478872,15.492957746478872
 Education,Other Data/Analytics Role,10,208,0.04807692307692308,4.807692307692308
 Finance & Insurance,Database Role,10,341,0.02932551319648094,2.932551319648094
-Other / Unknown,Other Data/Analytics Role,10,71,0.14084507042253522,14.084507042253522
-Other / Unknown,Financial Analyst,9,71,0.1267605633802817,12.676056338028168
+Healthcare,Database Role,10,540,0.018518518518518517,1.8518518518518516
+Other / Unknown,Other Data/Analytics Role,9,71,0.1267605633802817,12.676056338028168
 Government / Public Sector,Data Engineer,8,193,0.04145077720207254,4.145077720207254
 Media / Entertainment,Reporting Analyst,8,44,0.18181818181818182,18.181818181818183
+Other / Unknown,Data Analyst,8,71,0.11267605633802817,11.267605633802818
+Other / Unknown,Financial Analyst,8,71,0.11267605633802817,11.267605633802818
 Real Estate,Product Analyst,8,21,0.38095238095238093,38.095238095238095
+Education,Reporting Analyst,7,208,0.03365384615384615,3.3653846153846154
 Finance & Insurance,Other Data/Analytics Role,7,341,0.020527859237536656,2.0527859237536656
-Government / Public Sector,Financial Analyst,7,193,0.03626943005181347,3.6269430051813467
 Consulting / Professional Services,Database Role,6,480,0.0125,1.25
 Energy / Utilities,Analytics Manager,6,73,0.0821917808219178,8.21917808219178
+Government / Public Sector,Financial Analyst,6,193,0.031088082901554404,3.1088082901554404
+Government / Public Sector,Reporting Analyst,6,193,0.031088082901554404,3.1088082901554404
 Media / Entertainment,Market Research Analyst,6,44,0.13636363636363635,13.636363636363635
+Other / Unknown,Reporting Analyst,6,71,0.08450704225352113,8.450704225352112
 Retail / E-commerce,Financial Analyst,6,35,0.17142857142857143,17.142857142857142
 Transportation / Logistics,Analytics Manager,6,31,0.1935483870967742,19.35483870967742
 Transportation / Logistics,Data Scientist,6,31,0.1935483870967742,19.35483870967742
 Transportation / Logistics,Operations Analyst,6,31,0.1935483870967742,19.35483870967742
-Education,Reporting Analyst,5,208,0.02403846153846154,2.403846153846154
 Energy / Utilities,Data Analyst,5,73,0.0684931506849315,6.8493150684931505
-Government / Public Sector,Reporting Analyst,5,193,0.025906735751295335,2.5906735751295336
+Energy / Utilities,Reporting Analyst,5,73,0.0684931506849315,6.8493150684931505
+Healthcare,Business Intelligence,5,540,0.009259259259259259,0.9259259259259258
 Media / Entertainment,Other Data/Analytics Role,5,44,0.11363636363636363,11.363636363636363
 Media / Entertainment,Product Analyst,5,44,0.11363636363636363,11.363636363636363
-Other / Unknown,Data Analyst,5,71,0.07042253521126761,7.042253521126761
-Other / Unknown,Data Scientist,5,71,0.07042253521126761,7.042253521126761
-Other / Unknown,Reporting Analyst,5,71,0.07042253521126761,7.042253521126761
+Retail / E-commerce,Data Analyst,5,35,0.14285714285714285,14.285714285714285
+Technology,Market Research Analyst,5,880,0.005681818181818182,0.5681818181818182
 Consulting / Professional Services,Product Analyst,4,480,0.008333333333333333,0.8333333333333334
 Energy / Utilities,Market Research Analyst,4,73,0.0547945205479452,5.47945205479452
-Energy / Utilities,Reporting Analyst,4,73,0.0547945205479452,5.47945205479452
 Government / Public Sector,Business Intelligence,4,193,0.02072538860103627,2.072538860103627
-Healthcare,Business Intelligence,4,540,0.007407407407407408,0.7407407407407408
 Hospitality,Market Research Analyst,4,8,0.5,50
 Manufacturing,Operations Analyst,4,50,0.08,8
 Manufacturing,Product Analyst,4,50,0.08,8
 Media / Entertainment,Data Engineer,4,44,0.09090909090909091,9.090909090909092
 Other / Unknown,Data Engineer,4,71,0.056338028169014086,5.633802816901409
-Retail / E-commerce,Data Analyst,4,35,0.11428571428571428,11.428571428571429
-Transportation / Logistics,Financial Analyst,4,31,0.12903225806451613,12.903225806451612
+Other / Unknown,Data Scientist,4,71,0.056338028169014086,5.633802816901409
+Real Estate,Data Analyst,4,21,0.19047619047619047,19.047619047619047
 Education,Analytics Manager,3,208,0.014423076923076924,1.4423076923076923
-Education,Financial Analyst,3,208,0.014423076923076924,1.4423076923076923
 Energy / Utilities,Operations Analyst,3,73,0.0410958904109589,4.10958904109589
-Energy / Utilities,Other Data/Analytics Role,3,73,0.0410958904109589,4.10958904109589
 Energy / Utilities,Product Analyst,3,73,0.0410958904109589,4.10958904109589
 Government / Public Sector,Product Analyst,3,193,0.015544041450777202,1.5544041450777202
+Manufacturing,Data Analyst,3,50,0.06,6
 Manufacturing,Database Role,3,50,0.06,6
 Other / Unknown,Market Research Analyst,3,71,0.04225352112676056,4.225352112676056
-Real Estate,Data Analyst,3,21,0.14285714285714285,14.285714285714285
 Real Estate,Financial Analyst,3,21,0.14285714285714285,14.285714285714285
+Retail / E-commerce,Reporting Analyst,3,35,0.08571428571428572,8.571428571428571
+Transportation / Logistics,Data Analyst,3,31,0.0967741935483871,9.67741935483871
+Transportation / Logistics,Financial Analyst,3,31,0.0967741935483871,9.67741935483871
 Transportation / Logistics,Other Data/Analytics Role,3,31,0.0967741935483871,9.67741935483871
 Education,Database Role,2,208,0.009615384615384616,0.9615384615384616
 Education,Market Research Analyst,2,208,0.009615384615384616,0.9615384615384616
@@ -112,8 +113,6 @@ Energy / Utilities,Business Analyst,2,73,0.0273972602739726,2.73972602739726
 Energy / Utilities,Data Engineer,2,73,0.0273972602739726,2.73972602739726
 Energy / Utilities,Database Role,2,73,0.0273972602739726,2.73972602739726
 Finance & Insurance,Business Intelligence,2,341,0.005865102639296188,0.5865102639296188
-Manufacturing,Data Analyst,2,50,0.04,4
-Manufacturing,Market Research Analyst,2,50,0.04,4
 Media / Entertainment,Data Scientist,2,44,0.045454545454545456,4.545454545454546
 Nonprofit,Financial Analyst,2,8,0.25,25
 Nonprofit,Reporting Analyst,2,8,0.25,25
@@ -122,11 +121,11 @@ Other / Unknown,Product Analyst,2,71,0.028169014084507043,2.8169014084507045
 Real Estate,Data Engineer,2,21,0.09523809523809523,9.523809523809524
 Real Estate,Market Research Analyst,2,21,0.09523809523809523,9.523809523809524
 Retail / E-commerce,Product Analyst,2,35,0.05714285714285714,5.714285714285714
-Retail / E-commerce,Reporting Analyst,2,35,0.05714285714285714,5.714285714285714
-Transportation / Logistics,Data Analyst,2,31,0.06451612903225806,6.451612903225806
 Transportation / Logistics,Data Engineer,2,31,0.06451612903225806,6.451612903225806
+Education,Financial Analyst,1,208,0.004807692307692308,0.4807692307692308
 Energy / Utilities,Business Intelligence,1,73,0.0136986301369863,1.36986301369863
 Energy / Utilities,Data Scientist,1,73,0.0136986301369863,1.36986301369863
+Energy / Utilities,Other Data/Analytics Role,1,73,0.0136986301369863,1.36986301369863
 Government / Public Sector,Analytics Manager,1,193,0.0051813471502590676,0.5181347150259068
 Government / Public Sector,Market Research Analyst,1,193,0.0051813471502590676,0.5181347150259068
 Hospitality,Analytics Manager,1,8,0.125,12.5
@@ -136,6 +135,7 @@ Hospitality,Operations Analyst,1,8,0.125,12.5
 Manufacturing,Business Analyst,1,50,0.02,2
 Manufacturing,Data Engineer,1,50,0.02,2
 Manufacturing,Data Scientist,1,50,0.02,2
+Manufacturing,Market Research Analyst,1,50,0.02,2
 Manufacturing,Other Data/Analytics Role,1,50,0.02,2
 Manufacturing,Reporting Analyst,1,50,0.02,2
 Media / Entertainment,Data Analyst,1,44,0.022727272727272728,2.272727272727273
@@ -148,7 +148,6 @@ Other / Unknown,Business Intelligence,1,71,0.014084507042253521,1.40845070422535
 Other / Unknown,Operations Analyst,1,71,0.014084507042253521,1.4084507042253522
 Real Estate,Analytics Manager,1,21,0.047619047619047616,4.761904761904762
 Real Estate,Business Analyst,1,21,0.047619047619047616,4.761904761904762
-Real Estate,Other Data/Analytics Role,1,21,0.047619047619047616,4.761904761904762
 Retail / E-commerce,Data Engineer,1,35,0.02857142857142857,2.857142857142857
 Retail / E-commerce,Data Scientist,1,35,0.02857142857142857,2.857142857142857
 Retail / E-commerce,Market Research Analyst,1,35,0.02857142857142857,2.857142857142857

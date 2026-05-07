@@ -1,2 +1,0 @@
-total_rows,rows_with_avg_salary,rows_missing_avg_salary,min_avg_salary,q1_avg_salary,median_avg_salary,mean_avg_salary,q3_avg_salary,max_avg_salary,rows_salary_below_20000,rows_salary_above_300000,rows_min_salary_greater_than_max_salary
-2983,2983,0,9999.41,75111.82,95885.96,101850.72632249413,123718.57999999999,400000,6,6,0

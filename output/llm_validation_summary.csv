@@ -1,2 +1,0 @@
-total_rows,rows_with_llm_role,rows_missing_llm_role,rows_with_llm_experience,rows_missing_llm_experience,llm_role_coverage_rate,llm_experience_coverage_rate
-2983,2983,0,2983,0,1,1

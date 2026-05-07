@@ -1,2 +1,0 @@
-total_rows,rows_missing_state,rows_with_census_income,rows_missing_census_income,rows_with_poverty_rate,rows_missing_poverty_rate,rows_with_bls_unemployment,rows_missing_bls_unemployment,rows_with_salary,rows_missing_salary,rows_with_keyword_skills,rows_missing_keyword_skills,rows_with_llm_role,rows_missing_llm_role,rows_with_llm_experience,rows_missing_llm_experience
-2983,164,2819,164,2819,164,2808,175,2983,0,2983,0,2983,0,2983,0

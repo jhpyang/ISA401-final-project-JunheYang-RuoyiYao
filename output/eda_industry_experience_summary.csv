@@ -1,73 +1,73 @@
-company_industry,llm_experience_level,n,industry_total,experience_share
-Technology,mid,317,880,0.36022727272727273
-Technology,unspecified,215,880,0.24431818181818182
-Healthcare,mid,191,540,0.3537037037037037
-Education,entry,187,208,0.8990384615384616
-Consulting / Professional Services,mid,175,480,0.3645833333333333
-Technology,senior,166,880,0.18863636363636363
-Finance & Insurance,mid,151,341,0.44281524926686217
-Healthcare,senior,139,540,0.2574074074074074
-Healthcare,unspecified,126,540,0.23333333333333334
-Technology,entry,122,880,0.13863636363636364
-Government / Public Sector,mid,102,193,0.5284974093264249
-Consulting / Professional Services,senior,97,480,0.20208333333333334
-Consulting / Professional Services,manager,93,480,0.19375
-Finance & Insurance,unspecified,62,341,0.18181818181818182
-Consulting / Professional Services,unspecified,60,480,0.125
-Technology,manager,60,880,0.06818181818181818
-Consulting / Professional Services,entry,55,480,0.11458333333333333
-Finance & Insurance,senior,54,341,0.15835777126099707
-Healthcare,entry,49,540,0.09074074074074075
-Finance & Insurance,entry,39,341,0.11436950146627566
-Government / Public Sector,unspecified,38,193,0.19689119170984457
-Energy / Utilities,mid,35,73,0.4794520547945205
-Finance & Insurance,manager,35,341,0.10263929618768329
-Healthcare,manager,35,540,0.06481481481481481
-Government / Public Sector,senior,32,193,0.16580310880829016
-Other / Unknown,mid,24,71,0.3380281690140845
-Other / Unknown,unspecified,18,71,0.2535211267605634
-Retail / E-commerce,manager,18,35,0.5142857142857142
-Energy / Utilities,entry,16,73,0.2191780821917808
-Other / Unknown,manager,16,71,0.22535211267605634
-Manufacturing,mid,15,50,0.3
-Media / Entertainment,manager,15,44,0.3409090909090909
-Real Estate,mid,14,21,0.6666666666666666
-Manufacturing,senior,12,50,0.24
-Transportation / Logistics,unspecified,12,31,0.3870967741935484
-Government / Public Sector,entry,11,193,0.05699481865284974
-Government / Public Sector,manager,10,193,0.05181347150259067
-Manufacturing,manager,10,50,0.2
-Media / Entertainment,senior,10,44,0.22727272727272727
-Other / Unknown,entry,10,71,0.14084507042253522
-Energy / Utilities,unspecified,9,73,0.1232876712328767
-Media / Entertainment,mid,9,44,0.20454545454545456
-Retail / E-commerce,mid,9,35,0.2571428571428571
-Transportation / Logistics,manager,9,31,0.2903225806451613
-Education,mid,8,208,0.038461538461538464
-Education,unspecified,8,208,0.038461538461538464
-Energy / Utilities,manager,8,73,0.1095890410958904
-Manufacturing,unspecified,8,50,0.16
-Media / Entertainment,unspecified,6,44,0.13636363636363635
-Education,manager,5,208,0.02403846153846154
-Energy / Utilities,senior,5,73,0.0684931506849315
-Manufacturing,entry,5,50,0.1
-Retail / E-commerce,senior,5,35,0.14285714285714285
-Transportation / Logistics,senior,5,31,0.16129032258064516
-Media / Entertainment,entry,4,44,0.09090909090909091
-Nonprofit,mid,4,8,0.5
-Hospitality,unspecified,3,8,0.375
-Other / Unknown,senior,3,71,0.04225352112676056
-Real Estate,unspecified,3,21,0.14285714285714285
-Transportation / Logistics,mid,3,31,0.0967741935483871
-Hospitality,manager,2,8,0.25
-Hospitality,senior,2,8,0.25
-Nonprofit,senior,2,8,0.25
-Real Estate,senior,2,21,0.09523809523809523
-Retail / E-commerce,entry,2,35,0.05714285714285714
-Transportation / Logistics,entry,2,31,0.06451612903225806
-Hospitality,mid,1,8,0.125
-Nonprofit,entry,1,8,0.125
-Nonprofit,manager,1,8,0.125
-Real Estate,entry,1,21,0.047619047619047616
-Real Estate,manager,1,21,0.047619047619047616
-Retail / E-commerce,unspecified,1,35,0.02857142857142857
+company_industry,llm_experience_level,n,industry_total,experience_share,experience_share_pct
+Technology,mid,317,880,0.36022727272727273,36.02272727272727
+Technology,unspecified,215,880,0.24431818181818182,24.431818181818183
+Healthcare,mid,191,540,0.3537037037037037,35.37037037037037
+Education,entry,187,208,0.8990384615384616,89.90384615384616
+Consulting / Professional Services,mid,175,480,0.3645833333333333,36.45833333333333
+Technology,senior,166,880,0.18863636363636363,18.863636363636363
+Finance & Insurance,mid,151,341,0.44281524926686217,44.28152492668622
+Healthcare,senior,139,540,0.2574074074074074,25.74074074074074
+Healthcare,unspecified,126,540,0.23333333333333334,23.333333333333332
+Technology,entry,122,880,0.13863636363636364,13.863636363636363
+Government / Public Sector,mid,102,193,0.5284974093264249,52.84974093264248
+Consulting / Professional Services,senior,97,480,0.20208333333333334,20.208333333333332
+Consulting / Professional Services,manager,93,480,0.19375,19.375
+Finance & Insurance,unspecified,62,341,0.18181818181818182,18.181818181818183
+Consulting / Professional Services,unspecified,60,480,0.125,12.5
+Technology,manager,60,880,0.06818181818181818,6.8181818181818175
+Consulting / Professional Services,entry,55,480,0.11458333333333333,11.458333333333332
+Finance & Insurance,senior,54,341,0.15835777126099707,15.835777126099707
+Healthcare,entry,49,540,0.09074074074074075,9.074074074074074
+Finance & Insurance,entry,39,341,0.11436950146627566,11.436950146627565
+Government / Public Sector,unspecified,38,193,0.19689119170984457,19.689119170984455
+Energy / Utilities,mid,35,73,0.4794520547945205,47.94520547945205
+Finance & Insurance,manager,35,341,0.10263929618768329,10.263929618768328
+Healthcare,manager,35,540,0.06481481481481481,6.481481481481481
+Government / Public Sector,senior,32,193,0.16580310880829016,16.580310880829018
+Other / Unknown,mid,24,71,0.3380281690140845,33.80281690140845
+Other / Unknown,unspecified,18,71,0.2535211267605634,25.352112676056336
+Retail / E-commerce,manager,18,35,0.5142857142857142,51.42857142857142
+Energy / Utilities,entry,16,73,0.2191780821917808,21.91780821917808
+Other / Unknown,manager,16,71,0.22535211267605634,22.535211267605636
+Manufacturing,mid,15,50,0.3,30
+Media / Entertainment,manager,15,44,0.3409090909090909,34.090909090909086
+Real Estate,mid,14,21,0.6666666666666666,66.66666666666666
+Manufacturing,senior,12,50,0.24,24
+Transportation / Logistics,unspecified,12,31,0.3870967741935484,38.70967741935484
+Government / Public Sector,entry,11,193,0.05699481865284974,5.699481865284974
+Government / Public Sector,manager,10,193,0.05181347150259067,5.181347150259067
+Manufacturing,manager,10,50,0.2,20
+Media / Entertainment,senior,10,44,0.22727272727272727,22.727272727272727
+Other / Unknown,entry,10,71,0.14084507042253522,14.084507042253522
+Energy / Utilities,unspecified,9,73,0.1232876712328767,12.32876712328767
+Media / Entertainment,mid,9,44,0.20454545454545456,20.454545454545457
+Retail / E-commerce,mid,9,35,0.2571428571428571,25.71428571428571
+Transportation / Logistics,manager,9,31,0.2903225806451613,29.03225806451613
+Education,mid,8,208,0.038461538461538464,3.8461538461538463
+Education,unspecified,8,208,0.038461538461538464,3.8461538461538463
+Energy / Utilities,manager,8,73,0.1095890410958904,10.95890410958904
+Manufacturing,unspecified,8,50,0.16,16
+Media / Entertainment,unspecified,6,44,0.13636363636363635,13.636363636363635
+Education,manager,5,208,0.02403846153846154,2.403846153846154
+Energy / Utilities,senior,5,73,0.0684931506849315,6.8493150684931505
+Manufacturing,entry,5,50,0.1,10
+Retail / E-commerce,senior,5,35,0.14285714285714285,14.285714285714285
+Transportation / Logistics,senior,5,31,0.16129032258064516,16.129032258064516
+Media / Entertainment,entry,4,44,0.09090909090909091,9.090909090909092
+Nonprofit,mid,4,8,0.5,50
+Hospitality,unspecified,3,8,0.375,37.5
+Other / Unknown,senior,3,71,0.04225352112676056,4.225352112676056
+Real Estate,unspecified,3,21,0.14285714285714285,14.285714285714285
+Transportation / Logistics,mid,3,31,0.0967741935483871,9.67741935483871
+Hospitality,manager,2,8,0.25,25
+Hospitality,senior,2,8,0.25,25
+Nonprofit,senior,2,8,0.25,25
+Real Estate,senior,2,21,0.09523809523809523,9.523809523809524
+Retail / E-commerce,entry,2,35,0.05714285714285714,5.714285714285714
+Transportation / Logistics,entry,2,31,0.06451612903225806,6.451612903225806
+Hospitality,mid,1,8,0.125,12.5
+Nonprofit,entry,1,8,0.125,12.5
+Nonprofit,manager,1,8,0.125,12.5
+Real Estate,entry,1,21,0.047619047619047616,4.761904761904762
+Real Estate,manager,1,21,0.047619047619047616,4.761904761904762
+Retail / E-commerce,unspecified,1,35,0.02857142857142857,2.857142857142857
