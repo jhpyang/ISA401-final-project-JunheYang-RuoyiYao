@@ -1,0 +1,2481 @@
+company_industry,llm_role_category_clean,skill,skill_label,postings_with_skill,total_group_postings,skill_share,skill_share_pct
+Consulting / Professional Services,Analytics Manager,skill_data_analysis,Data Analysis,84,84,1,100
+Consulting / Professional Services,Analytics Manager,skill_reporting,Reporting,29,84,0.34523809523809523,34.523809523809526
+Consulting / Professional Services,Analytics Manager,skill_r,R,5,84,0.05952380952380952,5.952380952380952
+Consulting / Professional Services,Analytics Manager,skill_data_visualization,Data Visualization,2,84,0.023809523809523808,2.380952380952381
+Consulting / Professional Services,Analytics Manager,skill_statistics,Statistics,1,84,0.011904761904761904,1.1904761904761905
+Consulting / Professional Services,Analytics Manager,skill_cloud,Cloud,0,84,0,0
+Consulting / Professional Services,Analytics Manager,skill_communication,Communication,0,84,0,0
+Consulting / Professional Services,Analytics Manager,skill_database,Database,0,84,0,0
+Consulting / Professional Services,Analytics Manager,skill_etl,Etl,0,84,0,0
+Consulting / Professional Services,Analytics Manager,skill_excel,Excel,0,84,0,0
+Consulting / Professional Services,Analytics Manager,skill_machine_learning,Machine Learning,0,84,0,0
+Consulting / Professional Services,Analytics Manager,skill_powerbi,Powerbi,0,84,0,0
+Consulting / Professional Services,Analytics Manager,skill_python,Python,0,84,0,0
+Consulting / Professional Services,Analytics Manager,skill_sas,Sas,0,84,0,0
+Consulting / Professional Services,Analytics Manager,skill_sql,Sql,0,84,0,0
+Consulting / Professional Services,Analytics Manager,skill_tableau,Tableau,0,84,0,0
+Consulting / Professional Services,Business Analyst,skill_data_analysis,Data Analysis,17,42,0.40476190476190477,40.476190476190474
+Consulting / Professional Services,Business Analyst,skill_reporting,Reporting,4,42,0.09523809523809523,9.523809523809524
+Consulting / Professional Services,Business Analyst,skill_communication,Communication,3,42,0.07142857142857142,7.142857142857142
+Consulting / Professional Services,Business Analyst,skill_powerbi,Powerbi,2,42,0.047619047619047616,4.761904761904762
+Consulting / Professional Services,Business Analyst,skill_data_visualization,Data Visualization,1,42,0.023809523809523808,2.380952380952381
+Consulting / Professional Services,Business Analyst,skill_tableau,Tableau,1,42,0.023809523809523808,2.380952380952381
+Consulting / Professional Services,Business Analyst,skill_cloud,Cloud,0,42,0,0
+Consulting / Professional Services,Business Analyst,skill_database,Database,0,42,0,0
+Consulting / Professional Services,Business Analyst,skill_etl,Etl,0,42,0,0
+Consulting / Professional Services,Business Analyst,skill_excel,Excel,0,42,0,0
+Consulting / Professional Services,Business Analyst,skill_machine_learning,Machine Learning,0,42,0,0
+Consulting / Professional Services,Business Analyst,skill_python,Python,0,42,0,0
+Consulting / Professional Services,Business Analyst,skill_r,R,0,42,0,0
+Consulting / Professional Services,Business Analyst,skill_sas,Sas,0,42,0,0
+Consulting / Professional Services,Business Analyst,skill_sql,Sql,0,42,0,0
+Consulting / Professional Services,Business Analyst,skill_statistics,Statistics,0,42,0,0
+Consulting / Professional Services,Business Intelligence,skill_reporting,Reporting,9,16,0.5625,56.25
+Consulting / Professional Services,Business Intelligence,skill_data_analysis,Data Analysis,8,16,0.5,50
+Consulting / Professional Services,Business Intelligence,skill_data_visualization,Data Visualization,5,16,0.3125,31.25
+Consulting / Professional Services,Business Intelligence,skill_cloud,Cloud,1,16,0.0625,6.25
+Consulting / Professional Services,Business Intelligence,skill_database,Database,1,16,0.0625,6.25
+Consulting / Professional Services,Business Intelligence,skill_etl,Etl,1,16,0.0625,6.25
+Consulting / Professional Services,Business Intelligence,skill_powerbi,Powerbi,1,16,0.0625,6.25
+Consulting / Professional Services,Business Intelligence,skill_sql,Sql,1,16,0.0625,6.25
+Consulting / Professional Services,Business Intelligence,skill_communication,Communication,0,16,0,0
+Consulting / Professional Services,Business Intelligence,skill_excel,Excel,0,16,0,0
+Consulting / Professional Services,Business Intelligence,skill_machine_learning,Machine Learning,0,16,0,0
+Consulting / Professional Services,Business Intelligence,skill_python,Python,0,16,0,0
+Consulting / Professional Services,Business Intelligence,skill_r,R,0,16,0,0
+Consulting / Professional Services,Business Intelligence,skill_sas,Sas,0,16,0,0
+Consulting / Professional Services,Business Intelligence,skill_statistics,Statistics,0,16,0,0
+Consulting / Professional Services,Business Intelligence,skill_tableau,Tableau,0,16,0,0
+Consulting / Professional Services,Data Analyst,skill_data_analysis,Data Analysis,12,25,0.48,48
+Consulting / Professional Services,Data Analyst,skill_reporting,Reporting,5,25,0.2,20
+Consulting / Professional Services,Data Analyst,skill_sql,Sql,5,25,0.2,20
+Consulting / Professional Services,Data Analyst,skill_data_visualization,Data Visualization,3,25,0.12,12
+Consulting / Professional Services,Data Analyst,skill_etl,Etl,3,25,0.12,12
+Consulting / Professional Services,Data Analyst,skill_python,Python,3,25,0.12,12
+Consulting / Professional Services,Data Analyst,skill_cloud,Cloud,2,25,0.08,8
+Consulting / Professional Services,Data Analyst,skill_communication,Communication,2,25,0.08,8
+Consulting / Professional Services,Data Analyst,skill_powerbi,Powerbi,1,25,0.04,4
+Consulting / Professional Services,Data Analyst,skill_tableau,Tableau,1,25,0.04,4
+Consulting / Professional Services,Data Analyst,skill_database,Database,0,25,0,0
+Consulting / Professional Services,Data Analyst,skill_excel,Excel,0,25,0,0
+Consulting / Professional Services,Data Analyst,skill_machine_learning,Machine Learning,0,25,0,0
+Consulting / Professional Services,Data Analyst,skill_r,R,0,25,0,0
+Consulting / Professional Services,Data Analyst,skill_sas,Sas,0,25,0,0
+Consulting / Professional Services,Data Analyst,skill_statistics,Statistics,0,25,0,0
+Consulting / Professional Services,Data Engineer,skill_machine_learning,Machine Learning,24,59,0.4067796610169492,40.67796610169492
+Consulting / Professional Services,Data Engineer,skill_cloud,Cloud,13,59,0.22033898305084745,22.033898305084744
+Consulting / Professional Services,Data Engineer,skill_data_analysis,Data Analysis,12,59,0.2033898305084746,20.33898305084746
+Consulting / Professional Services,Data Engineer,skill_etl,Etl,12,59,0.2033898305084746,20.33898305084746
+Consulting / Professional Services,Data Engineer,skill_database,Database,4,59,0.06779661016949153,6.779661016949152
+Consulting / Professional Services,Data Engineer,skill_reporting,Reporting,4,59,0.06779661016949153,6.779661016949152
+Consulting / Professional Services,Data Engineer,skill_sql,Sql,3,59,0.05084745762711865,5.084745762711865
+Consulting / Professional Services,Data Engineer,skill_python,Python,2,59,0.03389830508474576,3.389830508474576
+Consulting / Professional Services,Data Engineer,skill_communication,Communication,1,59,0.01694915254237288,1.694915254237288
+Consulting / Professional Services,Data Engineer,skill_data_visualization,Data Visualization,1,59,0.01694915254237288,1.694915254237288
+Consulting / Professional Services,Data Engineer,skill_powerbi,Powerbi,1,59,0.01694915254237288,1.694915254237288
+Consulting / Professional Services,Data Engineer,skill_r,R,1,59,0.01694915254237288,1.694915254237288
+Consulting / Professional Services,Data Engineer,skill_excel,Excel,0,59,0,0
+Consulting / Professional Services,Data Engineer,skill_sas,Sas,0,59,0,0
+Consulting / Professional Services,Data Engineer,skill_statistics,Statistics,0,59,0,0
+Consulting / Professional Services,Data Engineer,skill_tableau,Tableau,0,59,0,0
+Consulting / Professional Services,Data Scientist,skill_machine_learning,Machine Learning,79,88,0.8977272727272727,89.77272727272727
+Consulting / Professional Services,Data Scientist,skill_data_analysis,Data Analysis,13,88,0.14772727272727273,14.772727272727273
+Consulting / Professional Services,Data Scientist,skill_cloud,Cloud,2,88,0.022727272727272728,2.272727272727273
+Consulting / Professional Services,Data Scientist,skill_etl,Etl,2,88,0.022727272727272728,2.272727272727273
+Consulting / Professional Services,Data Scientist,skill_statistics,Statistics,2,88,0.022727272727272728,2.272727272727273
+Consulting / Professional Services,Data Scientist,skill_data_visualization,Data Visualization,1,88,0.011363636363636364,1.1363636363636365
+Consulting / Professional Services,Data Scientist,skill_database,Database,1,88,0.011363636363636364,1.1363636363636365
+Consulting / Professional Services,Data Scientist,skill_communication,Communication,0,88,0,0
+Consulting / Professional Services,Data Scientist,skill_excel,Excel,0,88,0,0
+Consulting / Professional Services,Data Scientist,skill_powerbi,Powerbi,0,88,0,0
+Consulting / Professional Services,Data Scientist,skill_python,Python,0,88,0,0
+Consulting / Professional Services,Data Scientist,skill_r,R,0,88,0,0
+Consulting / Professional Services,Data Scientist,skill_reporting,Reporting,0,88,0,0
+Consulting / Professional Services,Data Scientist,skill_sas,Sas,0,88,0,0
+Consulting / Professional Services,Data Scientist,skill_sql,Sql,0,88,0,0
+Consulting / Professional Services,Data Scientist,skill_tableau,Tableau,0,88,0,0
+Consulting / Professional Services,Database Role,skill_database,Database,6,6,1,100
+Consulting / Professional Services,Database Role,skill_reporting,Reporting,1,6,0.16666666666666666,16.666666666666664
+Consulting / Professional Services,Database Role,skill_sql,Sql,1,6,0.16666666666666666,16.666666666666664
+Consulting / Professional Services,Database Role,skill_cloud,Cloud,0,6,0,0
+Consulting / Professional Services,Database Role,skill_communication,Communication,0,6,0,0
+Consulting / Professional Services,Database Role,skill_data_analysis,Data Analysis,0,6,0,0
+Consulting / Professional Services,Database Role,skill_data_visualization,Data Visualization,0,6,0,0
+Consulting / Professional Services,Database Role,skill_etl,Etl,0,6,0,0
+Consulting / Professional Services,Database Role,skill_excel,Excel,0,6,0,0
+Consulting / Professional Services,Database Role,skill_machine_learning,Machine Learning,0,6,0,0
+Consulting / Professional Services,Database Role,skill_powerbi,Powerbi,0,6,0,0
+Consulting / Professional Services,Database Role,skill_python,Python,0,6,0,0
+Consulting / Professional Services,Database Role,skill_r,R,0,6,0,0
+Consulting / Professional Services,Database Role,skill_sas,Sas,0,6,0,0
+Consulting / Professional Services,Database Role,skill_statistics,Statistics,0,6,0,0
+Consulting / Professional Services,Database Role,skill_tableau,Tableau,0,6,0,0
+Consulting / Professional Services,Financial Analyst,skill_data_analysis,Data Analysis,34,60,0.5666666666666667,56.666666666666664
+Consulting / Professional Services,Financial Analyst,skill_reporting,Reporting,27,60,0.45,45
+Consulting / Professional Services,Financial Analyst,skill_excel,Excel,6,60,0.1,10
+Consulting / Professional Services,Financial Analyst,skill_communication,Communication,2,60,0.03333333333333333,3.3333333333333335
+Consulting / Professional Services,Financial Analyst,skill_data_visualization,Data Visualization,2,60,0.03333333333333333,3.3333333333333335
+Consulting / Professional Services,Financial Analyst,skill_powerbi,Powerbi,1,60,0.016666666666666666,1.6666666666666667
+Consulting / Professional Services,Financial Analyst,skill_python,Python,1,60,0.016666666666666666,1.6666666666666667
+Consulting / Professional Services,Financial Analyst,skill_r,R,1,60,0.016666666666666666,1.6666666666666667
+Consulting / Professional Services,Financial Analyst,skill_statistics,Statistics,1,60,0.016666666666666666,1.6666666666666667
+Consulting / Professional Services,Financial Analyst,skill_cloud,Cloud,0,60,0,0
+Consulting / Professional Services,Financial Analyst,skill_database,Database,0,60,0,0
+Consulting / Professional Services,Financial Analyst,skill_etl,Etl,0,60,0,0
+Consulting / Professional Services,Financial Analyst,skill_machine_learning,Machine Learning,0,60,0,0
+Consulting / Professional Services,Financial Analyst,skill_sas,Sas,0,60,0,0
+Consulting / Professional Services,Financial Analyst,skill_sql,Sql,0,60,0,0
+Consulting / Professional Services,Financial Analyst,skill_tableau,Tableau,0,60,0,0
+Consulting / Professional Services,Market Research Analyst,skill_data_analysis,Data Analysis,7,17,0.4117647058823529,41.17647058823529
+Consulting / Professional Services,Market Research Analyst,skill_reporting,Reporting,5,17,0.29411764705882354,29.411764705882355
+Consulting / Professional Services,Market Research Analyst,skill_communication,Communication,2,17,0.11764705882352941,11.76470588235294
+Consulting / Professional Services,Market Research Analyst,skill_cloud,Cloud,1,17,0.058823529411764705,5.88235294117647
+Consulting / Professional Services,Market Research Analyst,skill_database,Database,1,17,0.058823529411764705,5.88235294117647
+Consulting / Professional Services,Market Research Analyst,skill_data_visualization,Data Visualization,0,17,0,0
+Consulting / Professional Services,Market Research Analyst,skill_etl,Etl,0,17,0,0
+Consulting / Professional Services,Market Research Analyst,skill_excel,Excel,0,17,0,0
+Consulting / Professional Services,Market Research Analyst,skill_machine_learning,Machine Learning,0,17,0,0
+Consulting / Professional Services,Market Research Analyst,skill_powerbi,Powerbi,0,17,0,0
+Consulting / Professional Services,Market Research Analyst,skill_python,Python,0,17,0,0
+Consulting / Professional Services,Market Research Analyst,skill_r,R,0,17,0,0
+Consulting / Professional Services,Market Research Analyst,skill_sas,Sas,0,17,0,0
+Consulting / Professional Services,Market Research Analyst,skill_sql,Sql,0,17,0,0
+Consulting / Professional Services,Market Research Analyst,skill_statistics,Statistics,0,17,0,0
+Consulting / Professional Services,Market Research Analyst,skill_tableau,Tableau,0,17,0,0
+Consulting / Professional Services,Operations Analyst,skill_data_analysis,Data Analysis,9,20,0.45,45
+Consulting / Professional Services,Operations Analyst,skill_data_visualization,Data Visualization,2,20,0.1,10
+Consulting / Professional Services,Operations Analyst,skill_powerbi,Powerbi,2,20,0.1,10
+Consulting / Professional Services,Operations Analyst,skill_reporting,Reporting,2,20,0.1,10
+Consulting / Professional Services,Operations Analyst,skill_communication,Communication,1,20,0.05,5
+Consulting / Professional Services,Operations Analyst,skill_database,Database,1,20,0.05,5
+Consulting / Professional Services,Operations Analyst,skill_r,R,1,20,0.05,5
+Consulting / Professional Services,Operations Analyst,skill_cloud,Cloud,0,20,0,0
+Consulting / Professional Services,Operations Analyst,skill_etl,Etl,0,20,0,0
+Consulting / Professional Services,Operations Analyst,skill_excel,Excel,0,20,0,0
+Consulting / Professional Services,Operations Analyst,skill_machine_learning,Machine Learning,0,20,0,0
+Consulting / Professional Services,Operations Analyst,skill_python,Python,0,20,0,0
+Consulting / Professional Services,Operations Analyst,skill_sas,Sas,0,20,0,0
+Consulting / Professional Services,Operations Analyst,skill_sql,Sql,0,20,0,0
+Consulting / Professional Services,Operations Analyst,skill_statistics,Statistics,0,20,0,0
+Consulting / Professional Services,Operations Analyst,skill_tableau,Tableau,0,20,0,0
+Consulting / Professional Services,Other Data/Analytics Role,skill_data_analysis,Data Analysis,2,14,0.14285714285714285,14.285714285714285
+Consulting / Professional Services,Other Data/Analytics Role,skill_database,Database,2,14,0.14285714285714285,14.285714285714285
+Consulting / Professional Services,Other Data/Analytics Role,skill_cloud,Cloud,1,14,0.07142857142857142,7.142857142857142
+Consulting / Professional Services,Other Data/Analytics Role,skill_data_visualization,Data Visualization,1,14,0.07142857142857142,7.142857142857142
+Consulting / Professional Services,Other Data/Analytics Role,skill_communication,Communication,0,14,0,0
+Consulting / Professional Services,Other Data/Analytics Role,skill_etl,Etl,0,14,0,0
+Consulting / Professional Services,Other Data/Analytics Role,skill_excel,Excel,0,14,0,0
+Consulting / Professional Services,Other Data/Analytics Role,skill_machine_learning,Machine Learning,0,14,0,0
+Consulting / Professional Services,Other Data/Analytics Role,skill_powerbi,Powerbi,0,14,0,0
+Consulting / Professional Services,Other Data/Analytics Role,skill_python,Python,0,14,0,0
+Consulting / Professional Services,Other Data/Analytics Role,skill_r,R,0,14,0,0
+Consulting / Professional Services,Other Data/Analytics Role,skill_reporting,Reporting,0,14,0,0
+Consulting / Professional Services,Other Data/Analytics Role,skill_sas,Sas,0,14,0,0
+Consulting / Professional Services,Other Data/Analytics Role,skill_sql,Sql,0,14,0,0
+Consulting / Professional Services,Other Data/Analytics Role,skill_statistics,Statistics,0,14,0,0
+Consulting / Professional Services,Other Data/Analytics Role,skill_tableau,Tableau,0,14,0,0
+Consulting / Professional Services,Product Analyst,skill_reporting,Reporting,1,4,0.25,25
+Consulting / Professional Services,Product Analyst,skill_cloud,Cloud,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_communication,Communication,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_data_analysis,Data Analysis,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_data_visualization,Data Visualization,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_database,Database,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_etl,Etl,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_excel,Excel,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_machine_learning,Machine Learning,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_powerbi,Powerbi,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_python,Python,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_r,R,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_sas,Sas,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_sql,Sql,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_statistics,Statistics,0,4,0,0
+Consulting / Professional Services,Product Analyst,skill_tableau,Tableau,0,4,0,0
+Consulting / Professional Services,Reporting Analyst,skill_reporting,Reporting,45,45,1,100
+Consulting / Professional Services,Reporting Analyst,skill_data_analysis,Data Analysis,3,45,0.06666666666666667,6.666666666666667
+Consulting / Professional Services,Reporting Analyst,skill_data_visualization,Data Visualization,1,45,0.022222222222222223,2.2222222222222223
+Consulting / Professional Services,Reporting Analyst,skill_excel,Excel,1,45,0.022222222222222223,2.2222222222222223
+Consulting / Professional Services,Reporting Analyst,skill_powerbi,Powerbi,1,45,0.022222222222222223,2.2222222222222223
+Consulting / Professional Services,Reporting Analyst,skill_statistics,Statistics,1,45,0.022222222222222223,2.2222222222222223
+Consulting / Professional Services,Reporting Analyst,skill_cloud,Cloud,0,45,0,0
+Consulting / Professional Services,Reporting Analyst,skill_communication,Communication,0,45,0,0
+Consulting / Professional Services,Reporting Analyst,skill_database,Database,0,45,0,0
+Consulting / Professional Services,Reporting Analyst,skill_etl,Etl,0,45,0,0
+Consulting / Professional Services,Reporting Analyst,skill_machine_learning,Machine Learning,0,45,0,0
+Consulting / Professional Services,Reporting Analyst,skill_python,Python,0,45,0,0
+Consulting / Professional Services,Reporting Analyst,skill_r,R,0,45,0,0
+Consulting / Professional Services,Reporting Analyst,skill_sas,Sas,0,45,0,0
+Consulting / Professional Services,Reporting Analyst,skill_sql,Sql,0,45,0,0
+Consulting / Professional Services,Reporting Analyst,skill_tableau,Tableau,0,45,0,0
+Education,Analytics Manager,skill_data_analysis,Data Analysis,3,3,1,100
+Education,Analytics Manager,skill_cloud,Cloud,0,3,0,0
+Education,Analytics Manager,skill_communication,Communication,0,3,0,0
+Education,Analytics Manager,skill_data_visualization,Data Visualization,0,3,0,0
+Education,Analytics Manager,skill_database,Database,0,3,0,0
+Education,Analytics Manager,skill_etl,Etl,0,3,0,0
+Education,Analytics Manager,skill_excel,Excel,0,3,0,0
+Education,Analytics Manager,skill_machine_learning,Machine Learning,0,3,0,0
+Education,Analytics Manager,skill_powerbi,Powerbi,0,3,0,0
+Education,Analytics Manager,skill_python,Python,0,3,0,0
+Education,Analytics Manager,skill_r,R,0,3,0,0
+Education,Analytics Manager,skill_reporting,Reporting,0,3,0,0
+Education,Analytics Manager,skill_sas,Sas,0,3,0,0
+Education,Analytics Manager,skill_sql,Sql,0,3,0,0
+Education,Analytics Manager,skill_statistics,Statistics,0,3,0,0
+Education,Analytics Manager,skill_tableau,Tableau,0,3,0,0
+Education,Business Intelligence,skill_reporting,Reporting,1,183,0.00546448087431694,0.546448087431694
+Education,Business Intelligence,skill_cloud,Cloud,0,183,0,0
+Education,Business Intelligence,skill_communication,Communication,0,183,0,0
+Education,Business Intelligence,skill_data_analysis,Data Analysis,0,183,0,0
+Education,Business Intelligence,skill_data_visualization,Data Visualization,0,183,0,0
+Education,Business Intelligence,skill_database,Database,0,183,0,0
+Education,Business Intelligence,skill_etl,Etl,0,183,0,0
+Education,Business Intelligence,skill_excel,Excel,0,183,0,0
+Education,Business Intelligence,skill_machine_learning,Machine Learning,0,183,0,0
+Education,Business Intelligence,skill_powerbi,Powerbi,0,183,0,0
+Education,Business Intelligence,skill_python,Python,0,183,0,0
+Education,Business Intelligence,skill_r,R,0,183,0,0
+Education,Business Intelligence,skill_sas,Sas,0,183,0,0
+Education,Business Intelligence,skill_sql,Sql,0,183,0,0
+Education,Business Intelligence,skill_statistics,Statistics,0,183,0,0
+Education,Business Intelligence,skill_tableau,Tableau,0,183,0,0
+Education,Database Role,skill_database,Database,2,2,1,100
+Education,Database Role,skill_cloud,Cloud,0,2,0,0
+Education,Database Role,skill_communication,Communication,0,2,0,0
+Education,Database Role,skill_data_analysis,Data Analysis,0,2,0,0
+Education,Database Role,skill_data_visualization,Data Visualization,0,2,0,0
+Education,Database Role,skill_etl,Etl,0,2,0,0
+Education,Database Role,skill_excel,Excel,0,2,0,0
+Education,Database Role,skill_machine_learning,Machine Learning,0,2,0,0
+Education,Database Role,skill_powerbi,Powerbi,0,2,0,0
+Education,Database Role,skill_python,Python,0,2,0,0
+Education,Database Role,skill_r,R,0,2,0,0
+Education,Database Role,skill_reporting,Reporting,0,2,0,0
+Education,Database Role,skill_sas,Sas,0,2,0,0
+Education,Database Role,skill_sql,Sql,0,2,0,0
+Education,Database Role,skill_statistics,Statistics,0,2,0,0
+Education,Database Role,skill_tableau,Tableau,0,2,0,0
+Education,Financial Analyst,skill_reporting,Reporting,2,3,0.6666666666666666,66.66666666666666
+Education,Financial Analyst,skill_cloud,Cloud,0,3,0,0
+Education,Financial Analyst,skill_communication,Communication,0,3,0,0
+Education,Financial Analyst,skill_data_analysis,Data Analysis,0,3,0,0
+Education,Financial Analyst,skill_data_visualization,Data Visualization,0,3,0,0
+Education,Financial Analyst,skill_database,Database,0,3,0,0
+Education,Financial Analyst,skill_etl,Etl,0,3,0,0
+Education,Financial Analyst,skill_excel,Excel,0,3,0,0
+Education,Financial Analyst,skill_machine_learning,Machine Learning,0,3,0,0
+Education,Financial Analyst,skill_powerbi,Powerbi,0,3,0,0
+Education,Financial Analyst,skill_python,Python,0,3,0,0
+Education,Financial Analyst,skill_r,R,0,3,0,0
+Education,Financial Analyst,skill_sas,Sas,0,3,0,0
+Education,Financial Analyst,skill_sql,Sql,0,3,0,0
+Education,Financial Analyst,skill_statistics,Statistics,0,3,0,0
+Education,Financial Analyst,skill_tableau,Tableau,0,3,0,0
+Education,Market Research Analyst,skill_data_analysis,Data Analysis,2,2,1,100
+Education,Market Research Analyst,skill_cloud,Cloud,0,2,0,0
+Education,Market Research Analyst,skill_communication,Communication,0,2,0,0
+Education,Market Research Analyst,skill_data_visualization,Data Visualization,0,2,0,0
+Education,Market Research Analyst,skill_database,Database,0,2,0,0
+Education,Market Research Analyst,skill_etl,Etl,0,2,0,0
+Education,Market Research Analyst,skill_excel,Excel,0,2,0,0
+Education,Market Research Analyst,skill_machine_learning,Machine Learning,0,2,0,0
+Education,Market Research Analyst,skill_powerbi,Powerbi,0,2,0,0
+Education,Market Research Analyst,skill_python,Python,0,2,0,0
+Education,Market Research Analyst,skill_r,R,0,2,0,0
+Education,Market Research Analyst,skill_reporting,Reporting,0,2,0,0
+Education,Market Research Analyst,skill_sas,Sas,0,2,0,0
+Education,Market Research Analyst,skill_sql,Sql,0,2,0,0
+Education,Market Research Analyst,skill_statistics,Statistics,0,2,0,0
+Education,Market Research Analyst,skill_tableau,Tableau,0,2,0,0
+Education,Other Data/Analytics Role,skill_data_analysis,Data Analysis,7,10,0.7,70
+Education,Other Data/Analytics Role,skill_data_visualization,Data Visualization,2,10,0.2,20
+Education,Other Data/Analytics Role,skill_database,Database,2,10,0.2,20
+Education,Other Data/Analytics Role,skill_statistics,Statistics,2,10,0.2,20
+Education,Other Data/Analytics Role,skill_reporting,Reporting,1,10,0.1,10
+Education,Other Data/Analytics Role,skill_cloud,Cloud,0,10,0,0
+Education,Other Data/Analytics Role,skill_communication,Communication,0,10,0,0
+Education,Other Data/Analytics Role,skill_etl,Etl,0,10,0,0
+Education,Other Data/Analytics Role,skill_excel,Excel,0,10,0,0
+Education,Other Data/Analytics Role,skill_machine_learning,Machine Learning,0,10,0,0
+Education,Other Data/Analytics Role,skill_powerbi,Powerbi,0,10,0,0
+Education,Other Data/Analytics Role,skill_python,Python,0,10,0,0
+Education,Other Data/Analytics Role,skill_r,R,0,10,0,0
+Education,Other Data/Analytics Role,skill_sas,Sas,0,10,0,0
+Education,Other Data/Analytics Role,skill_sql,Sql,0,10,0,0
+Education,Other Data/Analytics Role,skill_tableau,Tableau,0,10,0,0
+Education,Reporting Analyst,skill_reporting,Reporting,5,5,1,100
+Education,Reporting Analyst,skill_data_analysis,Data Analysis,1,5,0.2,20
+Education,Reporting Analyst,skill_cloud,Cloud,0,5,0,0
+Education,Reporting Analyst,skill_communication,Communication,0,5,0,0
+Education,Reporting Analyst,skill_data_visualization,Data Visualization,0,5,0,0
+Education,Reporting Analyst,skill_database,Database,0,5,0,0
+Education,Reporting Analyst,skill_etl,Etl,0,5,0,0
+Education,Reporting Analyst,skill_excel,Excel,0,5,0,0
+Education,Reporting Analyst,skill_machine_learning,Machine Learning,0,5,0,0
+Education,Reporting Analyst,skill_powerbi,Powerbi,0,5,0,0
+Education,Reporting Analyst,skill_python,Python,0,5,0,0
+Education,Reporting Analyst,skill_r,R,0,5,0,0
+Education,Reporting Analyst,skill_sas,Sas,0,5,0,0
+Education,Reporting Analyst,skill_sql,Sql,0,5,0,0
+Education,Reporting Analyst,skill_statistics,Statistics,0,5,0,0
+Education,Reporting Analyst,skill_tableau,Tableau,0,5,0,0
+Energy / Utilities,Analytics Manager,skill_data_analysis,Data Analysis,6,6,1,100
+Energy / Utilities,Analytics Manager,skill_reporting,Reporting,1,6,0.16666666666666666,16.666666666666664
+Energy / Utilities,Analytics Manager,skill_cloud,Cloud,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_communication,Communication,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_data_visualization,Data Visualization,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_database,Database,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_etl,Etl,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_excel,Excel,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_machine_learning,Machine Learning,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_powerbi,Powerbi,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_python,Python,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_r,R,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_sas,Sas,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_sql,Sql,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_statistics,Statistics,0,6,0,0
+Energy / Utilities,Analytics Manager,skill_tableau,Tableau,0,6,0,0
+Energy / Utilities,Business Analyst,skill_data_analysis,Data Analysis,1,2,0.5,50
+Energy / Utilities,Business Analyst,skill_excel,Excel,1,2,0.5,50
+Energy / Utilities,Business Analyst,skill_cloud,Cloud,0,2,0,0
+Energy / Utilities,Business Analyst,skill_communication,Communication,0,2,0,0
+Energy / Utilities,Business Analyst,skill_data_visualization,Data Visualization,0,2,0,0
+Energy / Utilities,Business Analyst,skill_database,Database,0,2,0,0
+Energy / Utilities,Business Analyst,skill_etl,Etl,0,2,0,0
+Energy / Utilities,Business Analyst,skill_machine_learning,Machine Learning,0,2,0,0
+Energy / Utilities,Business Analyst,skill_powerbi,Powerbi,0,2,0,0
+Energy / Utilities,Business Analyst,skill_python,Python,0,2,0,0
+Energy / Utilities,Business Analyst,skill_r,R,0,2,0,0
+Energy / Utilities,Business Analyst,skill_reporting,Reporting,0,2,0,0
+Energy / Utilities,Business Analyst,skill_sas,Sas,0,2,0,0
+Energy / Utilities,Business Analyst,skill_sql,Sql,0,2,0,0
+Energy / Utilities,Business Analyst,skill_statistics,Statistics,0,2,0,0
+Energy / Utilities,Business Analyst,skill_tableau,Tableau,0,2,0,0
+Energy / Utilities,Business Intelligence,skill_data_visualization,Data Visualization,1,1,1,100
+Energy / Utilities,Business Intelligence,skill_sql,Sql,1,1,1,100
+Energy / Utilities,Business Intelligence,skill_cloud,Cloud,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_communication,Communication,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_data_analysis,Data Analysis,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_database,Database,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_etl,Etl,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_excel,Excel,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_machine_learning,Machine Learning,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_powerbi,Powerbi,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_python,Python,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_r,R,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_reporting,Reporting,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_sas,Sas,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_statistics,Statistics,0,1,0,0
+Energy / Utilities,Business Intelligence,skill_tableau,Tableau,0,1,0,0
+Energy / Utilities,Data Analyst,skill_data_analysis,Data Analysis,3,5,0.6,60
+Energy / Utilities,Data Analyst,skill_reporting,Reporting,1,5,0.2,20
+Energy / Utilities,Data Analyst,skill_statistics,Statistics,1,5,0.2,20
+Energy / Utilities,Data Analyst,skill_cloud,Cloud,0,5,0,0
+Energy / Utilities,Data Analyst,skill_communication,Communication,0,5,0,0
+Energy / Utilities,Data Analyst,skill_data_visualization,Data Visualization,0,5,0,0
+Energy / Utilities,Data Analyst,skill_database,Database,0,5,0,0
+Energy / Utilities,Data Analyst,skill_etl,Etl,0,5,0,0
+Energy / Utilities,Data Analyst,skill_excel,Excel,0,5,0,0
+Energy / Utilities,Data Analyst,skill_machine_learning,Machine Learning,0,5,0,0
+Energy / Utilities,Data Analyst,skill_powerbi,Powerbi,0,5,0,0
+Energy / Utilities,Data Analyst,skill_python,Python,0,5,0,0
+Energy / Utilities,Data Analyst,skill_r,R,0,5,0,0
+Energy / Utilities,Data Analyst,skill_sas,Sas,0,5,0,0
+Energy / Utilities,Data Analyst,skill_sql,Sql,0,5,0,0
+Energy / Utilities,Data Analyst,skill_tableau,Tableau,0,5,0,0
+Energy / Utilities,Data Engineer,skill_data_analysis,Data Analysis,1,2,0.5,50
+Energy / Utilities,Data Engineer,skill_etl,Etl,1,2,0.5,50
+Energy / Utilities,Data Engineer,skill_cloud,Cloud,0,2,0,0
+Energy / Utilities,Data Engineer,skill_communication,Communication,0,2,0,0
+Energy / Utilities,Data Engineer,skill_data_visualization,Data Visualization,0,2,0,0
+Energy / Utilities,Data Engineer,skill_database,Database,0,2,0,0
+Energy / Utilities,Data Engineer,skill_excel,Excel,0,2,0,0
+Energy / Utilities,Data Engineer,skill_machine_learning,Machine Learning,0,2,0,0
+Energy / Utilities,Data Engineer,skill_powerbi,Powerbi,0,2,0,0
+Energy / Utilities,Data Engineer,skill_python,Python,0,2,0,0
+Energy / Utilities,Data Engineer,skill_r,R,0,2,0,0
+Energy / Utilities,Data Engineer,skill_reporting,Reporting,0,2,0,0
+Energy / Utilities,Data Engineer,skill_sas,Sas,0,2,0,0
+Energy / Utilities,Data Engineer,skill_sql,Sql,0,2,0,0
+Energy / Utilities,Data Engineer,skill_statistics,Statistics,0,2,0,0
+Energy / Utilities,Data Engineer,skill_tableau,Tableau,0,2,0,0
+Energy / Utilities,Data Scientist,skill_data_analysis,Data Analysis,1,1,1,100
+Energy / Utilities,Data Scientist,skill_etl,Etl,1,1,1,100
+Energy / Utilities,Data Scientist,skill_cloud,Cloud,0,1,0,0
+Energy / Utilities,Data Scientist,skill_communication,Communication,0,1,0,0
+Energy / Utilities,Data Scientist,skill_data_visualization,Data Visualization,0,1,0,0
+Energy / Utilities,Data Scientist,skill_database,Database,0,1,0,0
+Energy / Utilities,Data Scientist,skill_excel,Excel,0,1,0,0
+Energy / Utilities,Data Scientist,skill_machine_learning,Machine Learning,0,1,0,0
+Energy / Utilities,Data Scientist,skill_powerbi,Powerbi,0,1,0,0
+Energy / Utilities,Data Scientist,skill_python,Python,0,1,0,0
+Energy / Utilities,Data Scientist,skill_r,R,0,1,0,0
+Energy / Utilities,Data Scientist,skill_reporting,Reporting,0,1,0,0
+Energy / Utilities,Data Scientist,skill_sas,Sas,0,1,0,0
+Energy / Utilities,Data Scientist,skill_sql,Sql,0,1,0,0
+Energy / Utilities,Data Scientist,skill_statistics,Statistics,0,1,0,0
+Energy / Utilities,Data Scientist,skill_tableau,Tableau,0,1,0,0
+Energy / Utilities,Database Role,skill_database,Database,2,2,1,100
+Energy / Utilities,Database Role,skill_data_analysis,Data Analysis,1,2,0.5,50
+Energy / Utilities,Database Role,skill_powerbi,Powerbi,1,2,0.5,50
+Energy / Utilities,Database Role,skill_reporting,Reporting,1,2,0.5,50
+Energy / Utilities,Database Role,skill_sql,Sql,1,2,0.5,50
+Energy / Utilities,Database Role,skill_cloud,Cloud,0,2,0,0
+Energy / Utilities,Database Role,skill_communication,Communication,0,2,0,0
+Energy / Utilities,Database Role,skill_data_visualization,Data Visualization,0,2,0,0
+Energy / Utilities,Database Role,skill_etl,Etl,0,2,0,0
+Energy / Utilities,Database Role,skill_excel,Excel,0,2,0,0
+Energy / Utilities,Database Role,skill_machine_learning,Machine Learning,0,2,0,0
+Energy / Utilities,Database Role,skill_python,Python,0,2,0,0
+Energy / Utilities,Database Role,skill_r,R,0,2,0,0
+Energy / Utilities,Database Role,skill_sas,Sas,0,2,0,0
+Energy / Utilities,Database Role,skill_statistics,Statistics,0,2,0,0
+Energy / Utilities,Database Role,skill_tableau,Tableau,0,2,0,0
+Energy / Utilities,Financial Analyst,skill_reporting,Reporting,20,37,0.5405405405405406,54.054054054054056
+Energy / Utilities,Financial Analyst,skill_data_analysis,Data Analysis,19,37,0.5135135135135135,51.35135135135135
+Energy / Utilities,Financial Analyst,skill_communication,Communication,1,37,0.02702702702702703,2.7027027027027026
+Energy / Utilities,Financial Analyst,skill_data_visualization,Data Visualization,1,37,0.02702702702702703,2.7027027027027026
+Energy / Utilities,Financial Analyst,skill_excel,Excel,1,37,0.02702702702702703,2.7027027027027026
+Energy / Utilities,Financial Analyst,skill_cloud,Cloud,0,37,0,0
+Energy / Utilities,Financial Analyst,skill_database,Database,0,37,0,0
+Energy / Utilities,Financial Analyst,skill_etl,Etl,0,37,0,0
+Energy / Utilities,Financial Analyst,skill_machine_learning,Machine Learning,0,37,0,0
+Energy / Utilities,Financial Analyst,skill_powerbi,Powerbi,0,37,0,0
+Energy / Utilities,Financial Analyst,skill_python,Python,0,37,0,0
+Energy / Utilities,Financial Analyst,skill_r,R,0,37,0,0
+Energy / Utilities,Financial Analyst,skill_sas,Sas,0,37,0,0
+Energy / Utilities,Financial Analyst,skill_sql,Sql,0,37,0,0
+Energy / Utilities,Financial Analyst,skill_statistics,Statistics,0,37,0,0
+Energy / Utilities,Financial Analyst,skill_tableau,Tableau,0,37,0,0
+Energy / Utilities,Market Research Analyst,skill_data_analysis,Data Analysis,2,4,0.5,50
+Energy / Utilities,Market Research Analyst,skill_reporting,Reporting,1,4,0.25,25
+Energy / Utilities,Market Research Analyst,skill_cloud,Cloud,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_communication,Communication,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_data_visualization,Data Visualization,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_database,Database,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_etl,Etl,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_excel,Excel,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_machine_learning,Machine Learning,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_powerbi,Powerbi,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_python,Python,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_r,R,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_sas,Sas,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_sql,Sql,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_statistics,Statistics,0,4,0,0
+Energy / Utilities,Market Research Analyst,skill_tableau,Tableau,0,4,0,0
+Energy / Utilities,Operations Analyst,skill_data_analysis,Data Analysis,2,3,0.6666666666666666,66.66666666666666
+Energy / Utilities,Operations Analyst,skill_cloud,Cloud,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_communication,Communication,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_data_visualization,Data Visualization,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_database,Database,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_etl,Etl,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_excel,Excel,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_machine_learning,Machine Learning,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_powerbi,Powerbi,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_python,Python,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_r,R,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_reporting,Reporting,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_sas,Sas,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_sql,Sql,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_statistics,Statistics,0,3,0,0
+Energy / Utilities,Operations Analyst,skill_tableau,Tableau,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_cloud,Cloud,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_communication,Communication,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_data_analysis,Data Analysis,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_data_visualization,Data Visualization,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_database,Database,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_etl,Etl,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_excel,Excel,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_machine_learning,Machine Learning,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_powerbi,Powerbi,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_python,Python,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_r,R,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_reporting,Reporting,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_sas,Sas,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_sql,Sql,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_statistics,Statistics,0,3,0,0
+Energy / Utilities,Other Data/Analytics Role,skill_tableau,Tableau,0,3,0,0
+Energy / Utilities,Product Analyst,skill_cloud,Cloud,1,3,0.3333333333333333,33.33333333333333
+Energy / Utilities,Product Analyst,skill_data_analysis,Data Analysis,1,3,0.3333333333333333,33.33333333333333
+Energy / Utilities,Product Analyst,skill_communication,Communication,0,3,0,0
+Energy / Utilities,Product Analyst,skill_data_visualization,Data Visualization,0,3,0,0
+Energy / Utilities,Product Analyst,skill_database,Database,0,3,0,0
+Energy / Utilities,Product Analyst,skill_etl,Etl,0,3,0,0
+Energy / Utilities,Product Analyst,skill_excel,Excel,0,3,0,0
+Energy / Utilities,Product Analyst,skill_machine_learning,Machine Learning,0,3,0,0
+Energy / Utilities,Product Analyst,skill_powerbi,Powerbi,0,3,0,0
+Energy / Utilities,Product Analyst,skill_python,Python,0,3,0,0
+Energy / Utilities,Product Analyst,skill_r,R,0,3,0,0
+Energy / Utilities,Product Analyst,skill_reporting,Reporting,0,3,0,0
+Energy / Utilities,Product Analyst,skill_sas,Sas,0,3,0,0
+Energy / Utilities,Product Analyst,skill_sql,Sql,0,3,0,0
+Energy / Utilities,Product Analyst,skill_statistics,Statistics,0,3,0,0
+Energy / Utilities,Product Analyst,skill_tableau,Tableau,0,3,0,0
+Energy / Utilities,Reporting Analyst,skill_reporting,Reporting,4,4,1,100
+Energy / Utilities,Reporting Analyst,skill_data_analysis,Data Analysis,3,4,0.75,75
+Energy / Utilities,Reporting Analyst,skill_communication,Communication,1,4,0.25,25
+Energy / Utilities,Reporting Analyst,skill_cloud,Cloud,0,4,0,0
+Energy / Utilities,Reporting Analyst,skill_data_visualization,Data Visualization,0,4,0,0
+Energy / Utilities,Reporting Analyst,skill_database,Database,0,4,0,0
+Energy / Utilities,Reporting Analyst,skill_etl,Etl,0,4,0,0
+Energy / Utilities,Reporting Analyst,skill_excel,Excel,0,4,0,0
+Energy / Utilities,Reporting Analyst,skill_machine_learning,Machine Learning,0,4,0,0
+Energy / Utilities,Reporting Analyst,skill_powerbi,Powerbi,0,4,0,0
+Energy / Utilities,Reporting Analyst,skill_python,Python,0,4,0,0
+Energy / Utilities,Reporting Analyst,skill_r,R,0,4,0,0
+Energy / Utilities,Reporting Analyst,skill_sas,Sas,0,4,0,0
+Energy / Utilities,Reporting Analyst,skill_sql,Sql,0,4,0,0
+Energy / Utilities,Reporting Analyst,skill_statistics,Statistics,0,4,0,0
+Energy / Utilities,Reporting Analyst,skill_tableau,Tableau,0,4,0,0
+Finance & Insurance,Analytics Manager,skill_data_analysis,Data Analysis,25,25,1,100
+Finance & Insurance,Analytics Manager,skill_reporting,Reporting,2,25,0.08,8
+Finance & Insurance,Analytics Manager,skill_communication,Communication,1,25,0.04,4
+Finance & Insurance,Analytics Manager,skill_data_visualization,Data Visualization,1,25,0.04,4
+Finance & Insurance,Analytics Manager,skill_statistics,Statistics,1,25,0.04,4
+Finance & Insurance,Analytics Manager,skill_cloud,Cloud,0,25,0,0
+Finance & Insurance,Analytics Manager,skill_database,Database,0,25,0,0
+Finance & Insurance,Analytics Manager,skill_etl,Etl,0,25,0,0
+Finance & Insurance,Analytics Manager,skill_excel,Excel,0,25,0,0
+Finance & Insurance,Analytics Manager,skill_machine_learning,Machine Learning,0,25,0,0
+Finance & Insurance,Analytics Manager,skill_powerbi,Powerbi,0,25,0,0
+Finance & Insurance,Analytics Manager,skill_python,Python,0,25,0,0
+Finance & Insurance,Analytics Manager,skill_r,R,0,25,0,0
+Finance & Insurance,Analytics Manager,skill_sas,Sas,0,25,0,0
+Finance & Insurance,Analytics Manager,skill_sql,Sql,0,25,0,0
+Finance & Insurance,Analytics Manager,skill_tableau,Tableau,0,25,0,0
+Finance & Insurance,Business Analyst,skill_data_analysis,Data Analysis,12,25,0.48,48
+Finance & Insurance,Business Analyst,skill_reporting,Reporting,7,25,0.28,28.000000000000004
+Finance & Insurance,Business Analyst,skill_sql,Sql,5,25,0.2,20
+Finance & Insurance,Business Analyst,skill_communication,Communication,3,25,0.12,12
+Finance & Insurance,Business Analyst,skill_database,Database,2,25,0.08,8
+Finance & Insurance,Business Analyst,skill_python,Python,2,25,0.08,8
+Finance & Insurance,Business Analyst,skill_r,R,2,25,0.08,8
+Finance & Insurance,Business Analyst,skill_sas,Sas,2,25,0.08,8
+Finance & Insurance,Business Analyst,skill_cloud,Cloud,1,25,0.04,4
+Finance & Insurance,Business Analyst,skill_data_visualization,Data Visualization,1,25,0.04,4
+Finance & Insurance,Business Analyst,skill_tableau,Tableau,1,25,0.04,4
+Finance & Insurance,Business Analyst,skill_etl,Etl,0,25,0,0
+Finance & Insurance,Business Analyst,skill_excel,Excel,0,25,0,0
+Finance & Insurance,Business Analyst,skill_machine_learning,Machine Learning,0,25,0,0
+Finance & Insurance,Business Analyst,skill_powerbi,Powerbi,0,25,0,0
+Finance & Insurance,Business Analyst,skill_statistics,Statistics,0,25,0,0
+Finance & Insurance,Business Intelligence,skill_reporting,Reporting,2,2,1,100
+Finance & Insurance,Business Intelligence,skill_data_analysis,Data Analysis,1,2,0.5,50
+Finance & Insurance,Business Intelligence,skill_tableau,Tableau,1,2,0.5,50
+Finance & Insurance,Business Intelligence,skill_cloud,Cloud,0,2,0,0
+Finance & Insurance,Business Intelligence,skill_communication,Communication,0,2,0,0
+Finance & Insurance,Business Intelligence,skill_data_visualization,Data Visualization,0,2,0,0
+Finance & Insurance,Business Intelligence,skill_database,Database,0,2,0,0
+Finance & Insurance,Business Intelligence,skill_etl,Etl,0,2,0,0
+Finance & Insurance,Business Intelligence,skill_excel,Excel,0,2,0,0
+Finance & Insurance,Business Intelligence,skill_machine_learning,Machine Learning,0,2,0,0
+Finance & Insurance,Business Intelligence,skill_powerbi,Powerbi,0,2,0,0
+Finance & Insurance,Business Intelligence,skill_python,Python,0,2,0,0
+Finance & Insurance,Business Intelligence,skill_r,R,0,2,0,0
+Finance & Insurance,Business Intelligence,skill_sas,Sas,0,2,0,0
+Finance & Insurance,Business Intelligence,skill_sql,Sql,0,2,0,0
+Finance & Insurance,Business Intelligence,skill_statistics,Statistics,0,2,0,0
+Finance & Insurance,Data Analyst,skill_data_analysis,Data Analysis,12,20,0.6,60
+Finance & Insurance,Data Analyst,skill_reporting,Reporting,12,20,0.6,60
+Finance & Insurance,Data Analyst,skill_data_visualization,Data Visualization,5,20,0.25,25
+Finance & Insurance,Data Analyst,skill_sql,Sql,5,20,0.25,25
+Finance & Insurance,Data Analyst,skill_excel,Excel,3,20,0.15,15
+Finance & Insurance,Data Analyst,skill_powerbi,Powerbi,3,20,0.15,15
+Finance & Insurance,Data Analyst,skill_python,Python,3,20,0.15,15
+Finance & Insurance,Data Analyst,skill_tableau,Tableau,3,20,0.15,15
+Finance & Insurance,Data Analyst,skill_cloud,Cloud,2,20,0.1,10
+Finance & Insurance,Data Analyst,skill_communication,Communication,1,20,0.05,5
+Finance & Insurance,Data Analyst,skill_database,Database,1,20,0.05,5
+Finance & Insurance,Data Analyst,skill_etl,Etl,1,20,0.05,5
+Finance & Insurance,Data Analyst,skill_machine_learning,Machine Learning,0,20,0,0
+Finance & Insurance,Data Analyst,skill_r,R,0,20,0,0
+Finance & Insurance,Data Analyst,skill_sas,Sas,0,20,0,0
+Finance & Insurance,Data Analyst,skill_statistics,Statistics,0,20,0,0
+Finance & Insurance,Data Engineer,skill_data_analysis,Data Analysis,9,29,0.3103448275862069,31.03448275862069
+Finance & Insurance,Data Engineer,skill_etl,Etl,8,29,0.27586206896551724,27.586206896551722
+Finance & Insurance,Data Engineer,skill_cloud,Cloud,4,29,0.13793103448275862,13.793103448275861
+Finance & Insurance,Data Engineer,skill_database,Database,4,29,0.13793103448275862,13.793103448275861
+Finance & Insurance,Data Engineer,skill_sql,Sql,4,29,0.13793103448275862,13.793103448275861
+Finance & Insurance,Data Engineer,skill_python,Python,3,29,0.10344827586206896,10.344827586206897
+Finance & Insurance,Data Engineer,skill_reporting,Reporting,3,29,0.10344827586206896,10.344827586206897
+Finance & Insurance,Data Engineer,skill_machine_learning,Machine Learning,2,29,0.06896551724137931,6.896551724137931
+Finance & Insurance,Data Engineer,skill_communication,Communication,0,29,0,0
+Finance & Insurance,Data Engineer,skill_data_visualization,Data Visualization,0,29,0,0
+Finance & Insurance,Data Engineer,skill_excel,Excel,0,29,0,0
+Finance & Insurance,Data Engineer,skill_powerbi,Powerbi,0,29,0,0
+Finance & Insurance,Data Engineer,skill_r,R,0,29,0,0
+Finance & Insurance,Data Engineer,skill_sas,Sas,0,29,0,0
+Finance & Insurance,Data Engineer,skill_statistics,Statistics,0,29,0,0
+Finance & Insurance,Data Engineer,skill_tableau,Tableau,0,29,0,0
+Finance & Insurance,Data Scientist,skill_data_analysis,Data Analysis,6,15,0.4,40
+Finance & Insurance,Data Scientist,skill_machine_learning,Machine Learning,4,15,0.26666666666666666,26.666666666666668
+Finance & Insurance,Data Scientist,skill_reporting,Reporting,2,15,0.13333333333333333,13.333333333333334
+Finance & Insurance,Data Scientist,skill_communication,Communication,1,15,0.06666666666666667,6.666666666666667
+Finance & Insurance,Data Scientist,skill_etl,Etl,1,15,0.06666666666666667,6.666666666666667
+Finance & Insurance,Data Scientist,skill_python,Python,1,15,0.06666666666666667,6.666666666666667
+Finance & Insurance,Data Scientist,skill_sql,Sql,1,15,0.06666666666666667,6.666666666666667
+Finance & Insurance,Data Scientist,skill_cloud,Cloud,0,15,0,0
+Finance & Insurance,Data Scientist,skill_data_visualization,Data Visualization,0,15,0,0
+Finance & Insurance,Data Scientist,skill_database,Database,0,15,0,0
+Finance & Insurance,Data Scientist,skill_excel,Excel,0,15,0,0
+Finance & Insurance,Data Scientist,skill_powerbi,Powerbi,0,15,0,0
+Finance & Insurance,Data Scientist,skill_r,R,0,15,0,0
+Finance & Insurance,Data Scientist,skill_sas,Sas,0,15,0,0
+Finance & Insurance,Data Scientist,skill_statistics,Statistics,0,15,0,0
+Finance & Insurance,Data Scientist,skill_tableau,Tableau,0,15,0,0
+Finance & Insurance,Database Role,skill_database,Database,10,10,1,100
+Finance & Insurance,Database Role,skill_cloud,Cloud,0,10,0,0
+Finance & Insurance,Database Role,skill_communication,Communication,0,10,0,0
+Finance & Insurance,Database Role,skill_data_analysis,Data Analysis,0,10,0,0
+Finance & Insurance,Database Role,skill_data_visualization,Data Visualization,0,10,0,0
+Finance & Insurance,Database Role,skill_etl,Etl,0,10,0,0
+Finance & Insurance,Database Role,skill_excel,Excel,0,10,0,0
+Finance & Insurance,Database Role,skill_machine_learning,Machine Learning,0,10,0,0
+Finance & Insurance,Database Role,skill_powerbi,Powerbi,0,10,0,0
+Finance & Insurance,Database Role,skill_python,Python,0,10,0,0
+Finance & Insurance,Database Role,skill_r,R,0,10,0,0
+Finance & Insurance,Database Role,skill_reporting,Reporting,0,10,0,0
+Finance & Insurance,Database Role,skill_sas,Sas,0,10,0,0
+Finance & Insurance,Database Role,skill_sql,Sql,0,10,0,0
+Finance & Insurance,Database Role,skill_statistics,Statistics,0,10,0,0
+Finance & Insurance,Database Role,skill_tableau,Tableau,0,10,0,0
+Finance & Insurance,Financial Analyst,skill_reporting,Reporting,41,78,0.5256410256410257,52.56410256410257
+Finance & Insurance,Financial Analyst,skill_data_analysis,Data Analysis,36,78,0.46153846153846156,46.15384615384615
+Finance & Insurance,Financial Analyst,skill_communication,Communication,6,78,0.07692307692307693,7.6923076923076925
+Finance & Insurance,Financial Analyst,skill_cloud,Cloud,1,78,0.01282051282051282,1.282051282051282
+Finance & Insurance,Financial Analyst,skill_excel,Excel,1,78,0.01282051282051282,1.282051282051282
+Finance & Insurance,Financial Analyst,skill_r,R,1,78,0.01282051282051282,1.282051282051282
+Finance & Insurance,Financial Analyst,skill_data_visualization,Data Visualization,0,78,0,0
+Finance & Insurance,Financial Analyst,skill_database,Database,0,78,0,0
+Finance & Insurance,Financial Analyst,skill_etl,Etl,0,78,0,0
+Finance & Insurance,Financial Analyst,skill_machine_learning,Machine Learning,0,78,0,0
+Finance & Insurance,Financial Analyst,skill_powerbi,Powerbi,0,78,0,0
+Finance & Insurance,Financial Analyst,skill_python,Python,0,78,0,0
+Finance & Insurance,Financial Analyst,skill_sas,Sas,0,78,0,0
+Finance & Insurance,Financial Analyst,skill_sql,Sql,0,78,0,0
+Finance & Insurance,Financial Analyst,skill_statistics,Statistics,0,78,0,0
+Finance & Insurance,Financial Analyst,skill_tableau,Tableau,0,78,0,0
+Finance & Insurance,Market Research Analyst,skill_data_analysis,Data Analysis,16,28,0.5714285714285714,57.14285714285714
+Finance & Insurance,Market Research Analyst,skill_database,Database,2,28,0.07142857142857142,7.142857142857142
+Finance & Insurance,Market Research Analyst,skill_cloud,Cloud,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_communication,Communication,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_data_visualization,Data Visualization,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_etl,Etl,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_excel,Excel,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_machine_learning,Machine Learning,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_powerbi,Powerbi,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_python,Python,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_r,R,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_reporting,Reporting,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_sas,Sas,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_sql,Sql,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_statistics,Statistics,0,28,0,0
+Finance & Insurance,Market Research Analyst,skill_tableau,Tableau,0,28,0,0
+Finance & Insurance,Operations Analyst,skill_reporting,Reporting,5,26,0.19230769230769232,19.230769230769234
+Finance & Insurance,Operations Analyst,skill_data_analysis,Data Analysis,4,26,0.15384615384615385,15.384615384615385
+Finance & Insurance,Operations Analyst,skill_cloud,Cloud,2,26,0.07692307692307693,7.6923076923076925
+Finance & Insurance,Operations Analyst,skill_communication,Communication,1,26,0.038461538461538464,3.8461538461538463
+Finance & Insurance,Operations Analyst,skill_database,Database,1,26,0.038461538461538464,3.8461538461538463
+Finance & Insurance,Operations Analyst,skill_excel,Excel,1,26,0.038461538461538464,3.8461538461538463
+Finance & Insurance,Operations Analyst,skill_data_visualization,Data Visualization,0,26,0,0
+Finance & Insurance,Operations Analyst,skill_etl,Etl,0,26,0,0
+Finance & Insurance,Operations Analyst,skill_machine_learning,Machine Learning,0,26,0,0
+Finance & Insurance,Operations Analyst,skill_powerbi,Powerbi,0,26,0,0
+Finance & Insurance,Operations Analyst,skill_python,Python,0,26,0,0
+Finance & Insurance,Operations Analyst,skill_r,R,0,26,0,0
+Finance & Insurance,Operations Analyst,skill_sas,Sas,0,26,0,0
+Finance & Insurance,Operations Analyst,skill_sql,Sql,0,26,0,0
+Finance & Insurance,Operations Analyst,skill_statistics,Statistics,0,26,0,0
+Finance & Insurance,Operations Analyst,skill_tableau,Tableau,0,26,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_data_analysis,Data Analysis,1,7,0.14285714285714285,14.285714285714285
+Finance & Insurance,Other Data/Analytics Role,skill_cloud,Cloud,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_communication,Communication,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_data_visualization,Data Visualization,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_database,Database,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_etl,Etl,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_excel,Excel,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_machine_learning,Machine Learning,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_powerbi,Powerbi,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_python,Python,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_r,R,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_reporting,Reporting,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_sas,Sas,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_sql,Sql,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_statistics,Statistics,0,7,0,0
+Finance & Insurance,Other Data/Analytics Role,skill_tableau,Tableau,0,7,0,0
+Finance & Insurance,Product Analyst,skill_data_analysis,Data Analysis,11,44,0.25,25
+Finance & Insurance,Product Analyst,skill_communication,Communication,3,44,0.06818181818181818,6.8181818181818175
+Finance & Insurance,Product Analyst,skill_reporting,Reporting,2,44,0.045454545454545456,4.545454545454546
+Finance & Insurance,Product Analyst,skill_python,Python,1,44,0.022727272727272728,2.272727272727273
+Finance & Insurance,Product Analyst,skill_r,R,1,44,0.022727272727272728,2.272727272727273
+Finance & Insurance,Product Analyst,skill_sql,Sql,1,44,0.022727272727272728,2.272727272727273
+Finance & Insurance,Product Analyst,skill_cloud,Cloud,0,44,0,0
+Finance & Insurance,Product Analyst,skill_data_visualization,Data Visualization,0,44,0,0
+Finance & Insurance,Product Analyst,skill_database,Database,0,44,0,0
+Finance & Insurance,Product Analyst,skill_etl,Etl,0,44,0,0
+Finance & Insurance,Product Analyst,skill_excel,Excel,0,44,0,0
+Finance & Insurance,Product Analyst,skill_machine_learning,Machine Learning,0,44,0,0
+Finance & Insurance,Product Analyst,skill_powerbi,Powerbi,0,44,0,0
+Finance & Insurance,Product Analyst,skill_sas,Sas,0,44,0,0
+Finance & Insurance,Product Analyst,skill_statistics,Statistics,0,44,0,0
+Finance & Insurance,Product Analyst,skill_tableau,Tableau,0,44,0,0
+Finance & Insurance,Reporting Analyst,skill_reporting,Reporting,32,32,1,100
+Finance & Insurance,Reporting Analyst,skill_data_analysis,Data Analysis,19,32,0.59375,59.375
+Finance & Insurance,Reporting Analyst,skill_communication,Communication,2,32,0.0625,6.25
+Finance & Insurance,Reporting Analyst,skill_data_visualization,Data Visualization,1,32,0.03125,3.125
+Finance & Insurance,Reporting Analyst,skill_statistics,Statistics,1,32,0.03125,3.125
+Finance & Insurance,Reporting Analyst,skill_cloud,Cloud,0,32,0,0
+Finance & Insurance,Reporting Analyst,skill_database,Database,0,32,0,0
+Finance & Insurance,Reporting Analyst,skill_etl,Etl,0,32,0,0
+Finance & Insurance,Reporting Analyst,skill_excel,Excel,0,32,0,0
+Finance & Insurance,Reporting Analyst,skill_machine_learning,Machine Learning,0,32,0,0
+Finance & Insurance,Reporting Analyst,skill_powerbi,Powerbi,0,32,0,0
+Finance & Insurance,Reporting Analyst,skill_python,Python,0,32,0,0
+Finance & Insurance,Reporting Analyst,skill_r,R,0,32,0,0
+Finance & Insurance,Reporting Analyst,skill_sas,Sas,0,32,0,0
+Finance & Insurance,Reporting Analyst,skill_sql,Sql,0,32,0,0
+Finance & Insurance,Reporting Analyst,skill_tableau,Tableau,0,32,0,0
+Government / Public Sector,Analytics Manager,skill_data_analysis,Data Analysis,1,1,1,100
+Government / Public Sector,Analytics Manager,skill_cloud,Cloud,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_communication,Communication,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_data_visualization,Data Visualization,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_database,Database,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_etl,Etl,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_excel,Excel,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_machine_learning,Machine Learning,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_powerbi,Powerbi,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_python,Python,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_r,R,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_reporting,Reporting,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_sas,Sas,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_sql,Sql,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_statistics,Statistics,0,1,0,0
+Government / Public Sector,Analytics Manager,skill_tableau,Tableau,0,1,0,0
+Government / Public Sector,Business Analyst,skill_data_analysis,Data Analysis,3,16,0.1875,18.75
+Government / Public Sector,Business Analyst,skill_cloud,Cloud,1,16,0.0625,6.25
+Government / Public Sector,Business Analyst,skill_communication,Communication,1,16,0.0625,6.25
+Government / Public Sector,Business Analyst,skill_sql,Sql,1,16,0.0625,6.25
+Government / Public Sector,Business Analyst,skill_data_visualization,Data Visualization,0,16,0,0
+Government / Public Sector,Business Analyst,skill_database,Database,0,16,0,0
+Government / Public Sector,Business Analyst,skill_etl,Etl,0,16,0,0
+Government / Public Sector,Business Analyst,skill_excel,Excel,0,16,0,0
+Government / Public Sector,Business Analyst,skill_machine_learning,Machine Learning,0,16,0,0
+Government / Public Sector,Business Analyst,skill_powerbi,Powerbi,0,16,0,0
+Government / Public Sector,Business Analyst,skill_python,Python,0,16,0,0
+Government / Public Sector,Business Analyst,skill_r,R,0,16,0,0
+Government / Public Sector,Business Analyst,skill_reporting,Reporting,0,16,0,0
+Government / Public Sector,Business Analyst,skill_sas,Sas,0,16,0,0
+Government / Public Sector,Business Analyst,skill_statistics,Statistics,0,16,0,0
+Government / Public Sector,Business Analyst,skill_tableau,Tableau,0,16,0,0
+Government / Public Sector,Business Intelligence,skill_reporting,Reporting,3,4,0.75,75
+Government / Public Sector,Business Intelligence,skill_powerbi,Powerbi,1,4,0.25,25
+Government / Public Sector,Business Intelligence,skill_cloud,Cloud,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_communication,Communication,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_data_analysis,Data Analysis,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_data_visualization,Data Visualization,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_database,Database,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_etl,Etl,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_excel,Excel,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_machine_learning,Machine Learning,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_python,Python,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_r,R,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_sas,Sas,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_sql,Sql,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_statistics,Statistics,0,4,0,0
+Government / Public Sector,Business Intelligence,skill_tableau,Tableau,0,4,0,0
+Government / Public Sector,Data Analyst,skill_data_analysis,Data Analysis,8,18,0.4444444444444444,44.44444444444444
+Government / Public Sector,Data Analyst,skill_database,Database,6,18,0.3333333333333333,33.33333333333333
+Government / Public Sector,Data Analyst,skill_reporting,Reporting,3,18,0.16666666666666666,16.666666666666664
+Government / Public Sector,Data Analyst,skill_excel,Excel,2,18,0.1111111111111111,11.11111111111111
+Government / Public Sector,Data Analyst,skill_sql,Sql,2,18,0.1111111111111111,11.11111111111111
+Government / Public Sector,Data Analyst,skill_cloud,Cloud,1,18,0.05555555555555555,5.555555555555555
+Government / Public Sector,Data Analyst,skill_data_visualization,Data Visualization,1,18,0.05555555555555555,5.555555555555555
+Government / Public Sector,Data Analyst,skill_communication,Communication,0,18,0,0
+Government / Public Sector,Data Analyst,skill_etl,Etl,0,18,0,0
+Government / Public Sector,Data Analyst,skill_machine_learning,Machine Learning,0,18,0,0
+Government / Public Sector,Data Analyst,skill_powerbi,Powerbi,0,18,0,0
+Government / Public Sector,Data Analyst,skill_python,Python,0,18,0,0
+Government / Public Sector,Data Analyst,skill_r,R,0,18,0,0
+Government / Public Sector,Data Analyst,skill_sas,Sas,0,18,0,0
+Government / Public Sector,Data Analyst,skill_statistics,Statistics,0,18,0,0
+Government / Public Sector,Data Analyst,skill_tableau,Tableau,0,18,0,0
+Government / Public Sector,Data Engineer,skill_etl,Etl,4,8,0.5,50
+Government / Public Sector,Data Engineer,skill_data_analysis,Data Analysis,3,8,0.375,37.5
+Government / Public Sector,Data Engineer,skill_cloud,Cloud,2,8,0.25,25
+Government / Public Sector,Data Engineer,skill_database,Database,1,8,0.125,12.5
+Government / Public Sector,Data Engineer,skill_sql,Sql,1,8,0.125,12.5
+Government / Public Sector,Data Engineer,skill_communication,Communication,0,8,0,0
+Government / Public Sector,Data Engineer,skill_data_visualization,Data Visualization,0,8,0,0
+Government / Public Sector,Data Engineer,skill_excel,Excel,0,8,0,0
+Government / Public Sector,Data Engineer,skill_machine_learning,Machine Learning,0,8,0,0
+Government / Public Sector,Data Engineer,skill_powerbi,Powerbi,0,8,0,0
+Government / Public Sector,Data Engineer,skill_python,Python,0,8,0,0
+Government / Public Sector,Data Engineer,skill_r,R,0,8,0,0
+Government / Public Sector,Data Engineer,skill_reporting,Reporting,0,8,0,0
+Government / Public Sector,Data Engineer,skill_sas,Sas,0,8,0,0
+Government / Public Sector,Data Engineer,skill_statistics,Statistics,0,8,0,0
+Government / Public Sector,Data Engineer,skill_tableau,Tableau,0,8,0,0
+Government / Public Sector,Data Scientist,skill_data_analysis,Data Analysis,4,14,0.2857142857142857,28.57142857142857
+Government / Public Sector,Data Scientist,skill_machine_learning,Machine Learning,3,14,0.21428571428571427,21.428571428571427
+Government / Public Sector,Data Scientist,skill_statistics,Statistics,1,14,0.07142857142857142,7.142857142857142
+Government / Public Sector,Data Scientist,skill_cloud,Cloud,0,14,0,0
+Government / Public Sector,Data Scientist,skill_communication,Communication,0,14,0,0
+Government / Public Sector,Data Scientist,skill_data_visualization,Data Visualization,0,14,0,0
+Government / Public Sector,Data Scientist,skill_database,Database,0,14,0,0
+Government / Public Sector,Data Scientist,skill_etl,Etl,0,14,0,0
+Government / Public Sector,Data Scientist,skill_excel,Excel,0,14,0,0
+Government / Public Sector,Data Scientist,skill_powerbi,Powerbi,0,14,0,0
+Government / Public Sector,Data Scientist,skill_python,Python,0,14,0,0
+Government / Public Sector,Data Scientist,skill_r,R,0,14,0,0
+Government / Public Sector,Data Scientist,skill_reporting,Reporting,0,14,0,0
+Government / Public Sector,Data Scientist,skill_sas,Sas,0,14,0,0
+Government / Public Sector,Data Scientist,skill_sql,Sql,0,14,0,0
+Government / Public Sector,Data Scientist,skill_tableau,Tableau,0,14,0,0
+Government / Public Sector,Database Role,skill_database,Database,65,65,1,100
+Government / Public Sector,Database Role,skill_data_analysis,Data Analysis,11,65,0.16923076923076924,16.923076923076923
+Government / Public Sector,Database Role,skill_reporting,Reporting,5,65,0.07692307692307693,7.6923076923076925
+Government / Public Sector,Database Role,skill_sql,Sql,4,65,0.06153846153846154,6.153846153846154
+Government / Public Sector,Database Role,skill_data_visualization,Data Visualization,2,65,0.03076923076923077,3.076923076923077
+Government / Public Sector,Database Role,skill_python,Python,2,65,0.03076923076923077,3.076923076923077
+Government / Public Sector,Database Role,skill_statistics,Statistics,2,65,0.03076923076923077,3.076923076923077
+Government / Public Sector,Database Role,skill_communication,Communication,1,65,0.015384615384615385,1.5384615384615385
+Government / Public Sector,Database Role,skill_cloud,Cloud,0,65,0,0
+Government / Public Sector,Database Role,skill_etl,Etl,0,65,0,0
+Government / Public Sector,Database Role,skill_excel,Excel,0,65,0,0
+Government / Public Sector,Database Role,skill_machine_learning,Machine Learning,0,65,0,0
+Government / Public Sector,Database Role,skill_powerbi,Powerbi,0,65,0,0
+Government / Public Sector,Database Role,skill_r,R,0,65,0,0
+Government / Public Sector,Database Role,skill_sas,Sas,0,65,0,0
+Government / Public Sector,Database Role,skill_tableau,Tableau,0,65,0,0
+Government / Public Sector,Financial Analyst,skill_data_analysis,Data Analysis,3,7,0.42857142857142855,42.857142857142854
+Government / Public Sector,Financial Analyst,skill_reporting,Reporting,3,7,0.42857142857142855,42.857142857142854
+Government / Public Sector,Financial Analyst,skill_excel,Excel,1,7,0.14285714285714285,14.285714285714285
+Government / Public Sector,Financial Analyst,skill_powerbi,Powerbi,1,7,0.14285714285714285,14.285714285714285
+Government / Public Sector,Financial Analyst,skill_cloud,Cloud,0,7,0,0
+Government / Public Sector,Financial Analyst,skill_communication,Communication,0,7,0,0
+Government / Public Sector,Financial Analyst,skill_data_visualization,Data Visualization,0,7,0,0
+Government / Public Sector,Financial Analyst,skill_database,Database,0,7,0,0
+Government / Public Sector,Financial Analyst,skill_etl,Etl,0,7,0,0
+Government / Public Sector,Financial Analyst,skill_machine_learning,Machine Learning,0,7,0,0
+Government / Public Sector,Financial Analyst,skill_python,Python,0,7,0,0
+Government / Public Sector,Financial Analyst,skill_r,R,0,7,0,0
+Government / Public Sector,Financial Analyst,skill_sas,Sas,0,7,0,0
+Government / Public Sector,Financial Analyst,skill_sql,Sql,0,7,0,0
+Government / Public Sector,Financial Analyst,skill_statistics,Statistics,0,7,0,0
+Government / Public Sector,Financial Analyst,skill_tableau,Tableau,0,7,0,0
+Government / Public Sector,Market Research Analyst,skill_cloud,Cloud,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_communication,Communication,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_data_analysis,Data Analysis,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_data_visualization,Data Visualization,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_database,Database,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_etl,Etl,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_excel,Excel,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_machine_learning,Machine Learning,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_powerbi,Powerbi,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_python,Python,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_r,R,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_reporting,Reporting,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_sas,Sas,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_sql,Sql,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_statistics,Statistics,0,1,0,0
+Government / Public Sector,Market Research Analyst,skill_tableau,Tableau,0,1,0,0
+Government / Public Sector,Operations Analyst,skill_data_analysis,Data Analysis,7,20,0.35,35
+Government / Public Sector,Operations Analyst,skill_communication,Communication,2,20,0.1,10
+Government / Public Sector,Operations Analyst,skill_r,R,1,20,0.05,5
+Government / Public Sector,Operations Analyst,skill_reporting,Reporting,1,20,0.05,5
+Government / Public Sector,Operations Analyst,skill_cloud,Cloud,0,20,0,0
+Government / Public Sector,Operations Analyst,skill_data_visualization,Data Visualization,0,20,0,0
+Government / Public Sector,Operations Analyst,skill_database,Database,0,20,0,0
+Government / Public Sector,Operations Analyst,skill_etl,Etl,0,20,0,0
+Government / Public Sector,Operations Analyst,skill_excel,Excel,0,20,0,0
+Government / Public Sector,Operations Analyst,skill_machine_learning,Machine Learning,0,20,0,0
+Government / Public Sector,Operations Analyst,skill_powerbi,Powerbi,0,20,0,0
+Government / Public Sector,Operations Analyst,skill_python,Python,0,20,0,0
+Government / Public Sector,Operations Analyst,skill_sas,Sas,0,20,0,0
+Government / Public Sector,Operations Analyst,skill_sql,Sql,0,20,0,0
+Government / Public Sector,Operations Analyst,skill_statistics,Statistics,0,20,0,0
+Government / Public Sector,Operations Analyst,skill_tableau,Tableau,0,20,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_data_analysis,Data Analysis,16,31,0.5161290322580645,51.61290322580645
+Government / Public Sector,Other Data/Analytics Role,skill_cloud,Cloud,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_communication,Communication,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_data_visualization,Data Visualization,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_database,Database,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_etl,Etl,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_excel,Excel,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_machine_learning,Machine Learning,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_powerbi,Powerbi,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_python,Python,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_r,R,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_reporting,Reporting,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_sas,Sas,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_sql,Sql,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_statistics,Statistics,0,31,0,0
+Government / Public Sector,Other Data/Analytics Role,skill_tableau,Tableau,0,31,0,0
+Government / Public Sector,Product Analyst,skill_cloud,Cloud,0,3,0,0
+Government / Public Sector,Product Analyst,skill_communication,Communication,0,3,0,0
+Government / Public Sector,Product Analyst,skill_data_analysis,Data Analysis,0,3,0,0
+Government / Public Sector,Product Analyst,skill_data_visualization,Data Visualization,0,3,0,0
+Government / Public Sector,Product Analyst,skill_database,Database,0,3,0,0
+Government / Public Sector,Product Analyst,skill_etl,Etl,0,3,0,0
+Government / Public Sector,Product Analyst,skill_excel,Excel,0,3,0,0
+Government / Public Sector,Product Analyst,skill_machine_learning,Machine Learning,0,3,0,0
+Government / Public Sector,Product Analyst,skill_powerbi,Powerbi,0,3,0,0
+Government / Public Sector,Product Analyst,skill_python,Python,0,3,0,0
+Government / Public Sector,Product Analyst,skill_r,R,0,3,0,0
+Government / Public Sector,Product Analyst,skill_reporting,Reporting,0,3,0,0
+Government / Public Sector,Product Analyst,skill_sas,Sas,0,3,0,0
+Government / Public Sector,Product Analyst,skill_sql,Sql,0,3,0,0
+Government / Public Sector,Product Analyst,skill_statistics,Statistics,0,3,0,0
+Government / Public Sector,Product Analyst,skill_tableau,Tableau,0,3,0,0
+Government / Public Sector,Reporting Analyst,skill_reporting,Reporting,5,5,1,100
+Government / Public Sector,Reporting Analyst,skill_data_visualization,Data Visualization,2,5,0.4,40
+Government / Public Sector,Reporting Analyst,skill_data_analysis,Data Analysis,1,5,0.2,20
+Government / Public Sector,Reporting Analyst,skill_database,Database,1,5,0.2,20
+Government / Public Sector,Reporting Analyst,skill_powerbi,Powerbi,1,5,0.2,20
+Government / Public Sector,Reporting Analyst,skill_cloud,Cloud,0,5,0,0
+Government / Public Sector,Reporting Analyst,skill_communication,Communication,0,5,0,0
+Government / Public Sector,Reporting Analyst,skill_etl,Etl,0,5,0,0
+Government / Public Sector,Reporting Analyst,skill_excel,Excel,0,5,0,0
+Government / Public Sector,Reporting Analyst,skill_machine_learning,Machine Learning,0,5,0,0
+Government / Public Sector,Reporting Analyst,skill_python,Python,0,5,0,0
+Government / Public Sector,Reporting Analyst,skill_r,R,0,5,0,0
+Government / Public Sector,Reporting Analyst,skill_sas,Sas,0,5,0,0
+Government / Public Sector,Reporting Analyst,skill_sql,Sql,0,5,0,0
+Government / Public Sector,Reporting Analyst,skill_statistics,Statistics,0,5,0,0
+Government / Public Sector,Reporting Analyst,skill_tableau,Tableau,0,5,0,0
+Healthcare,Analytics Manager,skill_data_analysis,Data Analysis,23,23,1,100
+Healthcare,Analytics Manager,skill_reporting,Reporting,5,23,0.21739130434782608,21.73913043478261
+Healthcare,Analytics Manager,skill_r,R,2,23,0.08695652173913043,8.695652173913043
+Healthcare,Analytics Manager,skill_cloud,Cloud,0,23,0,0
+Healthcare,Analytics Manager,skill_communication,Communication,0,23,0,0
+Healthcare,Analytics Manager,skill_data_visualization,Data Visualization,0,23,0,0
+Healthcare,Analytics Manager,skill_database,Database,0,23,0,0
+Healthcare,Analytics Manager,skill_etl,Etl,0,23,0,0
+Healthcare,Analytics Manager,skill_excel,Excel,0,23,0,0
+Healthcare,Analytics Manager,skill_machine_learning,Machine Learning,0,23,0,0
+Healthcare,Analytics Manager,skill_powerbi,Powerbi,0,23,0,0
+Healthcare,Analytics Manager,skill_python,Python,0,23,0,0
+Healthcare,Analytics Manager,skill_sas,Sas,0,23,0,0
+Healthcare,Analytics Manager,skill_sql,Sql,0,23,0,0
+Healthcare,Analytics Manager,skill_statistics,Statistics,0,23,0,0
+Healthcare,Analytics Manager,skill_tableau,Tableau,0,23,0,0
+Healthcare,Business Analyst,skill_reporting,Reporting,75,92,0.8152173913043478,81.52173913043478
+Healthcare,Business Analyst,skill_data_analysis,Data Analysis,72,92,0.782608695652174,78.26086956521739
+Healthcare,Business Analyst,skill_data_visualization,Data Visualization,72,92,0.782608695652174,78.26086956521739
+Healthcare,Business Analyst,skill_excel,Excel,72,92,0.782608695652174,78.26086956521739
+Healthcare,Business Analyst,skill_sql,Sql,72,92,0.782608695652174,78.26086956521739
+Healthcare,Business Analyst,skill_tableau,Tableau,1,92,0.010869565217391304,1.0869565217391304
+Healthcare,Business Analyst,skill_cloud,Cloud,0,92,0,0
+Healthcare,Business Analyst,skill_communication,Communication,0,92,0,0
+Healthcare,Business Analyst,skill_database,Database,0,92,0,0
+Healthcare,Business Analyst,skill_etl,Etl,0,92,0,0
+Healthcare,Business Analyst,skill_machine_learning,Machine Learning,0,92,0,0
+Healthcare,Business Analyst,skill_powerbi,Powerbi,0,92,0,0
+Healthcare,Business Analyst,skill_python,Python,0,92,0,0
+Healthcare,Business Analyst,skill_r,R,0,92,0,0
+Healthcare,Business Analyst,skill_sas,Sas,0,92,0,0
+Healthcare,Business Analyst,skill_statistics,Statistics,0,92,0,0
+Healthcare,Business Intelligence,skill_data_analysis,Data Analysis,4,4,1,100
+Healthcare,Business Intelligence,skill_data_visualization,Data Visualization,1,4,0.25,25
+Healthcare,Business Intelligence,skill_reporting,Reporting,1,4,0.25,25
+Healthcare,Business Intelligence,skill_cloud,Cloud,0,4,0,0
+Healthcare,Business Intelligence,skill_communication,Communication,0,4,0,0
+Healthcare,Business Intelligence,skill_database,Database,0,4,0,0
+Healthcare,Business Intelligence,skill_etl,Etl,0,4,0,0
+Healthcare,Business Intelligence,skill_excel,Excel,0,4,0,0
+Healthcare,Business Intelligence,skill_machine_learning,Machine Learning,0,4,0,0
+Healthcare,Business Intelligence,skill_powerbi,Powerbi,0,4,0,0
+Healthcare,Business Intelligence,skill_python,Python,0,4,0,0
+Healthcare,Business Intelligence,skill_r,R,0,4,0,0
+Healthcare,Business Intelligence,skill_sas,Sas,0,4,0,0
+Healthcare,Business Intelligence,skill_sql,Sql,0,4,0,0
+Healthcare,Business Intelligence,skill_statistics,Statistics,0,4,0,0
+Healthcare,Business Intelligence,skill_tableau,Tableau,0,4,0,0
+Healthcare,Data Analyst,skill_data_analysis,Data Analysis,11,37,0.2972972972972973,29.72972972972973
+Healthcare,Data Analyst,skill_sql,Sql,7,37,0.1891891891891892,18.91891891891892
+Healthcare,Data Analyst,skill_database,Database,5,37,0.13513513513513514,13.513513513513514
+Healthcare,Data Analyst,skill_python,Python,4,37,0.10810810810810811,10.81081081081081
+Healthcare,Data Analyst,skill_reporting,Reporting,4,37,0.10810810810810811,10.81081081081081
+Healthcare,Data Analyst,skill_statistics,Statistics,3,37,0.08108108108108109,8.108108108108109
+Healthcare,Data Analyst,skill_communication,Communication,1,37,0.02702702702702703,2.7027027027027026
+Healthcare,Data Analyst,skill_excel,Excel,1,37,0.02702702702702703,2.7027027027027026
+Healthcare,Data Analyst,skill_r,R,1,37,0.02702702702702703,2.7027027027027026
+Healthcare,Data Analyst,skill_sas,Sas,1,37,0.02702702702702703,2.7027027027027026
+Healthcare,Data Analyst,skill_cloud,Cloud,0,37,0,0
+Healthcare,Data Analyst,skill_data_visualization,Data Visualization,0,37,0,0
+Healthcare,Data Analyst,skill_etl,Etl,0,37,0,0
+Healthcare,Data Analyst,skill_machine_learning,Machine Learning,0,37,0,0
+Healthcare,Data Analyst,skill_powerbi,Powerbi,0,37,0,0
+Healthcare,Data Analyst,skill_tableau,Tableau,0,37,0,0
+Healthcare,Data Engineer,skill_etl,Etl,6,13,0.46153846153846156,46.15384615384615
+Healthcare,Data Engineer,skill_cloud,Cloud,5,13,0.38461538461538464,38.46153846153847
+Healthcare,Data Engineer,skill_data_analysis,Data Analysis,4,13,0.3076923076923077,30.76923076923077
+Healthcare,Data Engineer,skill_python,Python,4,13,0.3076923076923077,30.76923076923077
+Healthcare,Data Engineer,skill_sql,Sql,3,13,0.23076923076923078,23.076923076923077
+Healthcare,Data Engineer,skill_database,Database,1,13,0.07692307692307693,7.6923076923076925
+Healthcare,Data Engineer,skill_communication,Communication,0,13,0,0
+Healthcare,Data Engineer,skill_data_visualization,Data Visualization,0,13,0,0
+Healthcare,Data Engineer,skill_excel,Excel,0,13,0,0
+Healthcare,Data Engineer,skill_machine_learning,Machine Learning,0,13,0,0
+Healthcare,Data Engineer,skill_powerbi,Powerbi,0,13,0,0
+Healthcare,Data Engineer,skill_r,R,0,13,0,0
+Healthcare,Data Engineer,skill_reporting,Reporting,0,13,0,0
+Healthcare,Data Engineer,skill_sas,Sas,0,13,0,0
+Healthcare,Data Engineer,skill_statistics,Statistics,0,13,0,0
+Healthcare,Data Engineer,skill_tableau,Tableau,0,13,0,0
+Healthcare,Data Scientist,skill_data_analysis,Data Analysis,23,26,0.8846153846153846,88.46153846153845
+Healthcare,Data Scientist,skill_statistics,Statistics,11,26,0.4230769230769231,42.30769230769231
+Healthcare,Data Scientist,skill_etl,Etl,8,26,0.3076923076923077,30.76923076923077
+Healthcare,Data Scientist,skill_machine_learning,Machine Learning,3,26,0.11538461538461539,11.538461538461538
+Healthcare,Data Scientist,skill_communication,Communication,1,26,0.038461538461538464,3.8461538461538463
+Healthcare,Data Scientist,skill_cloud,Cloud,0,26,0,0
+Healthcare,Data Scientist,skill_data_visualization,Data Visualization,0,26,0,0
+Healthcare,Data Scientist,skill_database,Database,0,26,0,0
+Healthcare,Data Scientist,skill_excel,Excel,0,26,0,0
+Healthcare,Data Scientist,skill_powerbi,Powerbi,0,26,0,0
+Healthcare,Data Scientist,skill_python,Python,0,26,0,0
+Healthcare,Data Scientist,skill_r,R,0,26,0,0
+Healthcare,Data Scientist,skill_reporting,Reporting,0,26,0,0
+Healthcare,Data Scientist,skill_sas,Sas,0,26,0,0
+Healthcare,Data Scientist,skill_sql,Sql,0,26,0,0
+Healthcare,Data Scientist,skill_tableau,Tableau,0,26,0,0
+Healthcare,Database Role,skill_database,Database,10,11,0.9090909090909091,90.9090909090909
+Healthcare,Database Role,skill_reporting,Reporting,6,11,0.5454545454545454,54.54545454545454
+Healthcare,Database Role,skill_data_analysis,Data Analysis,3,11,0.2727272727272727,27.27272727272727
+Healthcare,Database Role,skill_sql,Sql,1,11,0.09090909090909091,9.090909090909092
+Healthcare,Database Role,skill_cloud,Cloud,0,11,0,0
+Healthcare,Database Role,skill_communication,Communication,0,11,0,0
+Healthcare,Database Role,skill_data_visualization,Data Visualization,0,11,0,0
+Healthcare,Database Role,skill_etl,Etl,0,11,0,0
+Healthcare,Database Role,skill_excel,Excel,0,11,0,0
+Healthcare,Database Role,skill_machine_learning,Machine Learning,0,11,0,0
+Healthcare,Database Role,skill_powerbi,Powerbi,0,11,0,0
+Healthcare,Database Role,skill_python,Python,0,11,0,0
+Healthcare,Database Role,skill_r,R,0,11,0,0
+Healthcare,Database Role,skill_sas,Sas,0,11,0,0
+Healthcare,Database Role,skill_statistics,Statistics,0,11,0,0
+Healthcare,Database Role,skill_tableau,Tableau,0,11,0,0
+Healthcare,Financial Analyst,skill_reporting,Reporting,28,38,0.7368421052631579,73.68421052631578
+Healthcare,Financial Analyst,skill_data_analysis,Data Analysis,25,38,0.6578947368421053,65.78947368421053
+Healthcare,Financial Analyst,skill_statistics,Statistics,4,38,0.10526315789473684,10.526315789473683
+Healthcare,Financial Analyst,skill_database,Database,2,38,0.05263157894736842,5.263157894736842
+Healthcare,Financial Analyst,skill_communication,Communication,1,38,0.02631578947368421,2.631578947368421
+Healthcare,Financial Analyst,skill_data_visualization,Data Visualization,1,38,0.02631578947368421,2.631578947368421
+Healthcare,Financial Analyst,skill_excel,Excel,1,38,0.02631578947368421,2.631578947368421
+Healthcare,Financial Analyst,skill_r,R,1,38,0.02631578947368421,2.631578947368421
+Healthcare,Financial Analyst,skill_cloud,Cloud,0,38,0,0
+Healthcare,Financial Analyst,skill_etl,Etl,0,38,0,0
+Healthcare,Financial Analyst,skill_machine_learning,Machine Learning,0,38,0,0
+Healthcare,Financial Analyst,skill_powerbi,Powerbi,0,38,0,0
+Healthcare,Financial Analyst,skill_python,Python,0,38,0,0
+Healthcare,Financial Analyst,skill_sas,Sas,0,38,0,0
+Healthcare,Financial Analyst,skill_sql,Sql,0,38,0,0
+Healthcare,Financial Analyst,skill_tableau,Tableau,0,38,0,0
+Healthcare,Market Research Analyst,skill_r,R,51,59,0.864406779661017,86.4406779661017
+Healthcare,Market Research Analyst,skill_data_analysis,Data Analysis,5,59,0.0847457627118644,8.47457627118644
+Healthcare,Market Research Analyst,skill_excel,Excel,1,59,0.01694915254237288,1.694915254237288
+Healthcare,Market Research Analyst,skill_reporting,Reporting,1,59,0.01694915254237288,1.694915254237288
+Healthcare,Market Research Analyst,skill_cloud,Cloud,0,59,0,0
+Healthcare,Market Research Analyst,skill_communication,Communication,0,59,0,0
+Healthcare,Market Research Analyst,skill_data_visualization,Data Visualization,0,59,0,0
+Healthcare,Market Research Analyst,skill_database,Database,0,59,0,0
+Healthcare,Market Research Analyst,skill_etl,Etl,0,59,0,0
+Healthcare,Market Research Analyst,skill_machine_learning,Machine Learning,0,59,0,0
+Healthcare,Market Research Analyst,skill_powerbi,Powerbi,0,59,0,0
+Healthcare,Market Research Analyst,skill_python,Python,0,59,0,0
+Healthcare,Market Research Analyst,skill_sas,Sas,0,59,0,0
+Healthcare,Market Research Analyst,skill_sql,Sql,0,59,0,0
+Healthcare,Market Research Analyst,skill_statistics,Statistics,0,59,0,0
+Healthcare,Market Research Analyst,skill_tableau,Tableau,0,59,0,0
+Healthcare,Operations Analyst,skill_data_analysis,Data Analysis,4,29,0.13793103448275862,13.793103448275861
+Healthcare,Operations Analyst,skill_data_visualization,Data Visualization,2,29,0.06896551724137931,6.896551724137931
+Healthcare,Operations Analyst,skill_reporting,Reporting,2,29,0.06896551724137931,6.896551724137931
+Healthcare,Operations Analyst,skill_cloud,Cloud,0,29,0,0
+Healthcare,Operations Analyst,skill_communication,Communication,0,29,0,0
+Healthcare,Operations Analyst,skill_database,Database,0,29,0,0
+Healthcare,Operations Analyst,skill_etl,Etl,0,29,0,0
+Healthcare,Operations Analyst,skill_excel,Excel,0,29,0,0
+Healthcare,Operations Analyst,skill_machine_learning,Machine Learning,0,29,0,0
+Healthcare,Operations Analyst,skill_powerbi,Powerbi,0,29,0,0
+Healthcare,Operations Analyst,skill_python,Python,0,29,0,0
+Healthcare,Operations Analyst,skill_r,R,0,29,0,0
+Healthcare,Operations Analyst,skill_sas,Sas,0,29,0,0
+Healthcare,Operations Analyst,skill_sql,Sql,0,29,0,0
+Healthcare,Operations Analyst,skill_statistics,Statistics,0,29,0,0
+Healthcare,Operations Analyst,skill_tableau,Tableau,0,29,0,0
+Healthcare,Other Data/Analytics Role,skill_data_analysis,Data Analysis,5,22,0.22727272727272727,22.727272727272727
+Healthcare,Other Data/Analytics Role,skill_reporting,Reporting,5,22,0.22727272727272727,22.727272727272727
+Healthcare,Other Data/Analytics Role,skill_database,Database,1,22,0.045454545454545456,4.545454545454546
+Healthcare,Other Data/Analytics Role,skill_cloud,Cloud,0,22,0,0
+Healthcare,Other Data/Analytics Role,skill_communication,Communication,0,22,0,0
+Healthcare,Other Data/Analytics Role,skill_data_visualization,Data Visualization,0,22,0,0
+Healthcare,Other Data/Analytics Role,skill_etl,Etl,0,22,0,0
+Healthcare,Other Data/Analytics Role,skill_excel,Excel,0,22,0,0
+Healthcare,Other Data/Analytics Role,skill_machine_learning,Machine Learning,0,22,0,0
+Healthcare,Other Data/Analytics Role,skill_powerbi,Powerbi,0,22,0,0
+Healthcare,Other Data/Analytics Role,skill_python,Python,0,22,0,0
+Healthcare,Other Data/Analytics Role,skill_r,R,0,22,0,0
+Healthcare,Other Data/Analytics Role,skill_sas,Sas,0,22,0,0
+Healthcare,Other Data/Analytics Role,skill_sql,Sql,0,22,0,0
+Healthcare,Other Data/Analytics Role,skill_statistics,Statistics,0,22,0,0
+Healthcare,Other Data/Analytics Role,skill_tableau,Tableau,0,22,0,0
+Healthcare,Product Analyst,skill_data_analysis,Data Analysis,40,98,0.40816326530612246,40.816326530612244
+Healthcare,Product Analyst,skill_reporting,Reporting,2,98,0.02040816326530612,2.0408163265306123
+Healthcare,Product Analyst,skill_communication,Communication,1,98,0.01020408163265306,1.0204081632653061
+Healthcare,Product Analyst,skill_cloud,Cloud,0,98,0,0
+Healthcare,Product Analyst,skill_data_visualization,Data Visualization,0,98,0,0
+Healthcare,Product Analyst,skill_database,Database,0,98,0,0
+Healthcare,Product Analyst,skill_etl,Etl,0,98,0,0
+Healthcare,Product Analyst,skill_excel,Excel,0,98,0,0
+Healthcare,Product Analyst,skill_machine_learning,Machine Learning,0,98,0,0
+Healthcare,Product Analyst,skill_powerbi,Powerbi,0,98,0,0
+Healthcare,Product Analyst,skill_python,Python,0,98,0,0
+Healthcare,Product Analyst,skill_r,R,0,98,0,0
+Healthcare,Product Analyst,skill_sas,Sas,0,98,0,0
+Healthcare,Product Analyst,skill_sql,Sql,0,98,0,0
+Healthcare,Product Analyst,skill_statistics,Statistics,0,98,0,0
+Healthcare,Product Analyst,skill_tableau,Tableau,0,98,0,0
+Healthcare,Reporting Analyst,skill_reporting,Reporting,88,88,1,100
+Healthcare,Reporting Analyst,skill_data_visualization,Data Visualization,38,88,0.4318181818181818,43.18181818181818
+Healthcare,Reporting Analyst,skill_communication,Communication,36,88,0.4090909090909091,40.909090909090914
+Healthcare,Reporting Analyst,skill_data_analysis,Data Analysis,1,88,0.011363636363636364,1.1363636363636365
+Healthcare,Reporting Analyst,skill_r,R,1,88,0.011363636363636364,1.1363636363636365
+Healthcare,Reporting Analyst,skill_tableau,Tableau,1,88,0.011363636363636364,1.1363636363636365
+Healthcare,Reporting Analyst,skill_cloud,Cloud,0,88,0,0
+Healthcare,Reporting Analyst,skill_database,Database,0,88,0,0
+Healthcare,Reporting Analyst,skill_etl,Etl,0,88,0,0
+Healthcare,Reporting Analyst,skill_excel,Excel,0,88,0,0
+Healthcare,Reporting Analyst,skill_machine_learning,Machine Learning,0,88,0,0
+Healthcare,Reporting Analyst,skill_powerbi,Powerbi,0,88,0,0
+Healthcare,Reporting Analyst,skill_python,Python,0,88,0,0
+Healthcare,Reporting Analyst,skill_sas,Sas,0,88,0,0
+Healthcare,Reporting Analyst,skill_sql,Sql,0,88,0,0
+Healthcare,Reporting Analyst,skill_statistics,Statistics,0,88,0,0
+Hospitality,Analytics Manager,skill_data_analysis,Data Analysis,1,1,1,100
+Hospitality,Analytics Manager,skill_reporting,Reporting,1,1,1,100
+Hospitality,Analytics Manager,skill_cloud,Cloud,0,1,0,0
+Hospitality,Analytics Manager,skill_communication,Communication,0,1,0,0
+Hospitality,Analytics Manager,skill_data_visualization,Data Visualization,0,1,0,0
+Hospitality,Analytics Manager,skill_database,Database,0,1,0,0
+Hospitality,Analytics Manager,skill_etl,Etl,0,1,0,0
+Hospitality,Analytics Manager,skill_excel,Excel,0,1,0,0
+Hospitality,Analytics Manager,skill_machine_learning,Machine Learning,0,1,0,0
+Hospitality,Analytics Manager,skill_powerbi,Powerbi,0,1,0,0
+Hospitality,Analytics Manager,skill_python,Python,0,1,0,0
+Hospitality,Analytics Manager,skill_r,R,0,1,0,0
+Hospitality,Analytics Manager,skill_sas,Sas,0,1,0,0
+Hospitality,Analytics Manager,skill_sql,Sql,0,1,0,0
+Hospitality,Analytics Manager,skill_statistics,Statistics,0,1,0,0
+Hospitality,Analytics Manager,skill_tableau,Tableau,0,1,0,0
+Hospitality,Data Engineer,skill_cloud,Cloud,0,1,0,0
+Hospitality,Data Engineer,skill_communication,Communication,0,1,0,0
+Hospitality,Data Engineer,skill_data_analysis,Data Analysis,0,1,0,0
+Hospitality,Data Engineer,skill_data_visualization,Data Visualization,0,1,0,0
+Hospitality,Data Engineer,skill_database,Database,0,1,0,0
+Hospitality,Data Engineer,skill_etl,Etl,0,1,0,0
+Hospitality,Data Engineer,skill_excel,Excel,0,1,0,0
+Hospitality,Data Engineer,skill_machine_learning,Machine Learning,0,1,0,0
+Hospitality,Data Engineer,skill_powerbi,Powerbi,0,1,0,0
+Hospitality,Data Engineer,skill_python,Python,0,1,0,0
+Hospitality,Data Engineer,skill_r,R,0,1,0,0
+Hospitality,Data Engineer,skill_reporting,Reporting,0,1,0,0
+Hospitality,Data Engineer,skill_sas,Sas,0,1,0,0
+Hospitality,Data Engineer,skill_sql,Sql,0,1,0,0
+Hospitality,Data Engineer,skill_statistics,Statistics,0,1,0,0
+Hospitality,Data Engineer,skill_tableau,Tableau,0,1,0,0
+Hospitality,Database Role,skill_data_analysis,Data Analysis,1,1,1,100
+Hospitality,Database Role,skill_database,Database,1,1,1,100
+Hospitality,Database Role,skill_cloud,Cloud,0,1,0,0
+Hospitality,Database Role,skill_communication,Communication,0,1,0,0
+Hospitality,Database Role,skill_data_visualization,Data Visualization,0,1,0,0
+Hospitality,Database Role,skill_etl,Etl,0,1,0,0
+Hospitality,Database Role,skill_excel,Excel,0,1,0,0
+Hospitality,Database Role,skill_machine_learning,Machine Learning,0,1,0,0
+Hospitality,Database Role,skill_powerbi,Powerbi,0,1,0,0
+Hospitality,Database Role,skill_python,Python,0,1,0,0
+Hospitality,Database Role,skill_r,R,0,1,0,0
+Hospitality,Database Role,skill_reporting,Reporting,0,1,0,0
+Hospitality,Database Role,skill_sas,Sas,0,1,0,0
+Hospitality,Database Role,skill_sql,Sql,0,1,0,0
+Hospitality,Database Role,skill_statistics,Statistics,0,1,0,0
+Hospitality,Database Role,skill_tableau,Tableau,0,1,0,0
+Hospitality,Market Research Analyst,skill_database,Database,3,4,0.75,75
+Hospitality,Market Research Analyst,skill_communication,Communication,2,4,0.5,50
+Hospitality,Market Research Analyst,skill_data_analysis,Data Analysis,2,4,0.5,50
+Hospitality,Market Research Analyst,skill_reporting,Reporting,1,4,0.25,25
+Hospitality,Market Research Analyst,skill_cloud,Cloud,0,4,0,0
+Hospitality,Market Research Analyst,skill_data_visualization,Data Visualization,0,4,0,0
+Hospitality,Market Research Analyst,skill_etl,Etl,0,4,0,0
+Hospitality,Market Research Analyst,skill_excel,Excel,0,4,0,0
+Hospitality,Market Research Analyst,skill_machine_learning,Machine Learning,0,4,0,0
+Hospitality,Market Research Analyst,skill_powerbi,Powerbi,0,4,0,0
+Hospitality,Market Research Analyst,skill_python,Python,0,4,0,0
+Hospitality,Market Research Analyst,skill_r,R,0,4,0,0
+Hospitality,Market Research Analyst,skill_sas,Sas,0,4,0,0
+Hospitality,Market Research Analyst,skill_sql,Sql,0,4,0,0
+Hospitality,Market Research Analyst,skill_statistics,Statistics,0,4,0,0
+Hospitality,Market Research Analyst,skill_tableau,Tableau,0,4,0,0
+Hospitality,Operations Analyst,skill_data_analysis,Data Analysis,1,1,1,100
+Hospitality,Operations Analyst,skill_reporting,Reporting,1,1,1,100
+Hospitality,Operations Analyst,skill_cloud,Cloud,0,1,0,0
+Hospitality,Operations Analyst,skill_communication,Communication,0,1,0,0
+Hospitality,Operations Analyst,skill_data_visualization,Data Visualization,0,1,0,0
+Hospitality,Operations Analyst,skill_database,Database,0,1,0,0
+Hospitality,Operations Analyst,skill_etl,Etl,0,1,0,0
+Hospitality,Operations Analyst,skill_excel,Excel,0,1,0,0
+Hospitality,Operations Analyst,skill_machine_learning,Machine Learning,0,1,0,0
+Hospitality,Operations Analyst,skill_powerbi,Powerbi,0,1,0,0
+Hospitality,Operations Analyst,skill_python,Python,0,1,0,0
+Hospitality,Operations Analyst,skill_r,R,0,1,0,0
+Hospitality,Operations Analyst,skill_sas,Sas,0,1,0,0
+Hospitality,Operations Analyst,skill_sql,Sql,0,1,0,0
+Hospitality,Operations Analyst,skill_statistics,Statistics,0,1,0,0
+Hospitality,Operations Analyst,skill_tableau,Tableau,0,1,0,0
+Manufacturing,Analytics Manager,skill_data_analysis,Data Analysis,11,11,1,100
+Manufacturing,Analytics Manager,skill_data_visualization,Data Visualization,2,11,0.18181818181818182,18.181818181818183
+Manufacturing,Analytics Manager,skill_reporting,Reporting,1,11,0.09090909090909091,9.090909090909092
+Manufacturing,Analytics Manager,skill_cloud,Cloud,0,11,0,0
+Manufacturing,Analytics Manager,skill_communication,Communication,0,11,0,0
+Manufacturing,Analytics Manager,skill_database,Database,0,11,0,0
+Manufacturing,Analytics Manager,skill_etl,Etl,0,11,0,0
+Manufacturing,Analytics Manager,skill_excel,Excel,0,11,0,0
+Manufacturing,Analytics Manager,skill_machine_learning,Machine Learning,0,11,0,0
+Manufacturing,Analytics Manager,skill_powerbi,Powerbi,0,11,0,0
+Manufacturing,Analytics Manager,skill_python,Python,0,11,0,0
+Manufacturing,Analytics Manager,skill_r,R,0,11,0,0
+Manufacturing,Analytics Manager,skill_sas,Sas,0,11,0,0
+Manufacturing,Analytics Manager,skill_sql,Sql,0,11,0,0
+Manufacturing,Analytics Manager,skill_statistics,Statistics,0,11,0,0
+Manufacturing,Analytics Manager,skill_tableau,Tableau,0,11,0,0
+Manufacturing,Business Analyst,skill_cloud,Cloud,0,1,0,0
+Manufacturing,Business Analyst,skill_communication,Communication,0,1,0,0
+Manufacturing,Business Analyst,skill_data_analysis,Data Analysis,0,1,0,0
+Manufacturing,Business Analyst,skill_data_visualization,Data Visualization,0,1,0,0
+Manufacturing,Business Analyst,skill_database,Database,0,1,0,0
+Manufacturing,Business Analyst,skill_etl,Etl,0,1,0,0
+Manufacturing,Business Analyst,skill_excel,Excel,0,1,0,0
+Manufacturing,Business Analyst,skill_machine_learning,Machine Learning,0,1,0,0
+Manufacturing,Business Analyst,skill_powerbi,Powerbi,0,1,0,0
+Manufacturing,Business Analyst,skill_python,Python,0,1,0,0
+Manufacturing,Business Analyst,skill_r,R,0,1,0,0
+Manufacturing,Business Analyst,skill_reporting,Reporting,0,1,0,0
+Manufacturing,Business Analyst,skill_sas,Sas,0,1,0,0
+Manufacturing,Business Analyst,skill_sql,Sql,0,1,0,0
+Manufacturing,Business Analyst,skill_statistics,Statistics,0,1,0,0
+Manufacturing,Business Analyst,skill_tableau,Tableau,0,1,0,0
+Manufacturing,Data Analyst,skill_data_visualization,Data Visualization,1,2,0.5,50
+Manufacturing,Data Analyst,skill_database,Database,1,2,0.5,50
+Manufacturing,Data Analyst,skill_powerbi,Powerbi,1,2,0.5,50
+Manufacturing,Data Analyst,skill_reporting,Reporting,1,2,0.5,50
+Manufacturing,Data Analyst,skill_sql,Sql,1,2,0.5,50
+Manufacturing,Data Analyst,skill_cloud,Cloud,0,2,0,0
+Manufacturing,Data Analyst,skill_communication,Communication,0,2,0,0
+Manufacturing,Data Analyst,skill_data_analysis,Data Analysis,0,2,0,0
+Manufacturing,Data Analyst,skill_etl,Etl,0,2,0,0
+Manufacturing,Data Analyst,skill_excel,Excel,0,2,0,0
+Manufacturing,Data Analyst,skill_machine_learning,Machine Learning,0,2,0,0
+Manufacturing,Data Analyst,skill_python,Python,0,2,0,0
+Manufacturing,Data Analyst,skill_r,R,0,2,0,0
+Manufacturing,Data Analyst,skill_sas,Sas,0,2,0,0
+Manufacturing,Data Analyst,skill_statistics,Statistics,0,2,0,0
+Manufacturing,Data Analyst,skill_tableau,Tableau,0,2,0,0
+Manufacturing,Data Engineer,skill_cloud,Cloud,0,1,0,0
+Manufacturing,Data Engineer,skill_communication,Communication,0,1,0,0
+Manufacturing,Data Engineer,skill_data_analysis,Data Analysis,0,1,0,0
+Manufacturing,Data Engineer,skill_data_visualization,Data Visualization,0,1,0,0
+Manufacturing,Data Engineer,skill_database,Database,0,1,0,0
+Manufacturing,Data Engineer,skill_etl,Etl,0,1,0,0
+Manufacturing,Data Engineer,skill_excel,Excel,0,1,0,0
+Manufacturing,Data Engineer,skill_machine_learning,Machine Learning,0,1,0,0
+Manufacturing,Data Engineer,skill_powerbi,Powerbi,0,1,0,0
+Manufacturing,Data Engineer,skill_python,Python,0,1,0,0
+Manufacturing,Data Engineer,skill_r,R,0,1,0,0
+Manufacturing,Data Engineer,skill_reporting,Reporting,0,1,0,0
+Manufacturing,Data Engineer,skill_sas,Sas,0,1,0,0
+Manufacturing,Data Engineer,skill_sql,Sql,0,1,0,0
+Manufacturing,Data Engineer,skill_statistics,Statistics,0,1,0,0
+Manufacturing,Data Engineer,skill_tableau,Tableau,0,1,0,0
+Manufacturing,Data Scientist,skill_cloud,Cloud,0,1,0,0
+Manufacturing,Data Scientist,skill_communication,Communication,0,1,0,0
+Manufacturing,Data Scientist,skill_data_analysis,Data Analysis,0,1,0,0
+Manufacturing,Data Scientist,skill_data_visualization,Data Visualization,0,1,0,0
+Manufacturing,Data Scientist,skill_database,Database,0,1,0,0
+Manufacturing,Data Scientist,skill_etl,Etl,0,1,0,0
+Manufacturing,Data Scientist,skill_excel,Excel,0,1,0,0
+Manufacturing,Data Scientist,skill_machine_learning,Machine Learning,0,1,0,0
+Manufacturing,Data Scientist,skill_powerbi,Powerbi,0,1,0,0
+Manufacturing,Data Scientist,skill_python,Python,0,1,0,0
+Manufacturing,Data Scientist,skill_r,R,0,1,0,0
+Manufacturing,Data Scientist,skill_reporting,Reporting,0,1,0,0
+Manufacturing,Data Scientist,skill_sas,Sas,0,1,0,0
+Manufacturing,Data Scientist,skill_sql,Sql,0,1,0,0
+Manufacturing,Data Scientist,skill_statistics,Statistics,0,1,0,0
+Manufacturing,Data Scientist,skill_tableau,Tableau,0,1,0,0
+Manufacturing,Database Role,skill_database,Database,3,3,1,100
+Manufacturing,Database Role,skill_reporting,Reporting,1,3,0.3333333333333333,33.33333333333333
+Manufacturing,Database Role,skill_cloud,Cloud,0,3,0,0
+Manufacturing,Database Role,skill_communication,Communication,0,3,0,0
+Manufacturing,Database Role,skill_data_analysis,Data Analysis,0,3,0,0
+Manufacturing,Database Role,skill_data_visualization,Data Visualization,0,3,0,0
+Manufacturing,Database Role,skill_etl,Etl,0,3,0,0
+Manufacturing,Database Role,skill_excel,Excel,0,3,0,0
+Manufacturing,Database Role,skill_machine_learning,Machine Learning,0,3,0,0
+Manufacturing,Database Role,skill_powerbi,Powerbi,0,3,0,0
+Manufacturing,Database Role,skill_python,Python,0,3,0,0
+Manufacturing,Database Role,skill_r,R,0,3,0,0
+Manufacturing,Database Role,skill_sas,Sas,0,3,0,0
+Manufacturing,Database Role,skill_sql,Sql,0,3,0,0
+Manufacturing,Database Role,skill_statistics,Statistics,0,3,0,0
+Manufacturing,Database Role,skill_tableau,Tableau,0,3,0,0
+Manufacturing,Financial Analyst,skill_data_analysis,Data Analysis,3,19,0.15789473684210525,15.789473684210526
+Manufacturing,Financial Analyst,skill_reporting,Reporting,1,19,0.05263157894736842,5.263157894736842
+Manufacturing,Financial Analyst,skill_statistics,Statistics,1,19,0.05263157894736842,5.263157894736842
+Manufacturing,Financial Analyst,skill_cloud,Cloud,0,19,0,0
+Manufacturing,Financial Analyst,skill_communication,Communication,0,19,0,0
+Manufacturing,Financial Analyst,skill_data_visualization,Data Visualization,0,19,0,0
+Manufacturing,Financial Analyst,skill_database,Database,0,19,0,0
+Manufacturing,Financial Analyst,skill_etl,Etl,0,19,0,0
+Manufacturing,Financial Analyst,skill_excel,Excel,0,19,0,0
+Manufacturing,Financial Analyst,skill_machine_learning,Machine Learning,0,19,0,0
+Manufacturing,Financial Analyst,skill_powerbi,Powerbi,0,19,0,0
+Manufacturing,Financial Analyst,skill_python,Python,0,19,0,0
+Manufacturing,Financial Analyst,skill_r,R,0,19,0,0
+Manufacturing,Financial Analyst,skill_sas,Sas,0,19,0,0
+Manufacturing,Financial Analyst,skill_sql,Sql,0,19,0,0
+Manufacturing,Financial Analyst,skill_tableau,Tableau,0,19,0,0
+Manufacturing,Market Research Analyst,skill_cloud,Cloud,0,2,0,0
+Manufacturing,Market Research Analyst,skill_communication,Communication,0,2,0,0
+Manufacturing,Market Research Analyst,skill_data_analysis,Data Analysis,0,2,0,0
+Manufacturing,Market Research Analyst,skill_data_visualization,Data Visualization,0,2,0,0
+Manufacturing,Market Research Analyst,skill_database,Database,0,2,0,0
+Manufacturing,Market Research Analyst,skill_etl,Etl,0,2,0,0
+Manufacturing,Market Research Analyst,skill_excel,Excel,0,2,0,0
+Manufacturing,Market Research Analyst,skill_machine_learning,Machine Learning,0,2,0,0
+Manufacturing,Market Research Analyst,skill_powerbi,Powerbi,0,2,0,0
+Manufacturing,Market Research Analyst,skill_python,Python,0,2,0,0
+Manufacturing,Market Research Analyst,skill_r,R,0,2,0,0
+Manufacturing,Market Research Analyst,skill_reporting,Reporting,0,2,0,0
+Manufacturing,Market Research Analyst,skill_sas,Sas,0,2,0,0
+Manufacturing,Market Research Analyst,skill_sql,Sql,0,2,0,0
+Manufacturing,Market Research Analyst,skill_statistics,Statistics,0,2,0,0
+Manufacturing,Market Research Analyst,skill_tableau,Tableau,0,2,0,0
+Manufacturing,Operations Analyst,skill_reporting,Reporting,2,4,0.5,50
+Manufacturing,Operations Analyst,skill_communication,Communication,1,4,0.25,25
+Manufacturing,Operations Analyst,skill_cloud,Cloud,0,4,0,0
+Manufacturing,Operations Analyst,skill_data_analysis,Data Analysis,0,4,0,0
+Manufacturing,Operations Analyst,skill_data_visualization,Data Visualization,0,4,0,0
+Manufacturing,Operations Analyst,skill_database,Database,0,4,0,0
+Manufacturing,Operations Analyst,skill_etl,Etl,0,4,0,0
+Manufacturing,Operations Analyst,skill_excel,Excel,0,4,0,0
+Manufacturing,Operations Analyst,skill_machine_learning,Machine Learning,0,4,0,0
+Manufacturing,Operations Analyst,skill_powerbi,Powerbi,0,4,0,0
+Manufacturing,Operations Analyst,skill_python,Python,0,4,0,0
+Manufacturing,Operations Analyst,skill_r,R,0,4,0,0
+Manufacturing,Operations Analyst,skill_sas,Sas,0,4,0,0
+Manufacturing,Operations Analyst,skill_sql,Sql,0,4,0,0
+Manufacturing,Operations Analyst,skill_statistics,Statistics,0,4,0,0
+Manufacturing,Operations Analyst,skill_tableau,Tableau,0,4,0,0
+Manufacturing,Other Data/Analytics Role,skill_r,R,1,1,1,100
+Manufacturing,Other Data/Analytics Role,skill_cloud,Cloud,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_communication,Communication,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_data_analysis,Data Analysis,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_data_visualization,Data Visualization,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_database,Database,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_etl,Etl,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_excel,Excel,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_machine_learning,Machine Learning,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_powerbi,Powerbi,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_python,Python,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_reporting,Reporting,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_sas,Sas,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_sql,Sql,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_statistics,Statistics,0,1,0,0
+Manufacturing,Other Data/Analytics Role,skill_tableau,Tableau,0,1,0,0
+Manufacturing,Product Analyst,skill_cloud,Cloud,0,4,0,0
+Manufacturing,Product Analyst,skill_communication,Communication,0,4,0,0
+Manufacturing,Product Analyst,skill_data_analysis,Data Analysis,0,4,0,0
+Manufacturing,Product Analyst,skill_data_visualization,Data Visualization,0,4,0,0
+Manufacturing,Product Analyst,skill_database,Database,0,4,0,0
+Manufacturing,Product Analyst,skill_etl,Etl,0,4,0,0
+Manufacturing,Product Analyst,skill_excel,Excel,0,4,0,0
+Manufacturing,Product Analyst,skill_machine_learning,Machine Learning,0,4,0,0
+Manufacturing,Product Analyst,skill_powerbi,Powerbi,0,4,0,0
+Manufacturing,Product Analyst,skill_python,Python,0,4,0,0
+Manufacturing,Product Analyst,skill_r,R,0,4,0,0
+Manufacturing,Product Analyst,skill_reporting,Reporting,0,4,0,0
+Manufacturing,Product Analyst,skill_sas,Sas,0,4,0,0
+Manufacturing,Product Analyst,skill_sql,Sql,0,4,0,0
+Manufacturing,Product Analyst,skill_statistics,Statistics,0,4,0,0
+Manufacturing,Product Analyst,skill_tableau,Tableau,0,4,0,0
+Manufacturing,Reporting Analyst,skill_reporting,Reporting,1,1,1,100
+Manufacturing,Reporting Analyst,skill_cloud,Cloud,0,1,0,0
+Manufacturing,Reporting Analyst,skill_communication,Communication,0,1,0,0
+Manufacturing,Reporting Analyst,skill_data_analysis,Data Analysis,0,1,0,0
+Manufacturing,Reporting Analyst,skill_data_visualization,Data Visualization,0,1,0,0
+Manufacturing,Reporting Analyst,skill_database,Database,0,1,0,0
+Manufacturing,Reporting Analyst,skill_etl,Etl,0,1,0,0
+Manufacturing,Reporting Analyst,skill_excel,Excel,0,1,0,0
+Manufacturing,Reporting Analyst,skill_machine_learning,Machine Learning,0,1,0,0
+Manufacturing,Reporting Analyst,skill_powerbi,Powerbi,0,1,0,0
+Manufacturing,Reporting Analyst,skill_python,Python,0,1,0,0
+Manufacturing,Reporting Analyst,skill_r,R,0,1,0,0
+Manufacturing,Reporting Analyst,skill_sas,Sas,0,1,0,0
+Manufacturing,Reporting Analyst,skill_sql,Sql,0,1,0,0
+Manufacturing,Reporting Analyst,skill_statistics,Statistics,0,1,0,0
+Manufacturing,Reporting Analyst,skill_tableau,Tableau,0,1,0,0
+Media / Entertainment,Analytics Manager,skill_data_analysis,Data Analysis,12,12,1,100
+Media / Entertainment,Analytics Manager,skill_reporting,Reporting,2,12,0.16666666666666666,16.666666666666664
+Media / Entertainment,Analytics Manager,skill_data_visualization,Data Visualization,1,12,0.08333333333333333,8.333333333333332
+Media / Entertainment,Analytics Manager,skill_excel,Excel,1,12,0.08333333333333333,8.333333333333332
+Media / Entertainment,Analytics Manager,skill_statistics,Statistics,1,12,0.08333333333333333,8.333333333333332
+Media / Entertainment,Analytics Manager,skill_cloud,Cloud,0,12,0,0
+Media / Entertainment,Analytics Manager,skill_communication,Communication,0,12,0,0
+Media / Entertainment,Analytics Manager,skill_database,Database,0,12,0,0
+Media / Entertainment,Analytics Manager,skill_etl,Etl,0,12,0,0
+Media / Entertainment,Analytics Manager,skill_machine_learning,Machine Learning,0,12,0,0
+Media / Entertainment,Analytics Manager,skill_powerbi,Powerbi,0,12,0,0
+Media / Entertainment,Analytics Manager,skill_python,Python,0,12,0,0
+Media / Entertainment,Analytics Manager,skill_r,R,0,12,0,0
+Media / Entertainment,Analytics Manager,skill_sas,Sas,0,12,0,0
+Media / Entertainment,Analytics Manager,skill_sql,Sql,0,12,0,0
+Media / Entertainment,Analytics Manager,skill_tableau,Tableau,0,12,0,0
+Media / Entertainment,Data Analyst,skill_data_analysis,Data Analysis,1,1,1,100
+Media / Entertainment,Data Analyst,skill_cloud,Cloud,0,1,0,0
+Media / Entertainment,Data Analyst,skill_communication,Communication,0,1,0,0
+Media / Entertainment,Data Analyst,skill_data_visualization,Data Visualization,0,1,0,0
+Media / Entertainment,Data Analyst,skill_database,Database,0,1,0,0
+Media / Entertainment,Data Analyst,skill_etl,Etl,0,1,0,0
+Media / Entertainment,Data Analyst,skill_excel,Excel,0,1,0,0
+Media / Entertainment,Data Analyst,skill_machine_learning,Machine Learning,0,1,0,0
+Media / Entertainment,Data Analyst,skill_powerbi,Powerbi,0,1,0,0
+Media / Entertainment,Data Analyst,skill_python,Python,0,1,0,0
+Media / Entertainment,Data Analyst,skill_r,R,0,1,0,0
+Media / Entertainment,Data Analyst,skill_reporting,Reporting,0,1,0,0
+Media / Entertainment,Data Analyst,skill_sas,Sas,0,1,0,0
+Media / Entertainment,Data Analyst,skill_sql,Sql,0,1,0,0
+Media / Entertainment,Data Analyst,skill_statistics,Statistics,0,1,0,0
+Media / Entertainment,Data Analyst,skill_tableau,Tableau,0,1,0,0
+Media / Entertainment,Data Engineer,skill_data_analysis,Data Analysis,3,4,0.75,75
+Media / Entertainment,Data Engineer,skill_machine_learning,Machine Learning,3,4,0.75,75
+Media / Entertainment,Data Engineer,skill_etl,Etl,1,4,0.25,25
+Media / Entertainment,Data Engineer,skill_cloud,Cloud,0,4,0,0
+Media / Entertainment,Data Engineer,skill_communication,Communication,0,4,0,0
+Media / Entertainment,Data Engineer,skill_data_visualization,Data Visualization,0,4,0,0
+Media / Entertainment,Data Engineer,skill_database,Database,0,4,0,0
+Media / Entertainment,Data Engineer,skill_excel,Excel,0,4,0,0
+Media / Entertainment,Data Engineer,skill_powerbi,Powerbi,0,4,0,0
+Media / Entertainment,Data Engineer,skill_python,Python,0,4,0,0
+Media / Entertainment,Data Engineer,skill_r,R,0,4,0,0
+Media / Entertainment,Data Engineer,skill_reporting,Reporting,0,4,0,0
+Media / Entertainment,Data Engineer,skill_sas,Sas,0,4,0,0
+Media / Entertainment,Data Engineer,skill_sql,Sql,0,4,0,0
+Media / Entertainment,Data Engineer,skill_statistics,Statistics,0,4,0,0
+Media / Entertainment,Data Engineer,skill_tableau,Tableau,0,4,0,0
+Media / Entertainment,Data Scientist,skill_data_analysis,Data Analysis,1,2,0.5,50
+Media / Entertainment,Data Scientist,skill_cloud,Cloud,0,2,0,0
+Media / Entertainment,Data Scientist,skill_communication,Communication,0,2,0,0
+Media / Entertainment,Data Scientist,skill_data_visualization,Data Visualization,0,2,0,0
+Media / Entertainment,Data Scientist,skill_database,Database,0,2,0,0
+Media / Entertainment,Data Scientist,skill_etl,Etl,0,2,0,0
+Media / Entertainment,Data Scientist,skill_excel,Excel,0,2,0,0
+Media / Entertainment,Data Scientist,skill_machine_learning,Machine Learning,0,2,0,0
+Media / Entertainment,Data Scientist,skill_powerbi,Powerbi,0,2,0,0
+Media / Entertainment,Data Scientist,skill_python,Python,0,2,0,0
+Media / Entertainment,Data Scientist,skill_r,R,0,2,0,0
+Media / Entertainment,Data Scientist,skill_reporting,Reporting,0,2,0,0
+Media / Entertainment,Data Scientist,skill_sas,Sas,0,2,0,0
+Media / Entertainment,Data Scientist,skill_sql,Sql,0,2,0,0
+Media / Entertainment,Data Scientist,skill_statistics,Statistics,0,2,0,0
+Media / Entertainment,Data Scientist,skill_tableau,Tableau,0,2,0,0
+Media / Entertainment,Financial Analyst,skill_cloud,Cloud,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_communication,Communication,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_data_analysis,Data Analysis,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_data_visualization,Data Visualization,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_database,Database,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_etl,Etl,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_excel,Excel,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_machine_learning,Machine Learning,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_powerbi,Powerbi,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_python,Python,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_r,R,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_reporting,Reporting,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_sas,Sas,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_sql,Sql,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_statistics,Statistics,0,1,0,0
+Media / Entertainment,Financial Analyst,skill_tableau,Tableau,0,1,0,0
+Media / Entertainment,Market Research Analyst,skill_data_analysis,Data Analysis,1,6,0.16666666666666666,16.666666666666664
+Media / Entertainment,Market Research Analyst,skill_reporting,Reporting,1,6,0.16666666666666666,16.666666666666664
+Media / Entertainment,Market Research Analyst,skill_cloud,Cloud,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_communication,Communication,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_data_visualization,Data Visualization,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_database,Database,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_etl,Etl,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_excel,Excel,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_machine_learning,Machine Learning,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_powerbi,Powerbi,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_python,Python,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_r,R,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_sas,Sas,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_sql,Sql,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_statistics,Statistics,0,6,0,0
+Media / Entertainment,Market Research Analyst,skill_tableau,Tableau,0,6,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_reporting,Reporting,1,5,0.2,20
+Media / Entertainment,Other Data/Analytics Role,skill_cloud,Cloud,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_communication,Communication,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_data_analysis,Data Analysis,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_data_visualization,Data Visualization,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_database,Database,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_etl,Etl,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_excel,Excel,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_machine_learning,Machine Learning,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_powerbi,Powerbi,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_python,Python,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_r,R,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_sas,Sas,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_sql,Sql,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_statistics,Statistics,0,5,0,0
+Media / Entertainment,Other Data/Analytics Role,skill_tableau,Tableau,0,5,0,0
+Media / Entertainment,Product Analyst,skill_cloud,Cloud,1,5,0.2,20
+Media / Entertainment,Product Analyst,skill_data_analysis,Data Analysis,1,5,0.2,20
+Media / Entertainment,Product Analyst,skill_communication,Communication,0,5,0,0
+Media / Entertainment,Product Analyst,skill_data_visualization,Data Visualization,0,5,0,0
+Media / Entertainment,Product Analyst,skill_database,Database,0,5,0,0
+Media / Entertainment,Product Analyst,skill_etl,Etl,0,5,0,0
+Media / Entertainment,Product Analyst,skill_excel,Excel,0,5,0,0
+Media / Entertainment,Product Analyst,skill_machine_learning,Machine Learning,0,5,0,0
+Media / Entertainment,Product Analyst,skill_powerbi,Powerbi,0,5,0,0
+Media / Entertainment,Product Analyst,skill_python,Python,0,5,0,0
+Media / Entertainment,Product Analyst,skill_r,R,0,5,0,0
+Media / Entertainment,Product Analyst,skill_reporting,Reporting,0,5,0,0
+Media / Entertainment,Product Analyst,skill_sas,Sas,0,5,0,0
+Media / Entertainment,Product Analyst,skill_sql,Sql,0,5,0,0
+Media / Entertainment,Product Analyst,skill_statistics,Statistics,0,5,0,0
+Media / Entertainment,Product Analyst,skill_tableau,Tableau,0,5,0,0
+Media / Entertainment,Reporting Analyst,skill_reporting,Reporting,8,8,1,100
+Media / Entertainment,Reporting Analyst,skill_data_analysis,Data Analysis,2,8,0.25,25
+Media / Entertainment,Reporting Analyst,skill_cloud,Cloud,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_communication,Communication,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_data_visualization,Data Visualization,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_database,Database,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_etl,Etl,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_excel,Excel,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_machine_learning,Machine Learning,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_powerbi,Powerbi,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_python,Python,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_r,R,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_sas,Sas,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_sql,Sql,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_statistics,Statistics,0,8,0,0
+Media / Entertainment,Reporting Analyst,skill_tableau,Tableau,0,8,0,0
+Nonprofit,Analytics Manager,skill_communication,Communication,1,1,1,100
+Nonprofit,Analytics Manager,skill_data_analysis,Data Analysis,1,1,1,100
+Nonprofit,Analytics Manager,skill_reporting,Reporting,1,1,1,100
+Nonprofit,Analytics Manager,skill_cloud,Cloud,0,1,0,0
+Nonprofit,Analytics Manager,skill_data_visualization,Data Visualization,0,1,0,0
+Nonprofit,Analytics Manager,skill_database,Database,0,1,0,0
+Nonprofit,Analytics Manager,skill_etl,Etl,0,1,0,0
+Nonprofit,Analytics Manager,skill_excel,Excel,0,1,0,0
+Nonprofit,Analytics Manager,skill_machine_learning,Machine Learning,0,1,0,0
+Nonprofit,Analytics Manager,skill_powerbi,Powerbi,0,1,0,0
+Nonprofit,Analytics Manager,skill_python,Python,0,1,0,0
+Nonprofit,Analytics Manager,skill_r,R,0,1,0,0
+Nonprofit,Analytics Manager,skill_sas,Sas,0,1,0,0
+Nonprofit,Analytics Manager,skill_sql,Sql,0,1,0,0
+Nonprofit,Analytics Manager,skill_statistics,Statistics,0,1,0,0
+Nonprofit,Analytics Manager,skill_tableau,Tableau,0,1,0,0
+Nonprofit,Business Intelligence,skill_cloud,Cloud,0,1,0,0
+Nonprofit,Business Intelligence,skill_communication,Communication,0,1,0,0
+Nonprofit,Business Intelligence,skill_data_analysis,Data Analysis,0,1,0,0
+Nonprofit,Business Intelligence,skill_data_visualization,Data Visualization,0,1,0,0
+Nonprofit,Business Intelligence,skill_database,Database,0,1,0,0
+Nonprofit,Business Intelligence,skill_etl,Etl,0,1,0,0
+Nonprofit,Business Intelligence,skill_excel,Excel,0,1,0,0
+Nonprofit,Business Intelligence,skill_machine_learning,Machine Learning,0,1,0,0
+Nonprofit,Business Intelligence,skill_powerbi,Powerbi,0,1,0,0
+Nonprofit,Business Intelligence,skill_python,Python,0,1,0,0
+Nonprofit,Business Intelligence,skill_r,R,0,1,0,0
+Nonprofit,Business Intelligence,skill_reporting,Reporting,0,1,0,0
+Nonprofit,Business Intelligence,skill_sas,Sas,0,1,0,0
+Nonprofit,Business Intelligence,skill_sql,Sql,0,1,0,0
+Nonprofit,Business Intelligence,skill_statistics,Statistics,0,1,0,0
+Nonprofit,Business Intelligence,skill_tableau,Tableau,0,1,0,0
+Nonprofit,Data Engineer,skill_cloud,Cloud,0,1,0,0
+Nonprofit,Data Engineer,skill_communication,Communication,0,1,0,0
+Nonprofit,Data Engineer,skill_data_analysis,Data Analysis,0,1,0,0
+Nonprofit,Data Engineer,skill_data_visualization,Data Visualization,0,1,0,0
+Nonprofit,Data Engineer,skill_database,Database,0,1,0,0
+Nonprofit,Data Engineer,skill_etl,Etl,0,1,0,0
+Nonprofit,Data Engineer,skill_excel,Excel,0,1,0,0
+Nonprofit,Data Engineer,skill_machine_learning,Machine Learning,0,1,0,0
+Nonprofit,Data Engineer,skill_powerbi,Powerbi,0,1,0,0
+Nonprofit,Data Engineer,skill_python,Python,0,1,0,0
+Nonprofit,Data Engineer,skill_r,R,0,1,0,0
+Nonprofit,Data Engineer,skill_reporting,Reporting,0,1,0,0
+Nonprofit,Data Engineer,skill_sas,Sas,0,1,0,0
+Nonprofit,Data Engineer,skill_sql,Sql,0,1,0,0
+Nonprofit,Data Engineer,skill_statistics,Statistics,0,1,0,0
+Nonprofit,Data Engineer,skill_tableau,Tableau,0,1,0,0
+Nonprofit,Database Role,skill_data_analysis,Data Analysis,1,1,1,100
+Nonprofit,Database Role,skill_database,Database,1,1,1,100
+Nonprofit,Database Role,skill_cloud,Cloud,0,1,0,0
+Nonprofit,Database Role,skill_communication,Communication,0,1,0,0
+Nonprofit,Database Role,skill_data_visualization,Data Visualization,0,1,0,0
+Nonprofit,Database Role,skill_etl,Etl,0,1,0,0
+Nonprofit,Database Role,skill_excel,Excel,0,1,0,0
+Nonprofit,Database Role,skill_machine_learning,Machine Learning,0,1,0,0
+Nonprofit,Database Role,skill_powerbi,Powerbi,0,1,0,0
+Nonprofit,Database Role,skill_python,Python,0,1,0,0
+Nonprofit,Database Role,skill_r,R,0,1,0,0
+Nonprofit,Database Role,skill_reporting,Reporting,0,1,0,0
+Nonprofit,Database Role,skill_sas,Sas,0,1,0,0
+Nonprofit,Database Role,skill_sql,Sql,0,1,0,0
+Nonprofit,Database Role,skill_statistics,Statistics,0,1,0,0
+Nonprofit,Database Role,skill_tableau,Tableau,0,1,0,0
+Nonprofit,Financial Analyst,skill_reporting,Reporting,2,2,1,100
+Nonprofit,Financial Analyst,skill_data_analysis,Data Analysis,1,2,0.5,50
+Nonprofit,Financial Analyst,skill_cloud,Cloud,0,2,0,0
+Nonprofit,Financial Analyst,skill_communication,Communication,0,2,0,0
+Nonprofit,Financial Analyst,skill_data_visualization,Data Visualization,0,2,0,0
+Nonprofit,Financial Analyst,skill_database,Database,0,2,0,0
+Nonprofit,Financial Analyst,skill_etl,Etl,0,2,0,0
+Nonprofit,Financial Analyst,skill_excel,Excel,0,2,0,0
+Nonprofit,Financial Analyst,skill_machine_learning,Machine Learning,0,2,0,0
+Nonprofit,Financial Analyst,skill_powerbi,Powerbi,0,2,0,0
+Nonprofit,Financial Analyst,skill_python,Python,0,2,0,0
+Nonprofit,Financial Analyst,skill_r,R,0,2,0,0
+Nonprofit,Financial Analyst,skill_sas,Sas,0,2,0,0
+Nonprofit,Financial Analyst,skill_sql,Sql,0,2,0,0
+Nonprofit,Financial Analyst,skill_statistics,Statistics,0,2,0,0
+Nonprofit,Financial Analyst,skill_tableau,Tableau,0,2,0,0
+Nonprofit,Reporting Analyst,skill_reporting,Reporting,2,2,1,100
+Nonprofit,Reporting Analyst,skill_data_analysis,Data Analysis,1,2,0.5,50
+Nonprofit,Reporting Analyst,skill_cloud,Cloud,0,2,0,0
+Nonprofit,Reporting Analyst,skill_communication,Communication,0,2,0,0
+Nonprofit,Reporting Analyst,skill_data_visualization,Data Visualization,0,2,0,0
+Nonprofit,Reporting Analyst,skill_database,Database,0,2,0,0
+Nonprofit,Reporting Analyst,skill_etl,Etl,0,2,0,0
+Nonprofit,Reporting Analyst,skill_excel,Excel,0,2,0,0
+Nonprofit,Reporting Analyst,skill_machine_learning,Machine Learning,0,2,0,0
+Nonprofit,Reporting Analyst,skill_powerbi,Powerbi,0,2,0,0
+Nonprofit,Reporting Analyst,skill_python,Python,0,2,0,0
+Nonprofit,Reporting Analyst,skill_r,R,0,2,0,0
+Nonprofit,Reporting Analyst,skill_sas,Sas,0,2,0,0
+Nonprofit,Reporting Analyst,skill_sql,Sql,0,2,0,0
+Nonprofit,Reporting Analyst,skill_statistics,Statistics,0,2,0,0
+Nonprofit,Reporting Analyst,skill_tableau,Tableau,0,2,0,0
+Other / Unknown,Analytics Manager,skill_data_analysis,Data Analysis,12,12,1,100
+Other / Unknown,Analytics Manager,skill_reporting,Reporting,6,12,0.5,50
+Other / Unknown,Analytics Manager,skill_data_visualization,Data Visualization,1,12,0.08333333333333333,8.333333333333332
+Other / Unknown,Analytics Manager,skill_excel,Excel,1,12,0.08333333333333333,8.333333333333332
+Other / Unknown,Analytics Manager,skill_powerbi,Powerbi,1,12,0.08333333333333333,8.333333333333332
+Other / Unknown,Analytics Manager,skill_sql,Sql,1,12,0.08333333333333333,8.333333333333332
+Other / Unknown,Analytics Manager,skill_cloud,Cloud,0,12,0,0
+Other / Unknown,Analytics Manager,skill_communication,Communication,0,12,0,0
+Other / Unknown,Analytics Manager,skill_database,Database,0,12,0,0
+Other / Unknown,Analytics Manager,skill_etl,Etl,0,12,0,0
+Other / Unknown,Analytics Manager,skill_machine_learning,Machine Learning,0,12,0,0
+Other / Unknown,Analytics Manager,skill_python,Python,0,12,0,0
+Other / Unknown,Analytics Manager,skill_r,R,0,12,0,0
+Other / Unknown,Analytics Manager,skill_sas,Sas,0,12,0,0
+Other / Unknown,Analytics Manager,skill_statistics,Statistics,0,12,0,0
+Other / Unknown,Analytics Manager,skill_tableau,Tableau,0,12,0,0
+Other / Unknown,Business Analyst,skill_data_analysis,Data Analysis,3,12,0.25,25
+Other / Unknown,Business Analyst,skill_reporting,Reporting,2,12,0.16666666666666666,16.666666666666664
+Other / Unknown,Business Analyst,skill_machine_learning,Machine Learning,1,12,0.08333333333333333,8.333333333333332
+Other / Unknown,Business Analyst,skill_cloud,Cloud,0,12,0,0
+Other / Unknown,Business Analyst,skill_communication,Communication,0,12,0,0
+Other / Unknown,Business Analyst,skill_data_visualization,Data Visualization,0,12,0,0
+Other / Unknown,Business Analyst,skill_database,Database,0,12,0,0
+Other / Unknown,Business Analyst,skill_etl,Etl,0,12,0,0
+Other / Unknown,Business Analyst,skill_excel,Excel,0,12,0,0
+Other / Unknown,Business Analyst,skill_powerbi,Powerbi,0,12,0,0
+Other / Unknown,Business Analyst,skill_python,Python,0,12,0,0
+Other / Unknown,Business Analyst,skill_r,R,0,12,0,0
+Other / Unknown,Business Analyst,skill_sas,Sas,0,12,0,0
+Other / Unknown,Business Analyst,skill_sql,Sql,0,12,0,0
+Other / Unknown,Business Analyst,skill_statistics,Statistics,0,12,0,0
+Other / Unknown,Business Analyst,skill_tableau,Tableau,0,12,0,0
+Other / Unknown,Business Intelligence,skill_cloud,Cloud,0,1,0,0
+Other / Unknown,Business Intelligence,skill_communication,Communication,0,1,0,0
+Other / Unknown,Business Intelligence,skill_data_analysis,Data Analysis,0,1,0,0
+Other / Unknown,Business Intelligence,skill_data_visualization,Data Visualization,0,1,0,0
+Other / Unknown,Business Intelligence,skill_database,Database,0,1,0,0
+Other / Unknown,Business Intelligence,skill_etl,Etl,0,1,0,0
+Other / Unknown,Business Intelligence,skill_excel,Excel,0,1,0,0
+Other / Unknown,Business Intelligence,skill_machine_learning,Machine Learning,0,1,0,0
+Other / Unknown,Business Intelligence,skill_powerbi,Powerbi,0,1,0,0
+Other / Unknown,Business Intelligence,skill_python,Python,0,1,0,0
+Other / Unknown,Business Intelligence,skill_r,R,0,1,0,0
+Other / Unknown,Business Intelligence,skill_reporting,Reporting,0,1,0,0
+Other / Unknown,Business Intelligence,skill_sas,Sas,0,1,0,0
+Other / Unknown,Business Intelligence,skill_sql,Sql,0,1,0,0
+Other / Unknown,Business Intelligence,skill_statistics,Statistics,0,1,0,0
+Other / Unknown,Business Intelligence,skill_tableau,Tableau,0,1,0,0
+Other / Unknown,Data Analyst,skill_data_analysis,Data Analysis,2,5,0.4,40
+Other / Unknown,Data Analyst,skill_data_visualization,Data Visualization,2,5,0.4,40
+Other / Unknown,Data Analyst,skill_database,Database,2,5,0.4,40
+Other / Unknown,Data Analyst,skill_powerbi,Powerbi,2,5,0.4,40
+Other / Unknown,Data Analyst,skill_reporting,Reporting,2,5,0.4,40
+Other / Unknown,Data Analyst,skill_cloud,Cloud,1,5,0.2,20
+Other / Unknown,Data Analyst,skill_sql,Sql,1,5,0.2,20
+Other / Unknown,Data Analyst,skill_statistics,Statistics,1,5,0.2,20
+Other / Unknown,Data Analyst,skill_communication,Communication,0,5,0,0
+Other / Unknown,Data Analyst,skill_etl,Etl,0,5,0,0
+Other / Unknown,Data Analyst,skill_excel,Excel,0,5,0,0
+Other / Unknown,Data Analyst,skill_machine_learning,Machine Learning,0,5,0,0
+Other / Unknown,Data Analyst,skill_python,Python,0,5,0,0
+Other / Unknown,Data Analyst,skill_r,R,0,5,0,0
+Other / Unknown,Data Analyst,skill_sas,Sas,0,5,0,0
+Other / Unknown,Data Analyst,skill_tableau,Tableau,0,5,0,0
+Other / Unknown,Data Engineer,skill_data_analysis,Data Analysis,1,4,0.25,25
+Other / Unknown,Data Engineer,skill_etl,Etl,1,4,0.25,25
+Other / Unknown,Data Engineer,skill_cloud,Cloud,0,4,0,0
+Other / Unknown,Data Engineer,skill_communication,Communication,0,4,0,0
+Other / Unknown,Data Engineer,skill_data_visualization,Data Visualization,0,4,0,0
+Other / Unknown,Data Engineer,skill_database,Database,0,4,0,0
+Other / Unknown,Data Engineer,skill_excel,Excel,0,4,0,0
+Other / Unknown,Data Engineer,skill_machine_learning,Machine Learning,0,4,0,0
+Other / Unknown,Data Engineer,skill_powerbi,Powerbi,0,4,0,0
+Other / Unknown,Data Engineer,skill_python,Python,0,4,0,0
+Other / Unknown,Data Engineer,skill_r,R,0,4,0,0
+Other / Unknown,Data Engineer,skill_reporting,Reporting,0,4,0,0
+Other / Unknown,Data Engineer,skill_sas,Sas,0,4,0,0
+Other / Unknown,Data Engineer,skill_sql,Sql,0,4,0,0
+Other / Unknown,Data Engineer,skill_statistics,Statistics,0,4,0,0
+Other / Unknown,Data Engineer,skill_tableau,Tableau,0,4,0,0
+Other / Unknown,Data Scientist,skill_data_analysis,Data Analysis,2,5,0.4,40
+Other / Unknown,Data Scientist,skill_cloud,Cloud,0,5,0,0
+Other / Unknown,Data Scientist,skill_communication,Communication,0,5,0,0
+Other / Unknown,Data Scientist,skill_data_visualization,Data Visualization,0,5,0,0
+Other / Unknown,Data Scientist,skill_database,Database,0,5,0,0
+Other / Unknown,Data Scientist,skill_etl,Etl,0,5,0,0
+Other / Unknown,Data Scientist,skill_excel,Excel,0,5,0,0
+Other / Unknown,Data Scientist,skill_machine_learning,Machine Learning,0,5,0,0
+Other / Unknown,Data Scientist,skill_powerbi,Powerbi,0,5,0,0
+Other / Unknown,Data Scientist,skill_python,Python,0,5,0,0
+Other / Unknown,Data Scientist,skill_r,R,0,5,0,0
+Other / Unknown,Data Scientist,skill_reporting,Reporting,0,5,0,0
+Other / Unknown,Data Scientist,skill_sas,Sas,0,5,0,0
+Other / Unknown,Data Scientist,skill_sql,Sql,0,5,0,0
+Other / Unknown,Data Scientist,skill_statistics,Statistics,0,5,0,0
+Other / Unknown,Data Scientist,skill_tableau,Tableau,0,5,0,0
+Other / Unknown,Database Role,skill_database,Database,2,2,1,100
+Other / Unknown,Database Role,skill_data_analysis,Data Analysis,1,2,0.5,50
+Other / Unknown,Database Role,skill_cloud,Cloud,0,2,0,0
+Other / Unknown,Database Role,skill_communication,Communication,0,2,0,0
+Other / Unknown,Database Role,skill_data_visualization,Data Visualization,0,2,0,0
+Other / Unknown,Database Role,skill_etl,Etl,0,2,0,0
+Other / Unknown,Database Role,skill_excel,Excel,0,2,0,0
+Other / Unknown,Database Role,skill_machine_learning,Machine Learning,0,2,0,0
+Other / Unknown,Database Role,skill_powerbi,Powerbi,0,2,0,0
+Other / Unknown,Database Role,skill_python,Python,0,2,0,0
+Other / Unknown,Database Role,skill_r,R,0,2,0,0
+Other / Unknown,Database Role,skill_reporting,Reporting,0,2,0,0
+Other / Unknown,Database Role,skill_sas,Sas,0,2,0,0
+Other / Unknown,Database Role,skill_sql,Sql,0,2,0,0
+Other / Unknown,Database Role,skill_statistics,Statistics,0,2,0,0
+Other / Unknown,Database Role,skill_tableau,Tableau,0,2,0,0
+Other / Unknown,Financial Analyst,skill_data_analysis,Data Analysis,3,9,0.3333333333333333,33.33333333333333
+Other / Unknown,Financial Analyst,skill_reporting,Reporting,3,9,0.3333333333333333,33.33333333333333
+Other / Unknown,Financial Analyst,skill_cloud,Cloud,0,9,0,0
+Other / Unknown,Financial Analyst,skill_communication,Communication,0,9,0,0
+Other / Unknown,Financial Analyst,skill_data_visualization,Data Visualization,0,9,0,0
+Other / Unknown,Financial Analyst,skill_database,Database,0,9,0,0
+Other / Unknown,Financial Analyst,skill_etl,Etl,0,9,0,0
+Other / Unknown,Financial Analyst,skill_excel,Excel,0,9,0,0
+Other / Unknown,Financial Analyst,skill_machine_learning,Machine Learning,0,9,0,0
+Other / Unknown,Financial Analyst,skill_powerbi,Powerbi,0,9,0,0
+Other / Unknown,Financial Analyst,skill_python,Python,0,9,0,0
+Other / Unknown,Financial Analyst,skill_r,R,0,9,0,0
+Other / Unknown,Financial Analyst,skill_sas,Sas,0,9,0,0
+Other / Unknown,Financial Analyst,skill_sql,Sql,0,9,0,0
+Other / Unknown,Financial Analyst,skill_statistics,Statistics,0,9,0,0
+Other / Unknown,Financial Analyst,skill_tableau,Tableau,0,9,0,0
+Other / Unknown,Market Research Analyst,skill_communication,Communication,1,3,0.3333333333333333,33.33333333333333
+Other / Unknown,Market Research Analyst,skill_data_analysis,Data Analysis,1,3,0.3333333333333333,33.33333333333333
+Other / Unknown,Market Research Analyst,skill_data_visualization,Data Visualization,1,3,0.3333333333333333,33.33333333333333
+Other / Unknown,Market Research Analyst,skill_reporting,Reporting,1,3,0.3333333333333333,33.33333333333333
+Other / Unknown,Market Research Analyst,skill_cloud,Cloud,0,3,0,0
+Other / Unknown,Market Research Analyst,skill_database,Database,0,3,0,0
+Other / Unknown,Market Research Analyst,skill_etl,Etl,0,3,0,0
+Other / Unknown,Market Research Analyst,skill_excel,Excel,0,3,0,0
+Other / Unknown,Market Research Analyst,skill_machine_learning,Machine Learning,0,3,0,0
+Other / Unknown,Market Research Analyst,skill_powerbi,Powerbi,0,3,0,0
+Other / Unknown,Market Research Analyst,skill_python,Python,0,3,0,0
+Other / Unknown,Market Research Analyst,skill_r,R,0,3,0,0
+Other / Unknown,Market Research Analyst,skill_sas,Sas,0,3,0,0
+Other / Unknown,Market Research Analyst,skill_sql,Sql,0,3,0,0
+Other / Unknown,Market Research Analyst,skill_statistics,Statistics,0,3,0,0
+Other / Unknown,Market Research Analyst,skill_tableau,Tableau,0,3,0,0
+Other / Unknown,Operations Analyst,skill_cloud,Cloud,0,1,0,0
+Other / Unknown,Operations Analyst,skill_communication,Communication,0,1,0,0
+Other / Unknown,Operations Analyst,skill_data_analysis,Data Analysis,0,1,0,0
+Other / Unknown,Operations Analyst,skill_data_visualization,Data Visualization,0,1,0,0
+Other / Unknown,Operations Analyst,skill_database,Database,0,1,0,0
+Other / Unknown,Operations Analyst,skill_etl,Etl,0,1,0,0
+Other / Unknown,Operations Analyst,skill_excel,Excel,0,1,0,0
+Other / Unknown,Operations Analyst,skill_machine_learning,Machine Learning,0,1,0,0
+Other / Unknown,Operations Analyst,skill_powerbi,Powerbi,0,1,0,0
+Other / Unknown,Operations Analyst,skill_python,Python,0,1,0,0
+Other / Unknown,Operations Analyst,skill_r,R,0,1,0,0
+Other / Unknown,Operations Analyst,skill_reporting,Reporting,0,1,0,0
+Other / Unknown,Operations Analyst,skill_sas,Sas,0,1,0,0
+Other / Unknown,Operations Analyst,skill_sql,Sql,0,1,0,0
+Other / Unknown,Operations Analyst,skill_statistics,Statistics,0,1,0,0
+Other / Unknown,Operations Analyst,skill_tableau,Tableau,0,1,0,0
+Other / Unknown,Other Data/Analytics Role,skill_communication,Communication,1,10,0.1,10
+Other / Unknown,Other Data/Analytics Role,skill_data_analysis,Data Analysis,1,10,0.1,10
+Other / Unknown,Other Data/Analytics Role,skill_reporting,Reporting,1,10,0.1,10
+Other / Unknown,Other Data/Analytics Role,skill_cloud,Cloud,0,10,0,0
+Other / Unknown,Other Data/Analytics Role,skill_data_visualization,Data Visualization,0,10,0,0
+Other / Unknown,Other Data/Analytics Role,skill_database,Database,0,10,0,0
+Other / Unknown,Other Data/Analytics Role,skill_etl,Etl,0,10,0,0
+Other / Unknown,Other Data/Analytics Role,skill_excel,Excel,0,10,0,0
+Other / Unknown,Other Data/Analytics Role,skill_machine_learning,Machine Learning,0,10,0,0
+Other / Unknown,Other Data/Analytics Role,skill_powerbi,Powerbi,0,10,0,0
+Other / Unknown,Other Data/Analytics Role,skill_python,Python,0,10,0,0
+Other / Unknown,Other Data/Analytics Role,skill_r,R,0,10,0,0
+Other / Unknown,Other Data/Analytics Role,skill_sas,Sas,0,10,0,0
+Other / Unknown,Other Data/Analytics Role,skill_sql,Sql,0,10,0,0
+Other / Unknown,Other Data/Analytics Role,skill_statistics,Statistics,0,10,0,0
+Other / Unknown,Other Data/Analytics Role,skill_tableau,Tableau,0,10,0,0
+Other / Unknown,Product Analyst,skill_data_analysis,Data Analysis,1,2,0.5,50
+Other / Unknown,Product Analyst,skill_cloud,Cloud,0,2,0,0
+Other / Unknown,Product Analyst,skill_communication,Communication,0,2,0,0
+Other / Unknown,Product Analyst,skill_data_visualization,Data Visualization,0,2,0,0
+Other / Unknown,Product Analyst,skill_database,Database,0,2,0,0
+Other / Unknown,Product Analyst,skill_etl,Etl,0,2,0,0
+Other / Unknown,Product Analyst,skill_excel,Excel,0,2,0,0
+Other / Unknown,Product Analyst,skill_machine_learning,Machine Learning,0,2,0,0
+Other / Unknown,Product Analyst,skill_powerbi,Powerbi,0,2,0,0
+Other / Unknown,Product Analyst,skill_python,Python,0,2,0,0
+Other / Unknown,Product Analyst,skill_r,R,0,2,0,0
+Other / Unknown,Product Analyst,skill_reporting,Reporting,0,2,0,0
+Other / Unknown,Product Analyst,skill_sas,Sas,0,2,0,0
+Other / Unknown,Product Analyst,skill_sql,Sql,0,2,0,0
+Other / Unknown,Product Analyst,skill_statistics,Statistics,0,2,0,0
+Other / Unknown,Product Analyst,skill_tableau,Tableau,0,2,0,0
+Other / Unknown,Reporting Analyst,skill_reporting,Reporting,5,5,1,100
+Other / Unknown,Reporting Analyst,skill_data_analysis,Data Analysis,1,5,0.2,20
+Other / Unknown,Reporting Analyst,skill_cloud,Cloud,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_communication,Communication,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_data_visualization,Data Visualization,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_database,Database,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_etl,Etl,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_excel,Excel,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_machine_learning,Machine Learning,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_powerbi,Powerbi,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_python,Python,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_r,R,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_sas,Sas,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_sql,Sql,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_statistics,Statistics,0,5,0,0
+Other / Unknown,Reporting Analyst,skill_tableau,Tableau,0,5,0,0
+Real Estate,Analytics Manager,skill_data_analysis,Data Analysis,1,1,1,100
+Real Estate,Analytics Manager,skill_cloud,Cloud,0,1,0,0
+Real Estate,Analytics Manager,skill_communication,Communication,0,1,0,0
+Real Estate,Analytics Manager,skill_data_visualization,Data Visualization,0,1,0,0
+Real Estate,Analytics Manager,skill_database,Database,0,1,0,0
+Real Estate,Analytics Manager,skill_etl,Etl,0,1,0,0
+Real Estate,Analytics Manager,skill_excel,Excel,0,1,0,0
+Real Estate,Analytics Manager,skill_machine_learning,Machine Learning,0,1,0,0
+Real Estate,Analytics Manager,skill_powerbi,Powerbi,0,1,0,0
+Real Estate,Analytics Manager,skill_python,Python,0,1,0,0
+Real Estate,Analytics Manager,skill_r,R,0,1,0,0
+Real Estate,Analytics Manager,skill_reporting,Reporting,0,1,0,0
+Real Estate,Analytics Manager,skill_sas,Sas,0,1,0,0
+Real Estate,Analytics Manager,skill_sql,Sql,0,1,0,0
+Real Estate,Analytics Manager,skill_statistics,Statistics,0,1,0,0
+Real Estate,Analytics Manager,skill_tableau,Tableau,0,1,0,0
+Real Estate,Business Analyst,skill_cloud,Cloud,0,1,0,0
+Real Estate,Business Analyst,skill_communication,Communication,0,1,0,0
+Real Estate,Business Analyst,skill_data_analysis,Data Analysis,0,1,0,0
+Real Estate,Business Analyst,skill_data_visualization,Data Visualization,0,1,0,0
+Real Estate,Business Analyst,skill_database,Database,0,1,0,0
+Real Estate,Business Analyst,skill_etl,Etl,0,1,0,0
+Real Estate,Business Analyst,skill_excel,Excel,0,1,0,0
+Real Estate,Business Analyst,skill_machine_learning,Machine Learning,0,1,0,0
+Real Estate,Business Analyst,skill_powerbi,Powerbi,0,1,0,0
+Real Estate,Business Analyst,skill_python,Python,0,1,0,0
+Real Estate,Business Analyst,skill_r,R,0,1,0,0
+Real Estate,Business Analyst,skill_reporting,Reporting,0,1,0,0
+Real Estate,Business Analyst,skill_sas,Sas,0,1,0,0
+Real Estate,Business Analyst,skill_sql,Sql,0,1,0,0
+Real Estate,Business Analyst,skill_statistics,Statistics,0,1,0,0
+Real Estate,Business Analyst,skill_tableau,Tableau,0,1,0,0
+Real Estate,Data Analyst,skill_reporting,Reporting,2,3,0.6666666666666666,66.66666666666666
+Real Estate,Data Analyst,skill_cloud,Cloud,0,3,0,0
+Real Estate,Data Analyst,skill_communication,Communication,0,3,0,0
+Real Estate,Data Analyst,skill_data_analysis,Data Analysis,0,3,0,0
+Real Estate,Data Analyst,skill_data_visualization,Data Visualization,0,3,0,0
+Real Estate,Data Analyst,skill_database,Database,0,3,0,0
+Real Estate,Data Analyst,skill_etl,Etl,0,3,0,0
+Real Estate,Data Analyst,skill_excel,Excel,0,3,0,0
+Real Estate,Data Analyst,skill_machine_learning,Machine Learning,0,3,0,0
+Real Estate,Data Analyst,skill_powerbi,Powerbi,0,3,0,0
+Real Estate,Data Analyst,skill_python,Python,0,3,0,0
+Real Estate,Data Analyst,skill_r,R,0,3,0,0
+Real Estate,Data Analyst,skill_sas,Sas,0,3,0,0
+Real Estate,Data Analyst,skill_sql,Sql,0,3,0,0
+Real Estate,Data Analyst,skill_statistics,Statistics,0,3,0,0
+Real Estate,Data Analyst,skill_tableau,Tableau,0,3,0,0
+Real Estate,Data Engineer,skill_cloud,Cloud,0,2,0,0
+Real Estate,Data Engineer,skill_communication,Communication,0,2,0,0
+Real Estate,Data Engineer,skill_data_analysis,Data Analysis,0,2,0,0
+Real Estate,Data Engineer,skill_data_visualization,Data Visualization,0,2,0,0
+Real Estate,Data Engineer,skill_database,Database,0,2,0,0
+Real Estate,Data Engineer,skill_etl,Etl,0,2,0,0
+Real Estate,Data Engineer,skill_excel,Excel,0,2,0,0
+Real Estate,Data Engineer,skill_machine_learning,Machine Learning,0,2,0,0
+Real Estate,Data Engineer,skill_powerbi,Powerbi,0,2,0,0
+Real Estate,Data Engineer,skill_python,Python,0,2,0,0
+Real Estate,Data Engineer,skill_r,R,0,2,0,0
+Real Estate,Data Engineer,skill_reporting,Reporting,0,2,0,0
+Real Estate,Data Engineer,skill_sas,Sas,0,2,0,0
+Real Estate,Data Engineer,skill_sql,Sql,0,2,0,0
+Real Estate,Data Engineer,skill_statistics,Statistics,0,2,0,0
+Real Estate,Data Engineer,skill_tableau,Tableau,0,2,0,0
+Real Estate,Financial Analyst,skill_data_analysis,Data Analysis,1,3,0.3333333333333333,33.33333333333333
+Real Estate,Financial Analyst,skill_cloud,Cloud,0,3,0,0
+Real Estate,Financial Analyst,skill_communication,Communication,0,3,0,0
+Real Estate,Financial Analyst,skill_data_visualization,Data Visualization,0,3,0,0
+Real Estate,Financial Analyst,skill_database,Database,0,3,0,0
+Real Estate,Financial Analyst,skill_etl,Etl,0,3,0,0
+Real Estate,Financial Analyst,skill_excel,Excel,0,3,0,0
+Real Estate,Financial Analyst,skill_machine_learning,Machine Learning,0,3,0,0
+Real Estate,Financial Analyst,skill_powerbi,Powerbi,0,3,0,0
+Real Estate,Financial Analyst,skill_python,Python,0,3,0,0
+Real Estate,Financial Analyst,skill_r,R,0,3,0,0
+Real Estate,Financial Analyst,skill_reporting,Reporting,0,3,0,0
+Real Estate,Financial Analyst,skill_sas,Sas,0,3,0,0
+Real Estate,Financial Analyst,skill_sql,Sql,0,3,0,0
+Real Estate,Financial Analyst,skill_statistics,Statistics,0,3,0,0
+Real Estate,Financial Analyst,skill_tableau,Tableau,0,3,0,0
+Real Estate,Market Research Analyst,skill_cloud,Cloud,0,2,0,0
+Real Estate,Market Research Analyst,skill_communication,Communication,0,2,0,0
+Real Estate,Market Research Analyst,skill_data_analysis,Data Analysis,0,2,0,0
+Real Estate,Market Research Analyst,skill_data_visualization,Data Visualization,0,2,0,0
+Real Estate,Market Research Analyst,skill_database,Database,0,2,0,0
+Real Estate,Market Research Analyst,skill_etl,Etl,0,2,0,0
+Real Estate,Market Research Analyst,skill_excel,Excel,0,2,0,0
+Real Estate,Market Research Analyst,skill_machine_learning,Machine Learning,0,2,0,0
+Real Estate,Market Research Analyst,skill_powerbi,Powerbi,0,2,0,0
+Real Estate,Market Research Analyst,skill_python,Python,0,2,0,0
+Real Estate,Market Research Analyst,skill_r,R,0,2,0,0
+Real Estate,Market Research Analyst,skill_reporting,Reporting,0,2,0,0
+Real Estate,Market Research Analyst,skill_sas,Sas,0,2,0,0
+Real Estate,Market Research Analyst,skill_sql,Sql,0,2,0,0
+Real Estate,Market Research Analyst,skill_statistics,Statistics,0,2,0,0
+Real Estate,Market Research Analyst,skill_tableau,Tableau,0,2,0,0
+Real Estate,Other Data/Analytics Role,skill_cloud,Cloud,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_communication,Communication,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_data_analysis,Data Analysis,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_data_visualization,Data Visualization,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_database,Database,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_etl,Etl,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_excel,Excel,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_machine_learning,Machine Learning,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_powerbi,Powerbi,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_python,Python,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_r,R,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_reporting,Reporting,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_sas,Sas,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_sql,Sql,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_statistics,Statistics,0,1,0,0
+Real Estate,Other Data/Analytics Role,skill_tableau,Tableau,0,1,0,0
+Real Estate,Product Analyst,skill_cloud,Cloud,0,8,0,0
+Real Estate,Product Analyst,skill_communication,Communication,0,8,0,0
+Real Estate,Product Analyst,skill_data_analysis,Data Analysis,0,8,0,0
+Real Estate,Product Analyst,skill_data_visualization,Data Visualization,0,8,0,0
+Real Estate,Product Analyst,skill_database,Database,0,8,0,0
+Real Estate,Product Analyst,skill_etl,Etl,0,8,0,0
+Real Estate,Product Analyst,skill_excel,Excel,0,8,0,0
+Real Estate,Product Analyst,skill_machine_learning,Machine Learning,0,8,0,0
+Real Estate,Product Analyst,skill_powerbi,Powerbi,0,8,0,0
+Real Estate,Product Analyst,skill_python,Python,0,8,0,0
+Real Estate,Product Analyst,skill_r,R,0,8,0,0
+Real Estate,Product Analyst,skill_reporting,Reporting,0,8,0,0
+Real Estate,Product Analyst,skill_sas,Sas,0,8,0,0
+Real Estate,Product Analyst,skill_sql,Sql,0,8,0,0
+Real Estate,Product Analyst,skill_statistics,Statistics,0,8,0,0
+Real Estate,Product Analyst,skill_tableau,Tableau,0,8,0,0
+Retail / E-commerce,Analytics Manager,skill_data_analysis,Data Analysis,17,18,0.9444444444444444,94.44444444444444
+Retail / E-commerce,Analytics Manager,skill_reporting,Reporting,7,18,0.3888888888888889,38.88888888888889
+Retail / E-commerce,Analytics Manager,skill_communication,Communication,1,18,0.05555555555555555,5.555555555555555
+Retail / E-commerce,Analytics Manager,skill_cloud,Cloud,0,18,0,0
+Retail / E-commerce,Analytics Manager,skill_data_visualization,Data Visualization,0,18,0,0
+Retail / E-commerce,Analytics Manager,skill_database,Database,0,18,0,0
+Retail / E-commerce,Analytics Manager,skill_etl,Etl,0,18,0,0
+Retail / E-commerce,Analytics Manager,skill_excel,Excel,0,18,0,0
+Retail / E-commerce,Analytics Manager,skill_machine_learning,Machine Learning,0,18,0,0
+Retail / E-commerce,Analytics Manager,skill_powerbi,Powerbi,0,18,0,0
+Retail / E-commerce,Analytics Manager,skill_python,Python,0,18,0,0
+Retail / E-commerce,Analytics Manager,skill_r,R,0,18,0,0
+Retail / E-commerce,Analytics Manager,skill_sas,Sas,0,18,0,0
+Retail / E-commerce,Analytics Manager,skill_sql,Sql,0,18,0,0
+Retail / E-commerce,Analytics Manager,skill_statistics,Statistics,0,18,0,0
+Retail / E-commerce,Analytics Manager,skill_tableau,Tableau,0,18,0,0
+Retail / E-commerce,Data Analyst,skill_data_analysis,Data Analysis,2,4,0.5,50
+Retail / E-commerce,Data Analyst,skill_data_visualization,Data Visualization,1,4,0.25,25
+Retail / E-commerce,Data Analyst,skill_reporting,Reporting,1,4,0.25,25
+Retail / E-commerce,Data Analyst,skill_cloud,Cloud,0,4,0,0
+Retail / E-commerce,Data Analyst,skill_communication,Communication,0,4,0,0
+Retail / E-commerce,Data Analyst,skill_database,Database,0,4,0,0
+Retail / E-commerce,Data Analyst,skill_etl,Etl,0,4,0,0
+Retail / E-commerce,Data Analyst,skill_excel,Excel,0,4,0,0
+Retail / E-commerce,Data Analyst,skill_machine_learning,Machine Learning,0,4,0,0
+Retail / E-commerce,Data Analyst,skill_powerbi,Powerbi,0,4,0,0
+Retail / E-commerce,Data Analyst,skill_python,Python,0,4,0,0
+Retail / E-commerce,Data Analyst,skill_r,R,0,4,0,0
+Retail / E-commerce,Data Analyst,skill_sas,Sas,0,4,0,0
+Retail / E-commerce,Data Analyst,skill_sql,Sql,0,4,0,0
+Retail / E-commerce,Data Analyst,skill_statistics,Statistics,0,4,0,0
+Retail / E-commerce,Data Analyst,skill_tableau,Tableau,0,4,0,0
+Retail / E-commerce,Data Engineer,skill_data_analysis,Data Analysis,1,1,1,100
+Retail / E-commerce,Data Engineer,skill_etl,Etl,1,1,1,100
+Retail / E-commerce,Data Engineer,skill_cloud,Cloud,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_communication,Communication,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_data_visualization,Data Visualization,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_database,Database,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_excel,Excel,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_machine_learning,Machine Learning,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_powerbi,Powerbi,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_python,Python,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_r,R,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_reporting,Reporting,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_sas,Sas,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_sql,Sql,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_statistics,Statistics,0,1,0,0
+Retail / E-commerce,Data Engineer,skill_tableau,Tableau,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_cloud,Cloud,1,1,1,100
+Retail / E-commerce,Data Scientist,skill_communication,Communication,1,1,1,100
+Retail / E-commerce,Data Scientist,skill_data_analysis,Data Analysis,1,1,1,100
+Retail / E-commerce,Data Scientist,skill_data_visualization,Data Visualization,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_database,Database,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_etl,Etl,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_excel,Excel,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_machine_learning,Machine Learning,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_powerbi,Powerbi,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_python,Python,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_r,R,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_reporting,Reporting,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_sas,Sas,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_sql,Sql,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_statistics,Statistics,0,1,0,0
+Retail / E-commerce,Data Scientist,skill_tableau,Tableau,0,1,0,0
+Retail / E-commerce,Financial Analyst,skill_data_analysis,Data Analysis,4,6,0.6666666666666666,66.66666666666666
+Retail / E-commerce,Financial Analyst,skill_reporting,Reporting,4,6,0.6666666666666666,66.66666666666666
+Retail / E-commerce,Financial Analyst,skill_powerbi,Powerbi,1,6,0.16666666666666666,16.666666666666664
+Retail / E-commerce,Financial Analyst,skill_statistics,Statistics,1,6,0.16666666666666666,16.666666666666664
+Retail / E-commerce,Financial Analyst,skill_cloud,Cloud,0,6,0,0
+Retail / E-commerce,Financial Analyst,skill_communication,Communication,0,6,0,0
+Retail / E-commerce,Financial Analyst,skill_data_visualization,Data Visualization,0,6,0,0
+Retail / E-commerce,Financial Analyst,skill_database,Database,0,6,0,0
+Retail / E-commerce,Financial Analyst,skill_etl,Etl,0,6,0,0
+Retail / E-commerce,Financial Analyst,skill_excel,Excel,0,6,0,0
+Retail / E-commerce,Financial Analyst,skill_machine_learning,Machine Learning,0,6,0,0
+Retail / E-commerce,Financial Analyst,skill_python,Python,0,6,0,0
+Retail / E-commerce,Financial Analyst,skill_r,R,0,6,0,0
+Retail / E-commerce,Financial Analyst,skill_sas,Sas,0,6,0,0
+Retail / E-commerce,Financial Analyst,skill_sql,Sql,0,6,0,0
+Retail / E-commerce,Financial Analyst,skill_tableau,Tableau,0,6,0,0
+Retail / E-commerce,Market Research Analyst,skill_cloud,Cloud,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_communication,Communication,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_data_analysis,Data Analysis,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_data_visualization,Data Visualization,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_database,Database,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_etl,Etl,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_excel,Excel,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_machine_learning,Machine Learning,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_powerbi,Powerbi,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_python,Python,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_r,R,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_reporting,Reporting,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_sas,Sas,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_sql,Sql,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_statistics,Statistics,0,1,0,0
+Retail / E-commerce,Market Research Analyst,skill_tableau,Tableau,0,1,0,0
+Retail / E-commerce,Product Analyst,skill_cloud,Cloud,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_communication,Communication,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_data_analysis,Data Analysis,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_data_visualization,Data Visualization,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_database,Database,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_etl,Etl,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_excel,Excel,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_machine_learning,Machine Learning,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_powerbi,Powerbi,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_python,Python,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_r,R,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_reporting,Reporting,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_sas,Sas,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_sql,Sql,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_statistics,Statistics,0,2,0,0
+Retail / E-commerce,Product Analyst,skill_tableau,Tableau,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_reporting,Reporting,2,2,1,100
+Retail / E-commerce,Reporting Analyst,skill_data_analysis,Data Analysis,1,2,0.5,50
+Retail / E-commerce,Reporting Analyst,skill_cloud,Cloud,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_communication,Communication,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_data_visualization,Data Visualization,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_database,Database,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_etl,Etl,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_excel,Excel,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_machine_learning,Machine Learning,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_powerbi,Powerbi,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_python,Python,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_r,R,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_sas,Sas,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_sql,Sql,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_statistics,Statistics,0,2,0,0
+Retail / E-commerce,Reporting Analyst,skill_tableau,Tableau,0,2,0,0
+Technology,Analytics Manager,skill_data_analysis,Data Analysis,37,37,1,100
+Technology,Analytics Manager,skill_reporting,Reporting,6,37,0.16216216216216217,16.216216216216218
+Technology,Analytics Manager,skill_cloud,Cloud,3,37,0.08108108108108109,8.108108108108109
+Technology,Analytics Manager,skill_data_visualization,Data Visualization,2,37,0.05405405405405406,5.405405405405405
+Technology,Analytics Manager,skill_r,R,2,37,0.05405405405405406,5.405405405405405
+Technology,Analytics Manager,skill_sql,Sql,2,37,0.05405405405405406,5.405405405405405
+Technology,Analytics Manager,skill_statistics,Statistics,2,37,0.05405405405405406,5.405405405405405
+Technology,Analytics Manager,skill_communication,Communication,1,37,0.02702702702702703,2.7027027027027026
+Technology,Analytics Manager,skill_database,Database,0,37,0,0
+Technology,Analytics Manager,skill_etl,Etl,0,37,0,0
+Technology,Analytics Manager,skill_excel,Excel,0,37,0,0
+Technology,Analytics Manager,skill_machine_learning,Machine Learning,0,37,0,0
+Technology,Analytics Manager,skill_powerbi,Powerbi,0,37,0,0
+Technology,Analytics Manager,skill_python,Python,0,37,0,0
+Technology,Analytics Manager,skill_sas,Sas,0,37,0,0
+Technology,Analytics Manager,skill_tableau,Tableau,0,37,0,0
+Technology,Business Analyst,skill_data_analysis,Data Analysis,32,75,0.4266666666666667,42.66666666666667
+Technology,Business Analyst,skill_reporting,Reporting,11,75,0.14666666666666667,14.666666666666666
+Technology,Business Analyst,skill_communication,Communication,9,75,0.12,12
+Technology,Business Analyst,skill_data_visualization,Data Visualization,4,75,0.05333333333333334,5.333333333333334
+Technology,Business Analyst,skill_tableau,Tableau,3,75,0.04,4
+Technology,Business Analyst,skill_powerbi,Powerbi,2,75,0.02666666666666667,2.666666666666667
+Technology,Business Analyst,skill_sql,Sql,2,75,0.02666666666666667,2.666666666666667
+Technology,Business Analyst,skill_cloud,Cloud,1,75,0.013333333333333334,1.3333333333333335
+Technology,Business Analyst,skill_excel,Excel,1,75,0.013333333333333334,1.3333333333333335
+Technology,Business Analyst,skill_python,Python,1,75,0.013333333333333334,1.3333333333333335
+Technology,Business Analyst,skill_statistics,Statistics,1,75,0.013333333333333334,1.3333333333333335
+Technology,Business Analyst,skill_database,Database,0,75,0,0
+Technology,Business Analyst,skill_etl,Etl,0,75,0,0
+Technology,Business Analyst,skill_machine_learning,Machine Learning,0,75,0,0
+Technology,Business Analyst,skill_r,R,0,75,0,0
+Technology,Business Analyst,skill_sas,Sas,0,75,0,0
+Technology,Business Intelligence,skill_reporting,Reporting,23,41,0.5609756097560976,56.09756097560976
+Technology,Business Intelligence,skill_data_analysis,Data Analysis,20,41,0.4878048780487805,48.78048780487805
+Technology,Business Intelligence,skill_data_visualization,Data Visualization,19,41,0.4634146341463415,46.34146341463415
+Technology,Business Intelligence,skill_powerbi,Powerbi,7,41,0.17073170731707318,17.073170731707318
+Technology,Business Intelligence,skill_sql,Sql,7,41,0.17073170731707318,17.073170731707318
+Technology,Business Intelligence,skill_database,Database,6,41,0.14634146341463414,14.634146341463413
+Technology,Business Intelligence,skill_tableau,Tableau,5,41,0.12195121951219512,12.195121951219512
+Technology,Business Intelligence,skill_cloud,Cloud,1,41,0.024390243902439025,2.4390243902439024
+Technology,Business Intelligence,skill_communication,Communication,1,41,0.024390243902439025,2.4390243902439024
+Technology,Business Intelligence,skill_etl,Etl,1,41,0.024390243902439025,2.4390243902439024
+Technology,Business Intelligence,skill_machine_learning,Machine Learning,1,41,0.024390243902439025,2.4390243902439024
+Technology,Business Intelligence,skill_r,R,1,41,0.024390243902439025,2.4390243902439024
+Technology,Business Intelligence,skill_excel,Excel,0,41,0,0
+Technology,Business Intelligence,skill_python,Python,0,41,0,0
+Technology,Business Intelligence,skill_sas,Sas,0,41,0,0
+Technology,Business Intelligence,skill_statistics,Statistics,0,41,0,0
+Technology,Data Analyst,skill_data_analysis,Data Analysis,46,102,0.45098039215686275,45.09803921568628
+Technology,Data Analyst,skill_reporting,Reporting,26,102,0.2549019607843137,25.49019607843137
+Technology,Data Analyst,skill_data_visualization,Data Visualization,22,102,0.21568627450980393,21.568627450980394
+Technology,Data Analyst,skill_sql,Sql,18,102,0.17647058823529413,17.647058823529413
+Technology,Data Analyst,skill_powerbi,Powerbi,13,102,0.12745098039215685,12.745098039215685
+Technology,Data Analyst,skill_python,Python,10,102,0.09803921568627451,9.803921568627452
+Technology,Data Analyst,skill_excel,Excel,9,102,0.08823529411764706,8.823529411764707
+Technology,Data Analyst,skill_tableau,Tableau,7,102,0.06862745098039216,6.862745098039216
+Technology,Data Analyst,skill_cloud,Cloud,6,102,0.058823529411764705,5.88235294117647
+Technology,Data Analyst,skill_statistics,Statistics,6,102,0.058823529411764705,5.88235294117647
+Technology,Data Analyst,skill_database,Database,5,102,0.049019607843137254,4.901960784313726
+Technology,Data Analyst,skill_communication,Communication,4,102,0.0392156862745098,3.9215686274509802
+Technology,Data Analyst,skill_etl,Etl,3,102,0.029411764705882353,2.941176470588235
+Technology,Data Analyst,skill_r,R,3,102,0.029411764705882353,2.941176470588235
+Technology,Data Analyst,skill_machine_learning,Machine Learning,1,102,0.00980392156862745,0.9803921568627451
+Technology,Data Analyst,skill_sas,Sas,0,102,0,0
+Technology,Data Engineer,skill_etl,Etl,66,133,0.49624060150375937,49.62406015037594
+Technology,Data Engineer,skill_data_analysis,Data Analysis,54,133,0.40601503759398494,40.6015037593985
+Technology,Data Engineer,skill_cloud,Cloud,47,133,0.3533834586466165,35.338345864661655
+Technology,Data Engineer,skill_sql,Sql,42,133,0.3157894736842105,31.57894736842105
+Technology,Data Engineer,skill_python,Python,37,133,0.2781954887218045,27.819548872180448
+Technology,Data Engineer,skill_database,Database,27,133,0.20300751879699247,20.30075187969925
+Technology,Data Engineer,skill_reporting,Reporting,18,133,0.13533834586466165,13.533834586466165
+Technology,Data Engineer,skill_machine_learning,Machine Learning,11,133,0.08270676691729323,8.270676691729323
+Technology,Data Engineer,skill_data_visualization,Data Visualization,5,133,0.03759398496240601,3.7593984962406015
+Technology,Data Engineer,skill_communication,Communication,4,133,0.03007518796992481,3.007518796992481
+Technology,Data Engineer,skill_excel,Excel,3,133,0.022556390977443608,2.2556390977443606
+Technology,Data Engineer,skill_r,R,3,133,0.022556390977443608,2.2556390977443606
+Technology,Data Engineer,skill_powerbi,Powerbi,2,133,0.015037593984962405,1.5037593984962405
+Technology,Data Engineer,skill_tableau,Tableau,2,133,0.015037593984962405,1.5037593984962405
+Technology,Data Engineer,skill_sas,Sas,1,133,0.007518796992481203,0.7518796992481203
+Technology,Data Engineer,skill_statistics,Statistics,0,133,0,0
+Technology,Data Scientist,skill_data_analysis,Data Analysis,36,88,0.4090909090909091,40.909090909090914
+Technology,Data Scientist,skill_machine_learning,Machine Learning,36,88,0.4090909090909091,40.909090909090914
+Technology,Data Scientist,skill_statistics,Statistics,20,88,0.22727272727272727,22.727272727272727
+Technology,Data Scientist,skill_python,Python,16,88,0.18181818181818182,18.181818181818183
+Technology,Data Scientist,skill_cloud,Cloud,12,88,0.13636363636363635,13.636363636363635
+Technology,Data Scientist,skill_data_visualization,Data Visualization,6,88,0.06818181818181818,6.8181818181818175
+Technology,Data Scientist,skill_etl,Etl,6,88,0.06818181818181818,6.8181818181818175
+Technology,Data Scientist,skill_r,R,6,88,0.06818181818181818,6.8181818181818175
+Technology,Data Scientist,skill_sql,Sql,6,88,0.06818181818181818,6.8181818181818175
+Technology,Data Scientist,skill_reporting,Reporting,4,88,0.045454545454545456,4.545454545454546
+Technology,Data Scientist,skill_communication,Communication,3,88,0.03409090909090909,3.4090909090909087
+Technology,Data Scientist,skill_powerbi,Powerbi,3,88,0.03409090909090909,3.4090909090909087
+Technology,Data Scientist,skill_database,Database,2,88,0.022727272727272728,2.272727272727273
+Technology,Data Scientist,skill_tableau,Tableau,2,88,0.022727272727272728,2.272727272727273
+Technology,Data Scientist,skill_sas,Sas,1,88,0.011363636363636364,1.1363636363636365
+Technology,Data Scientist,skill_excel,Excel,0,88,0,0
+Technology,Database Role,skill_database,Database,54,54,1,100
+Technology,Database Role,skill_sql,Sql,23,54,0.42592592592592593,42.592592592592595
+Technology,Database Role,skill_data_analysis,Data Analysis,12,54,0.2222222222222222,22.22222222222222
+Technology,Database Role,skill_cloud,Cloud,9,54,0.16666666666666666,16.666666666666664
+Technology,Database Role,skill_reporting,Reporting,5,54,0.09259259259259259,9.25925925925926
+Technology,Database Role,skill_etl,Etl,2,54,0.037037037037037035,3.7037037037037033
+Technology,Database Role,skill_data_visualization,Data Visualization,1,54,0.018518518518518517,1.8518518518518516
+Technology,Database Role,skill_excel,Excel,1,54,0.018518518518518517,1.8518518518518516
+Technology,Database Role,skill_powerbi,Powerbi,1,54,0.018518518518518517,1.8518518518518516
+Technology,Database Role,skill_python,Python,1,54,0.018518518518518517,1.8518518518518516
+Technology,Database Role,skill_communication,Communication,0,54,0,0
+Technology,Database Role,skill_machine_learning,Machine Learning,0,54,0,0
+Technology,Database Role,skill_r,R,0,54,0,0
+Technology,Database Role,skill_sas,Sas,0,54,0,0
+Technology,Database Role,skill_statistics,Statistics,0,54,0,0
+Technology,Database Role,skill_tableau,Tableau,0,54,0,0
+Technology,Financial Analyst,skill_data_analysis,Data Analysis,23,29,0.7931034482758621,79.3103448275862
+Technology,Financial Analyst,skill_communication,Communication,16,29,0.5517241379310345,55.172413793103445
+Technology,Financial Analyst,skill_reporting,Reporting,6,29,0.20689655172413793,20.689655172413794
+Technology,Financial Analyst,skill_cloud,Cloud,2,29,0.06896551724137931,6.896551724137931
+Technology,Financial Analyst,skill_database,Database,2,29,0.06896551724137931,6.896551724137931
+Technology,Financial Analyst,skill_data_visualization,Data Visualization,1,29,0.034482758620689655,3.4482758620689653
+Technology,Financial Analyst,skill_excel,Excel,1,29,0.034482758620689655,3.4482758620689653
+Technology,Financial Analyst,skill_sql,Sql,1,29,0.034482758620689655,3.4482758620689653
+Technology,Financial Analyst,skill_etl,Etl,0,29,0,0
+Technology,Financial Analyst,skill_machine_learning,Machine Learning,0,29,0,0
+Technology,Financial Analyst,skill_powerbi,Powerbi,0,29,0,0
+Technology,Financial Analyst,skill_python,Python,0,29,0,0
+Technology,Financial Analyst,skill_r,R,0,29,0,0
+Technology,Financial Analyst,skill_sas,Sas,0,29,0,0
+Technology,Financial Analyst,skill_statistics,Statistics,0,29,0,0
+Technology,Financial Analyst,skill_tableau,Tableau,0,29,0,0
+Technology,Market Research Analyst,skill_data_analysis,Data Analysis,55,59,0.9322033898305084,93.22033898305084
+Technology,Market Research Analyst,skill_reporting,Reporting,55,59,0.9322033898305084,93.22033898305084
+Technology,Market Research Analyst,skill_communication,Communication,2,59,0.03389830508474576,3.389830508474576
+Technology,Market Research Analyst,skill_excel,Excel,2,59,0.03389830508474576,3.389830508474576
+Technology,Market Research Analyst,skill_sql,Sql,2,59,0.03389830508474576,3.389830508474576
+Technology,Market Research Analyst,skill_statistics,Statistics,2,59,0.03389830508474576,3.389830508474576
+Technology,Market Research Analyst,skill_cloud,Cloud,1,59,0.01694915254237288,1.694915254237288
+Technology,Market Research Analyst,skill_database,Database,1,59,0.01694915254237288,1.694915254237288
+Technology,Market Research Analyst,skill_python,Python,1,59,0.01694915254237288,1.694915254237288
+Technology,Market Research Analyst,skill_data_visualization,Data Visualization,0,59,0,0
+Technology,Market Research Analyst,skill_etl,Etl,0,59,0,0
+Technology,Market Research Analyst,skill_machine_learning,Machine Learning,0,59,0,0
+Technology,Market Research Analyst,skill_powerbi,Powerbi,0,59,0,0
+Technology,Market Research Analyst,skill_r,R,0,59,0,0
+Technology,Market Research Analyst,skill_sas,Sas,0,59,0,0
+Technology,Market Research Analyst,skill_tableau,Tableau,0,59,0,0
+Technology,Operations Analyst,skill_data_analysis,Data Analysis,10,147,0.06802721088435375,6.802721088435375
+Technology,Operations Analyst,skill_reporting,Reporting,4,147,0.027210884353741496,2.7210884353741496
+Technology,Operations Analyst,skill_cloud,Cloud,3,147,0.02040816326530612,2.0408163265306123
+Technology,Operations Analyst,skill_communication,Communication,3,147,0.02040816326530612,2.0408163265306123
+Technology,Operations Analyst,skill_database,Database,1,147,0.006802721088435374,0.6802721088435374
+Technology,Operations Analyst,skill_etl,Etl,1,147,0.006802721088435374,0.6802721088435374
+Technology,Operations Analyst,skill_excel,Excel,1,147,0.006802721088435374,0.6802721088435374
+Technology,Operations Analyst,skill_machine_learning,Machine Learning,1,147,0.006802721088435374,0.6802721088435374
+Technology,Operations Analyst,skill_data_visualization,Data Visualization,0,147,0,0
+Technology,Operations Analyst,skill_powerbi,Powerbi,0,147,0,0
+Technology,Operations Analyst,skill_python,Python,0,147,0,0
+Technology,Operations Analyst,skill_r,R,0,147,0,0
+Technology,Operations Analyst,skill_sas,Sas,0,147,0,0
+Technology,Operations Analyst,skill_sql,Sql,0,147,0,0
+Technology,Operations Analyst,skill_statistics,Statistics,0,147,0,0
+Technology,Operations Analyst,skill_tableau,Tableau,0,147,0,0
+Technology,Other Data/Analytics Role,skill_data_analysis,Data Analysis,7,28,0.25,25
+Technology,Other Data/Analytics Role,skill_database,Database,7,28,0.25,25
+Technology,Other Data/Analytics Role,skill_cloud,Cloud,4,28,0.14285714285714285,14.285714285714285
+Technology,Other Data/Analytics Role,skill_reporting,Reporting,3,28,0.10714285714285714,10.714285714285714
+Technology,Other Data/Analytics Role,skill_communication,Communication,2,28,0.07142857142857142,7.142857142857142
+Technology,Other Data/Analytics Role,skill_sql,Sql,2,28,0.07142857142857142,7.142857142857142
+Technology,Other Data/Analytics Role,skill_etl,Etl,1,28,0.03571428571428571,3.571428571428571
+Technology,Other Data/Analytics Role,skill_data_visualization,Data Visualization,0,28,0,0
+Technology,Other Data/Analytics Role,skill_excel,Excel,0,28,0,0
+Technology,Other Data/Analytics Role,skill_machine_learning,Machine Learning,0,28,0,0
+Technology,Other Data/Analytics Role,skill_powerbi,Powerbi,0,28,0,0
+Technology,Other Data/Analytics Role,skill_python,Python,0,28,0,0
+Technology,Other Data/Analytics Role,skill_r,R,0,28,0,0
+Technology,Other Data/Analytics Role,skill_sas,Sas,0,28,0,0
+Technology,Other Data/Analytics Role,skill_statistics,Statistics,0,28,0,0
+Technology,Other Data/Analytics Role,skill_tableau,Tableau,0,28,0,0
+Technology,Product Analyst,skill_data_analysis,Data Analysis,33,71,0.4647887323943662,46.478873239436616
+Technology,Product Analyst,skill_communication,Communication,5,71,0.07042253521126761,7.042253521126761
+Technology,Product Analyst,skill_reporting,Reporting,5,71,0.07042253521126761,7.042253521126761
+Technology,Product Analyst,skill_cloud,Cloud,3,71,0.04225352112676056,4.225352112676056
+Technology,Product Analyst,skill_sql,Sql,3,71,0.04225352112676056,4.225352112676056
+Technology,Product Analyst,skill_etl,Etl,1,71,0.014084507042253521,1.4084507042253522
+Technology,Product Analyst,skill_machine_learning,Machine Learning,1,71,0.014084507042253521,1.4084507042253522
+Technology,Product Analyst,skill_python,Python,1,71,0.014084507042253521,1.4084507042253522
+Technology,Product Analyst,skill_r,R,1,71,0.014084507042253521,1.4084507042253522
+Technology,Product Analyst,skill_data_visualization,Data Visualization,0,71,0,0
+Technology,Product Analyst,skill_database,Database,0,71,0,0
+Technology,Product Analyst,skill_excel,Excel,0,71,0,0
+Technology,Product Analyst,skill_powerbi,Powerbi,0,71,0,0
+Technology,Product Analyst,skill_sas,Sas,0,71,0,0
+Technology,Product Analyst,skill_statistics,Statistics,0,71,0,0
+Technology,Product Analyst,skill_tableau,Tableau,0,71,0,0
+Technology,Reporting Analyst,skill_reporting,Reporting,16,16,1,100
+Technology,Reporting Analyst,skill_data_analysis,Data Analysis,6,16,0.375,37.5
+Technology,Reporting Analyst,skill_data_visualization,Data Visualization,3,16,0.1875,18.75
+Technology,Reporting Analyst,skill_communication,Communication,2,16,0.125,12.5
+Technology,Reporting Analyst,skill_database,Database,2,16,0.125,12.5
+Technology,Reporting Analyst,skill_etl,Etl,2,16,0.125,12.5
+Technology,Reporting Analyst,skill_sql,Sql,2,16,0.125,12.5
+Technology,Reporting Analyst,skill_tableau,Tableau,2,16,0.125,12.5
+Technology,Reporting Analyst,skill_excel,Excel,1,16,0.0625,6.25
+Technology,Reporting Analyst,skill_powerbi,Powerbi,1,16,0.0625,6.25
+Technology,Reporting Analyst,skill_cloud,Cloud,0,16,0,0
+Technology,Reporting Analyst,skill_machine_learning,Machine Learning,0,16,0,0
+Technology,Reporting Analyst,skill_python,Python,0,16,0,0
+Technology,Reporting Analyst,skill_r,R,0,16,0,0
+Technology,Reporting Analyst,skill_sas,Sas,0,16,0,0
+Technology,Reporting Analyst,skill_statistics,Statistics,0,16,0,0
+Transportation / Logistics,Analytics Manager,skill_data_analysis,Data Analysis,6,6,1,100
+Transportation / Logistics,Analytics Manager,skill_communication,Communication,3,6,0.5,50
+Transportation / Logistics,Analytics Manager,skill_reporting,Reporting,1,6,0.16666666666666666,16.666666666666664
+Transportation / Logistics,Analytics Manager,skill_cloud,Cloud,0,6,0,0
+Transportation / Logistics,Analytics Manager,skill_data_visualization,Data Visualization,0,6,0,0
+Transportation / Logistics,Analytics Manager,skill_database,Database,0,6,0,0
+Transportation / Logistics,Analytics Manager,skill_etl,Etl,0,6,0,0
+Transportation / Logistics,Analytics Manager,skill_excel,Excel,0,6,0,0
+Transportation / Logistics,Analytics Manager,skill_machine_learning,Machine Learning,0,6,0,0
+Transportation / Logistics,Analytics Manager,skill_powerbi,Powerbi,0,6,0,0
+Transportation / Logistics,Analytics Manager,skill_python,Python,0,6,0,0
+Transportation / Logistics,Analytics Manager,skill_r,R,0,6,0,0
+Transportation / Logistics,Analytics Manager,skill_sas,Sas,0,6,0,0
+Transportation / Logistics,Analytics Manager,skill_sql,Sql,0,6,0,0
+Transportation / Logistics,Analytics Manager,skill_statistics,Statistics,0,6,0,0
+Transportation / Logistics,Analytics Manager,skill_tableau,Tableau,0,6,0,0
+Transportation / Logistics,Business Analyst,skill_powerbi,Powerbi,1,1,1,100
+Transportation / Logistics,Business Analyst,skill_cloud,Cloud,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_communication,Communication,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_data_analysis,Data Analysis,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_data_visualization,Data Visualization,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_database,Database,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_etl,Etl,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_excel,Excel,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_machine_learning,Machine Learning,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_python,Python,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_r,R,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_reporting,Reporting,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_sas,Sas,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_sql,Sql,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_statistics,Statistics,0,1,0,0
+Transportation / Logistics,Business Analyst,skill_tableau,Tableau,0,1,0,0
+Transportation / Logistics,Data Analyst,skill_data_analysis,Data Analysis,2,2,1,100
+Transportation / Logistics,Data Analyst,skill_statistics,Statistics,1,2,0.5,50
+Transportation / Logistics,Data Analyst,skill_cloud,Cloud,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_communication,Communication,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_data_visualization,Data Visualization,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_database,Database,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_etl,Etl,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_excel,Excel,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_machine_learning,Machine Learning,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_powerbi,Powerbi,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_python,Python,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_r,R,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_reporting,Reporting,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_sas,Sas,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_sql,Sql,0,2,0,0
+Transportation / Logistics,Data Analyst,skill_tableau,Tableau,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_cloud,Cloud,1,2,0.5,50
+Transportation / Logistics,Data Engineer,skill_data_analysis,Data Analysis,1,2,0.5,50
+Transportation / Logistics,Data Engineer,skill_machine_learning,Machine Learning,1,2,0.5,50
+Transportation / Logistics,Data Engineer,skill_communication,Communication,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_data_visualization,Data Visualization,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_database,Database,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_etl,Etl,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_excel,Excel,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_powerbi,Powerbi,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_python,Python,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_r,R,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_reporting,Reporting,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_sas,Sas,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_sql,Sql,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_statistics,Statistics,0,2,0,0
+Transportation / Logistics,Data Engineer,skill_tableau,Tableau,0,2,0,0
+Transportation / Logistics,Data Scientist,skill_data_analysis,Data Analysis,4,6,0.6666666666666666,66.66666666666666
+Transportation / Logistics,Data Scientist,skill_statistics,Statistics,3,6,0.5,50
+Transportation / Logistics,Data Scientist,skill_database,Database,1,6,0.16666666666666666,16.666666666666664
+Transportation / Logistics,Data Scientist,skill_etl,Etl,1,6,0.16666666666666666,16.666666666666664
+Transportation / Logistics,Data Scientist,skill_cloud,Cloud,0,6,0,0
+Transportation / Logistics,Data Scientist,skill_communication,Communication,0,6,0,0
+Transportation / Logistics,Data Scientist,skill_data_visualization,Data Visualization,0,6,0,0
+Transportation / Logistics,Data Scientist,skill_excel,Excel,0,6,0,0
+Transportation / Logistics,Data Scientist,skill_machine_learning,Machine Learning,0,6,0,0
+Transportation / Logistics,Data Scientist,skill_powerbi,Powerbi,0,6,0,0
+Transportation / Logistics,Data Scientist,skill_python,Python,0,6,0,0
+Transportation / Logistics,Data Scientist,skill_r,R,0,6,0,0
+Transportation / Logistics,Data Scientist,skill_reporting,Reporting,0,6,0,0
+Transportation / Logistics,Data Scientist,skill_sas,Sas,0,6,0,0
+Transportation / Logistics,Data Scientist,skill_sql,Sql,0,6,0,0
+Transportation / Logistics,Data Scientist,skill_tableau,Tableau,0,6,0,0
+Transportation / Logistics,Financial Analyst,skill_data_analysis,Data Analysis,2,4,0.5,50
+Transportation / Logistics,Financial Analyst,skill_reporting,Reporting,2,4,0.5,50
+Transportation / Logistics,Financial Analyst,skill_cloud,Cloud,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_communication,Communication,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_data_visualization,Data Visualization,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_database,Database,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_etl,Etl,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_excel,Excel,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_machine_learning,Machine Learning,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_powerbi,Powerbi,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_python,Python,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_r,R,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_sas,Sas,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_sql,Sql,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_statistics,Statistics,0,4,0,0
+Transportation / Logistics,Financial Analyst,skill_tableau,Tableau,0,4,0,0
+Transportation / Logistics,Operations Analyst,skill_communication,Communication,1,6,0.16666666666666666,16.666666666666664
+Transportation / Logistics,Operations Analyst,skill_reporting,Reporting,1,6,0.16666666666666666,16.666666666666664
+Transportation / Logistics,Operations Analyst,skill_cloud,Cloud,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_data_analysis,Data Analysis,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_data_visualization,Data Visualization,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_database,Database,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_etl,Etl,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_excel,Excel,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_machine_learning,Machine Learning,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_powerbi,Powerbi,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_python,Python,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_r,R,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_sas,Sas,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_sql,Sql,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_statistics,Statistics,0,6,0,0
+Transportation / Logistics,Operations Analyst,skill_tableau,Tableau,0,6,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_cloud,Cloud,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_communication,Communication,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_data_analysis,Data Analysis,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_data_visualization,Data Visualization,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_database,Database,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_etl,Etl,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_excel,Excel,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_machine_learning,Machine Learning,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_powerbi,Powerbi,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_python,Python,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_r,R,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_reporting,Reporting,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_sas,Sas,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_sql,Sql,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_statistics,Statistics,0,3,0,0
+Transportation / Logistics,Other Data/Analytics Role,skill_tableau,Tableau,0,3,0,0
+Transportation / Logistics,Product Analyst,skill_cloud,Cloud,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_communication,Communication,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_data_analysis,Data Analysis,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_data_visualization,Data Visualization,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_database,Database,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_etl,Etl,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_excel,Excel,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_machine_learning,Machine Learning,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_powerbi,Powerbi,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_python,Python,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_r,R,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_reporting,Reporting,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_sas,Sas,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_sql,Sql,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_statistics,Statistics,0,1,0,0
+Transportation / Logistics,Product Analyst,skill_tableau,Tableau,0,1,0,0

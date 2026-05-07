@@ -468,6 +468,58 @@ write_csv(
 )
 
 # -------------------------------
+# 14b. Skill share by industry and role category
+# This table is calculated directly from job-level data.
+# It supports Tableau views with both industry and role filters.
+# -------------------------------
+
+eda_skill_by_industry_role <- final_data |>
+  select(
+    job_id,
+    company_industry,
+    llm_role_category_clean,
+    all_of(skill_columns)
+  ) |>
+  pivot_longer(
+    cols = all_of(skill_columns),
+    names_to = "skill",
+    values_to = "has_skill"
+  ) |>
+  mutate(
+    has_skill = as.integer(has_skill)
+  ) |>
+  left_join(
+    skill_label_lookup,
+    by = "skill"
+  ) |>
+  group_by(
+    company_industry,
+    llm_role_category_clean,
+    skill,
+    skill_label
+  ) |>
+  summarize(
+    postings_with_skill = n_distinct(job_id[has_skill == 1]),
+    total_group_postings = n_distinct(job_id),
+    skill_share = postings_with_skill / total_group_postings,
+    skill_share_pct = skill_share * 100,
+    .groups = "drop"
+  ) |>
+  arrange(
+    company_industry,
+    llm_role_category_clean,
+    desc(skill_share_pct)
+  )
+
+write_csv(
+  eda_skill_by_industry_role,
+  "output/eda_skill_by_industry_role.csv"
+)
+
+cat("\nSkill by industry and role preview:\n")
+print(eda_skill_by_industry_role |> head(30))
+
+# -------------------------------
 # 15. Industry by role summary
 # -------------------------------
 eda_industry_role_summary <- final_data |>
@@ -628,7 +680,6 @@ write_csv(
   eda_title_group_by_industry,
   "output/eda_title_group_by_industry.csv"
 )
-
 # -------------------------------
 # Print key outputs
 # -------------------------------
